@@ -13,7 +13,7 @@ I am currently an undergraduate student studying at Purdue Univesity. I used to 
 
 2017 - now Researcher at Purdue University, instructed by Professor He Wang
 
-2017 - now IMWUT Volunteer Reviewer
+2017 - now ACM IMWUT Volunteer Reviewer
 
 ## Projects:
 
