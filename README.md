@@ -7,33 +7,20 @@ I am currently an undergraduate student studying at Purdue Univesity. I used to 
 
 ## Experiences:
 
-2016 - 2017 Research intern at Carnegie Mellon University, instrcuted by Dr. Fanglin Chen
-[Chimps Lab](http://cmuchimps.org/)
-
+2017 - now ACM IMWUT Volunteer Reviewer
 
 2017 - now Researcher at Purdue University, instructed by Professor He Wang
 
-2017 - now ACM IMWUT Volunteer Reviewer
+2016 - 2017 Research intern at Carnegie Mellon University, instrcuted by Dr. Fanglin Chen
+[Chimps Lab](http://cmuchimps.org/)
 
 ## Projects:
 
-2013 Audio Directional Speaker. Patent [C]
+2016 - 2017 MessageOnTap: An intelligent agent in instant messaging through the length of personal data. [Java, Android, ...]
 
-2014 OurManager: University drom management website [j2ee]
+[github](https://github.com/MessageOnTap)
 
-2015 Intelligent Chess Algorithm, Advanced A* Tree: [C#]
-
-2015 Hackathon Moving Lightening Screen: [C++]
-
-2016 LocationClustering: [java]
-
-[github](https://github.com/gaoliyao/LocationClustering)
-
-[medium](https://medium.com/@marsgaocv/a-new-method-of-personal-location-classification-156ff8fc5c2c)
-
-2016 TimeParser: [java]
-
-[github](https://github.com/gaoliyao/TimeParser)
+2016 - 2017 PersonalKnowledgeGraph: A graph based personal data engine
 
 2016 Repetitive Dialogue Detection: [java]
 
@@ -41,11 +28,23 @@ I am currently an undergraduate student studying at Purdue Univesity. I used to 
 
 [google doc](https://docs.google.com/presentation/d/1kfDppvLh4PJA7ZBC5u8tlobFVcXXSuc-3RhUbo5gs8o/edit)
 
-2016 - 2017 MessageOnTap: An intelligent agent in instant messaging through the length of personal data. [Java, Android, ...]
+2016 TimeParser: [java]
 
-[github](https://github.com/MessageOnTap)
+[github](https://github.com/gaoliyao/TimeParser)
 
-2016 - 2017 PersonalKnowledgeGraph: A graph based personal data engine
+2016 LocationClustering: [java]
+
+[github](https://github.com/gaoliyao/LocationClustering)
+
+[medium](https://medium.com/@marsgaocv/a-new-method-of-personal-location-classification-156ff8fc5c2c)
+
+2015 Hackathon Moving Lightening Screen: [C++]
+
+2015 Intelligent Chess Algorithm, Advanced A* Tree: [C#]
+
+2014 OurManager: University drom management website [j2ee]
+
+2013 Audio Directional Speaker. Patent [C]
 
 2017 - DeepScrub: Member TBD
 
@@ -56,9 +55,9 @@ I am currently an undergraduate student studying at Purdue Univesity. I used to 
 ## Past Honors and Awards: 
 ### Academic Awards
 
-2012 - China National Astronomy Olympics 1st Place
-
 2013 - China Adolesence Science and Technology Innovation Competition Gold Prize
+
+2012 - China National Astronomy Olympics 1st Place
 
 ### Past Scholoarships: 
 
@@ -70,9 +69,9 @@ I am currently an undergraduate student studying at Purdue Univesity. I used to 
 
 ### Sports Awards: 
 
-2014 - Daxia Cup Badminton Competition 1st Place
-
 2017 - American Middle Soccer Cup 2nd Place
+
+2014 - Daxia Cup Badminton Competition 1st Place
 
 ## Publications
 TBD
