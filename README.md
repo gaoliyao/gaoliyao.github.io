@@ -28,7 +28,7 @@ I am currently an undergraduate student studying at Purdue Univesity. I used to 
 
 2016 TimeParser: [java]
 
-[github](https://github.com/gaoliyao/TimeParser)
+[github](https://gaoliyao.github.io/TimeParser/)
 
 2016 LocationClustering: [java]
 
