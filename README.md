@@ -24,9 +24,7 @@ I am currently an undergraduate student studying at Purdue Univesity. I used to 
 
 2016 Repetitive Dialogue Detection: [java]
 
-[github](https://github.com/gaoliyao/RDD_Demo)
-
-[google doc](https://docs.google.com/presentation/d/1kfDppvLh4PJA7ZBC5u8tlobFVcXXSuc-3RhUbo5gs8o/edit)
+[github](https://github.com/gaoliyao/RDD_Demo)  [google doc](https://docs.google.com/presentation/d/1kfDppvLh4PJA7ZBC5u8tlobFVcXXSuc-3RhUbo5gs8o/edit)
 
 2016 TimeParser: [java]
 
@@ -34,9 +32,7 @@ I am currently an undergraduate student studying at Purdue Univesity. I used to 
 
 2016 LocationClustering: [java]
 
-[github](https://github.com/gaoliyao/LocationClustering)
-
-[medium](https://medium.com/@marsgaocv/a-new-method-of-personal-location-classification-156ff8fc5c2c)
+[github](https://github.com/gaoliyao/LocationClustering)  [medium](https://medium.com/@marsgaocv/a-new-method-of-personal-location-classification-156ff8fc5c2c)
 
 2015 Hackathon Moving Lightening Screen: [C++]
 
@@ -75,3 +71,8 @@ I am currently an undergraduate student studying at Purdue Univesity. I used to 
 
 ## Publications
 TBD
+
+## Contant
+Email: MarsGao AT purdue DOT edu
+
+       MarsGaoCV AT gmail DOT com
