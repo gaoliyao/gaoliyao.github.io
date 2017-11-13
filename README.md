@@ -15,23 +15,16 @@ I am currently an undergraduate student studying at Purdue Univesity. I used to 
 
 ## Projects:
 
-2016 - 2017 MessageOnTap: An intelligent agent in instant messaging through the length of personal data. [Java, Android, ...]
+2016 - 2017 MessageOnTap: An intelligent agent in instant messaging through the length of personal data. [Java, Android](https://github.com/MessageOnTap)
 
-[github](https://github.com/MessageOnTap)
 
 2016 - 2017 PersonalKnowledgeGraph: A graph based personal data engine
 
-2016 Repetitive Dialogue Detection: [java]
+2016 Repetitive Dialogue Detection: [java](https://github.com/gaoliyao/RDD_Demo) [google doc](https://docs.google.com/presentation/d/1kfDppvLh4PJA7ZBC5u8tlobFVcXXSuc-3RhUbo5gs8o/edit)
 
-[github](https://github.com/gaoliyao/RDD_Demo)  [google doc](https://docs.google.com/presentation/d/1kfDppvLh4PJA7ZBC5u8tlobFVcXXSuc-3RhUbo5gs8o/edit)
+2016 TimeParser: [java](https://gaoliyao.github.io/TimeParser/)
 
-2016 TimeParser: [java]
-
-[github](https://gaoliyao.github.io/TimeParser/)
-
-2016 LocationClustering: [java]
-
-[github](https://github.com/gaoliyao/LocationClustering)  [medium](https://medium.com/@marsgaocv/a-new-method-of-personal-location-classification-156ff8fc5c2c)
+2016 LocationClustering: [java](https://github.com/gaoliyao/LocationClustering) [medium](https://medium.com/@marsgaocv/a-new-method-of-personal-location-classification-156ff8fc5c2c)
 
 2015 Hackathon Moving Lightening Screen: [C++]
 
@@ -73,5 +66,4 @@ TBD
 
 ## Contant
 Email: MarsGao AT purdue DOT edu
-
        MarsGaoCV AT gmail DOT com
