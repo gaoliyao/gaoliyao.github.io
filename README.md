@@ -65,8 +65,10 @@ I am currently an undergraduate student studying at Purdue Univesity. I used to 
 TBD
 
 ## Contant
-Email: MarsGao AT purdue DOT edu
-       MarsGaoCV AT gmail DOT com
+Email: 
+MarsGao AT purdue DOT edu
+       
+MarsGaoCV AT gmail DOT com
 
 (https://github.com/MessageOnTap)
 
