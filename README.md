@@ -64,7 +64,7 @@ I am currently an undergraduate student studying at Purdue Univesity. I used to 
 ## Publications
 TBD
 
-## Contant
+## Contact
 Email: 
 MarsGao AT purdue DOT edu
        
