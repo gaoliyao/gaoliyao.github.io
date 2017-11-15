@@ -70,6 +70,13 @@ MarsGao AT purdue DOT edu
        
 MarsGaoCV AT gmail DOT com
 
+## Interesting Facts About Me
+[ENTJ - Commander](https://www.16personalities.com/entj-personality)
+
+[IQ Test 32/33](https://www.mensa.lu/en/mensa/online-iq-test/online-iq-test.html)
+
+[Aries](http://www.astrology-zodiac-signs.com/zodiac-signs/aries/)
+## Links
 (https://github.com/MessageOnTap)
 
 (https://github.com/gaoliyao/RDD_Demo) [google doc](https://docs.google.com/presentation/d/1kfDppvLh4PJA7ZBC5u8tlobFVcXXSuc-3RhUbo5gs8o/edit)
@@ -77,3 +84,4 @@ MarsGaoCV AT gmail DOT com
 (https://gaoliyao.github.io/TimeParser/)
 
 (https://github.com/gaoliyao/LocationClustering) [medium](https://medium.com/@marsgaocv/a-new-method-of-personal-location-classification-156ff8fc5c2c)
+
