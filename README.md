@@ -6,8 +6,6 @@ I am currently an undergraduate student studying at Purdue Univesity. I used to 
 
 ## Experiences:
 
-2017 - now ACM IMWUT Reviewer
-
 2017 - now Researcher at Purdue University, instructed by Professor He Wang
 
 2016 - 2017 Research intern at Carnegie Mellon University, instrcuted by Dr. Fanglin Chen
