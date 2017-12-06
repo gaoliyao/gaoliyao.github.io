@@ -1,5 +1,5 @@
 # Liyao Gao
-I am currently an undergraduate student studying at Purdue Univesity. I used to work as a research assistant at Carnegie Mellon University and I am currently doing research on deep learning and computer vision at Purdue University, instructed by Professor He Wang. My research interest are on Artificial Intelligence, Human Centered Machine Learning and Mobile System. 
+I am currently an undergraduate student studying at Purdue Univesity. I used to work as a research assistant at Carnegie Mellon University and I am currently doing research on deep learning and computer vision at Purdue University, instructed by Professor He Wang. My research interests are on Artificial Intelligence, Human Centered Machine Learning and Mobile System. 
 ![Carnegie Mellon University Newell Simon Hall](http://wtwarchitects.com/wp-content/uploads/2014/08/CMU_CS_ExtBikeRack-1-635x505.jpg)
 ![Purdue University Lawson Hall](http://jackkozik.com/wp-content/gallery/purdue040513/purdue040513-6051.jpg)
 
