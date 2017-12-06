@@ -69,11 +69,7 @@ MarsGao AT purdue DOT edu
 MarsGaoCV AT gmail DOT com
 
 ## Interesting Facts About Me
-[ENTJ - Commander](https://www.16personalities.com/entj-personality)
 
-[IQ Test 32/33](https://www.mensa.lu/en/mensa/online-iq-test/online-iq-test.html)
-
-[Aries](http://www.astrology-zodiac-signs.com/zodiac-signs/aries/)
 ## Links
 (https://github.com/MessageOnTap)
 
