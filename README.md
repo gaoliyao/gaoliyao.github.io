@@ -68,7 +68,12 @@ MarsGao AT purdue DOT edu
        
 MarsGaoCV AT gmail DOT com
 
-## Interesting Facts About Me
+## Current GPA
+4.0 
+
+(A+: Anlytc Geomtry&Calc I, Intro To Sys Devel)
+
+(A: Progrmng With MM Objs, Am Lang&Cultur Intl I, Indoor Localization II)
 
 ## Links
 (https://github.com/MessageOnTap)
