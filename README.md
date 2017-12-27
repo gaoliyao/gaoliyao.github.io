@@ -41,6 +41,10 @@ I am currently an undergraduate student studying at Purdue Univesity. I used to 
 ## Past Honors and Awards: 
 ### Academic Awards
 
+2017 - Semester Honors: Purdue University
+
+2017 - Dean's List Honors: Purdue Polytechnic Institute
+
 2013 - China Adolesence Science and Technology Innovation Competition Gold Prize
 
 2012 - China National Astronomy Olympics 1st Place
@@ -71,9 +75,15 @@ MarsGaoCV AT gmail DOT com
 ## Current GPA
 4.0 
 
-(A+: Anlytc Geomtry&Calc I, Intro To Sys Devel)
+Anlytc Geomtry&Calc I: A+, 96
 
-(A: Progrmng With MM Objs, Am Lang&Cultur Intl I, Indoor Localization II)
+Intro To Sys Devel: A+, 97
+
+Progrmng With MM Objs: A, 96 
+
+Am Lang&Cultur Intl I: A, 96
+
+Indoor Localization II: A
 
 ## Links
 (https://github.com/MessageOnTap)
