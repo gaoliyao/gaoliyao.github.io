@@ -1,7 +1,7 @@
 # Year 2017
 
 ## MessageOnTap
-<img src="https://github.com/gaoliyao/gaoliyao.github.io/blob/master/MOT.png" width="48">
+<img src="https://github.com/gaoliyao/gaoliyao.github.io/blob/master/MOT.png" width="480">
 
 
 One of the most important work for me in 2017 is MessageOnTap. MessageOnTap is an intelligent agent for instant messaging application through the length of personal data. People spend most of their time on Messaging Applications when using smartphones. As an important port of communication, messaging applications exchange a lot of information. Sometimes, people might need to store or retrieve information using other services on smartphones, such as photos or calendar. Users, often times, need to be the glue that connects di erent apps together.[1] However, the smartphones actually do able to get all of the information. This will not only save time for the user, but also increase the capability of smartphones. We were trying to combine personal data with cooresponding opeartions on smartphones. 
