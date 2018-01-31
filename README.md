@@ -1,5 +1,5 @@
 # Liyao Gao
-I am currently an undergraduate student studying at Purdue Univesity. I used to work as a research assistant at Carnegie Mellon University and I am currently doing research on deep learning and computer vision at Purdue University, instructed by Professor [He Wang](https://www.cs.purdue.edu/homes/hw/). My research interests are on Machine Learning, Deep Learning and Mobile System. 
+I am currently an undergraduate student studying at Purdue Univesity. I used to work as a research assistant at Carnegie Mellon University and I am currently doing research on deep learning at Purdue University, instructed by Professor [He Wang](https://www.cs.purdue.edu/homes/hw/). My research interests are on Machine Learning, Deep Learning and Mobile System. 
 ![Carnegie Mellon University Newell Simon Hall](http://wtwarchitects.com/wp-content/uploads/2014/08/CMU_CS_ExtBikeRack-1-635x505.jpg)
 ![Purdue University Lawson Hall](http://jackkozik.com/wp-content/gallery/purdue040513/purdue040513-6051.jpg)
 
@@ -13,8 +13,13 @@ I am currently an undergraduate student studying at Purdue Univesity. I used to 
 
 ## Projects:
 
-2016 - 2017 MessageOnTap: An intelligent agent in instant messaging through the length of personal data. [Java, Android]
+2018 - now Currently doing research on a new architecture of Neural Network.  [TBD]
 
+2018 - now Contributor to OpenGenus: 'World's first offline search engine'.  [Website](https://github.com/OpenGenu)
+
+2017 - 2018 PoseSimulator: A pose data simulator in generating training data of pose tracking algorithm. [Python]
+
+2016 - 2017 MessageOnTap: An intelligent agent in instant messaging through the length of personal data. [Java, Android]
 
 2016 - 2017 PersonalKnowledgeGraph: A graph based personal data engine
 
@@ -37,6 +42,9 @@ I am currently an undergraduate student studying at Purdue Univesity. I used to 
 2017 - now Pose Tracking Data Simulator: TBD
 
 2017 - now Multi-human Tracking with Pose: TBD
+
+## Education
+2017 - now Student at Purdue University. (Statistics)
 
 ## Past Honors and Awards: 
 ### Academic Awards
@@ -93,4 +101,6 @@ Indoor Localization II: A
 (https://gaoliyao.github.io/TimeParser/)
 
 (https://github.com/gaoliyao/LocationClustering) [medium](https://medium.com/@marsgaocv/a-new-method-of-personal-location-classification-156ff8fc5c2c)
+
+(https://github.com/PoseTracking/PoseSimulator)
 
