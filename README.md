@@ -37,11 +37,6 @@ I am currently an undergraduate student studying at Purdue Univesity. I used to 
 
 2013 Audio Directional Speaker. Patent [C]
 
-2017 - DeepScrub: Member TBD
-
-2017 - now Pose Tracking Data Simulator: TBD
-
-2017 - now Multi-human Tracking with Pose: TBD
 
 ## Education
 2017 - now Student at Purdue University. (Statistics)
