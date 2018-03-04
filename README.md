@@ -15,7 +15,7 @@ I am currently an undergraduate student studying at Purdue Univesity. I used to 
 
 2018 - now Currently doing research on a new architecture of Neural Network.  [TBD]
 
-2018 - now Contributor to OpenGenus: 'World's first offline search engine'.  [Website](https://github.com/OpenGenu)
+2018 - now Contributor to OpenGenus: 'World's first offline search engine'.  [Website](https://github.com/OpenGenu)[Star: 6338]
 
 2017 - 2018 PoseSimulator: A pose data simulator in generating training data of pose tracking algorithm. [Python]
 
