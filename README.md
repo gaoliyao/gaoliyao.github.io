@@ -8,7 +8,9 @@ I am currently an undergraduate student studying at Purdue Univesity. I used to 
 
 2017 - now Researcher at Purdue University, instructed by Professor He Wang
 
-2016 - 2017 Research intern at Carnegie Mellon University, instrcuted by Dr. Fanglin Chen
+2016 - Research intern at Carnegie Mellon University, instructed by Dr. Xinlei Chen
+
+2016 - 2017 Researcher at Carnegie Mellon University, cooperated with Dr. Fanglin Chen
 [Chimps Lab](http://cmuchimps.org/)
 
 ## Projects:
