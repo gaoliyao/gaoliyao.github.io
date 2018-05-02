@@ -41,7 +41,7 @@ I am currently an undergraduate student studying at Purdue Univesity. I am curre
 
 
 ## Education
-2017 - now Student at Purdue University. (Statistics)
+2017 - now Student at Purdue University. (Mathematics and Computer Science)
 
 ## Past Honors and Awards: 
 ### Academic Awards
