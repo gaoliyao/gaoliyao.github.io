@@ -84,11 +84,13 @@ Anlytc Geomtry&Calc I: A+, 96
 
 Intro To Sys Devel: A+, 97
 
-Progrmng With MM Objs: A, 96 
+Progrmng With MM Objs: A, 97
 
-Am Lang&Cultur Intl I: A, 96
+Am Lang&Cultur Intl I: A, 97
 
 Indoor Localization II: A
+
+Anlytc Geomtry&Calc II: A+, 95
 
 ## Links
 (https://github.com/MessageOnTap)
