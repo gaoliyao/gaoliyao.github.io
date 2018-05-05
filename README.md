@@ -92,6 +92,8 @@ Indoor Localization II: A
 
 Anlytc Geomtry&Calc II: A+, 95
 
+Am Lang&Cultur Intl I: A, 97 (in Prof. Ty Climer's course)
+
 ## Links
 (https://github.com/MessageOnTap)
 
