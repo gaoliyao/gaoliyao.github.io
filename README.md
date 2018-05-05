@@ -80,19 +80,21 @@ MarsGaoCV AT gmail DOT com
 ## Current GPA
 4.0 
 
-Anlytc Geomtry&Calc I: A+, 96
+MA 16500 Anlytc Geomtry&Calc I: A+, 96
 
-Intro To Sys Devel: A+, 97
+CNIT 18000 Intro To Sys Devel: A+, 97
 
-Progrmng With MM Objs: A, 97
+CS 17700 Progrmng With MM Objs: A, 97
 
-Am Lang&Cultur Intl I: A, 97
+ENGL 110 Am Lang&Cultur Intl I: A, 97
 
-Indoor Localization II: A
+CS 49000 Indoor Localization II: A
 
-Anlytc Geomtry&Calc II: A+, 95
+MA 16600 Anlytc Geomtry&Calc II: A+, 95
 
-Am Lang&Cultur Intl I: A, 97 (in Prof. Ty Climer's course)
+ENGL 11100 Am Lang&Cultur Intl I: A, 97 (in Prof. Ty Climer's course)
+
+CS 18000 Prob Solvng & OO Progrmng: A/A+, 97
 
 ## Links
 (https://github.com/MessageOnTap)
