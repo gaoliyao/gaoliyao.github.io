@@ -46,6 +46,8 @@ I am currently an undergraduate student studying at Purdue Univesity. I am curre
 ## Past Honors and Awards: 
 ### Academic Awards
 
+2018 - Dean's List & Semester Honors: Purdue University
+
 2017 - Semester Honors: Purdue University
 
 2017 - Dean's List Honors: Purdue Polytechnic Institute
