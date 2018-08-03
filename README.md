@@ -13,7 +13,7 @@ I am currently an undergraduate student studying at Purdue Univesity. I am curre
 
 2018 - now Currently doing research on an architecture of neural network and theory in deep learning.  [TBD]
 
-- CrtxNN: A biological applaudable neural network architecture 
+- [CrtxNN](https://arxiv.org/abs/1804.03313): A biological applaudable neural network architecture 
 
 - Reflection: learning from clustering the mistakes
 
@@ -23,6 +23,8 @@ I am currently an undergraduate student studying at Purdue Univesity. I am curre
 
 
 2017 - now PoseSimulator: A pose data simulator in generating training data of pose tracking algorithm. [Python]
+
+ - 3D generalization of pose data
 
 
 ## Former works:
