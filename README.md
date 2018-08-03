@@ -5,22 +5,40 @@ I am currently an undergraduate student studying at Purdue Univesity. I am curre
 ![Carnegie Mellon University Newell Simon Hall](http://wtwarchitects.com/wp-content/uploads/2014/08/CMU_CS_ExtBikeRack-1-635x505.jpg)
 
 
-## Experiences:
+## Current: 
 
 2017 - now Researcher at Purdue University, instructed by Professor He Wang
+
+## Ongoing projects: 
+
+2018 - now Currently doing research on an architecture of neural network and theory in deep learning.  [TBD]
+
+- CrtxNN: A biological applaudable neural network architecture 
+
+- Reflection: learning from clustering the mistakes
+
+- OptimalLayer: deep learning requires optimal layer number
+
+- Ambiguous cases: a method to estimate learning difficulty
+
+
+2017 - now PoseSimulator: A pose data simulator in generating training data of pose tracking algorithm. [Python]
+
+
+## Former works:
+
+### Experiences
 
 2016 - Research intern at Carnegie Mellon University, instructed by Dr. Xinlei Chen
 
 2016 - 2017 Researcher at Carnegie Mellon University, cooperate with Dr. Fanglin Chen
 [Chimps Lab](http://cmuchimps.org/)
 
-## Projects:
+### Projects
 
 2018 - now Currently doing research on a new architecture of Neural Network.  [TBD]
 
 2018 - now Contributor to OpenGenus: 'World's first offline search engine'.  [Website](https://github.com/OpenGenus)[Star: 6338]
-
-2017 - 2018 PoseSimulator: A pose data simulator in generating training data of pose tracking algorithm. [Python]
 
 2016 - 2017 MessageOnTap: An intelligent agent in instant messaging through the length of personal data. [Java, Android]
 
