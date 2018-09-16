@@ -1,5 +1,5 @@
 # Liyao Gao
-I am currently an undergraduate student studying at Purdue Univesity. I am currently doing research on deep learning at Purdue University, instructed by Professor [He Wang](https://www.cs.purdue.edu/homes/hw/). I used to work as a researcher at Carnegie Mellon University. My research interests are on Learning Theory and Mobile System. 
+I am currently an undergraduate student studying at Purdue Univesity. I am currently doing research on deep learning at Purdue University, instructed by Professor [He Wang](https://www.cs.purdue.edu/homes/hw/) in SIMBA Lab. I used to work as a researcher at Carnegie Mellon University. My research interests are on Learning Theory and Mobile System. 
 ![Purdue University Lawson Hall](http://jackkozik.com/wp-content/gallery/purdue040513/purdue040513-6051.jpg)
 
 ![Carnegie Mellon University Newell Simon Hall](http://wtwarchitects.com/wp-content/uploads/2014/08/CMU_CS_ExtBikeRack-1-635x505.jpg)
@@ -7,7 +7,7 @@ I am currently an undergraduate student studying at Purdue Univesity. I am curre
 
 ## Current: 
 
-2017 - now Researcher at Purdue University, instructed by Professor He Wang
+2017 - now Researcher at Purdue University, instructed by Professor He Wang, SIMBA Lab.
 
 ## Ongoing projects: 
 
@@ -35,6 +35,8 @@ I am currently an undergraduate student studying at Purdue Univesity. I am curre
 
 2016 - 2017 Researcher at Carnegie Mellon University, cooperate with Dr. Fanglin Chen
 [Chimps Lab](http://cmuchimps.org/)
+
+2018 Summer - Research intern at Tsinghua University, instructed by Dr. Xinlei Chen, Prof. Yong Li
 
 ### Projects
 
