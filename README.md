@@ -133,10 +133,6 @@ CS 49000: Neural Network: A+ (Instructed by Prof. He Wang)
 (https://github.com/gaoliyao/LocationClustering) [medium](https://medium.com/@marsgaocv/a-new-method-of-personal-location-classification-156ff8fc5c2c)
 
 (https://github.com/PoseTracking/PoseSimulator)
-
-\sum_{\substack{0<i<m\0<j<n}} P(i, j)
- \sum_{i=1}^{10} t_i
- \int_0^\infty \mathrm{e}^{-x}\,\mathrm{d}x
  
  $ \sum_{\forall i}{x_i^{2}} $
 
