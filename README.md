@@ -134,3 +134,7 @@ CS 49000: Neural Network: A+ (Instructed by Prof. He Wang)
 
 (https://github.com/PoseTracking/PoseSimulator)
 
+	\sum_{\substack{0<i<m\0<j<n}} P(i, j)
+ \sum_{i=1}^{10} t_i
+ \int_0^\infty \mathrm{e}^{-x}\,\mathrm{d}x
+
