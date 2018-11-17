@@ -7,7 +7,7 @@ I am currently an undergraduate student studying at Purdue Univesity. I am curre
 
 ## Current: 
 
-2017 - now Researcher at Purdue University, instructed by Professor He Wang, SIMBA Lab.
+2017 - now Researcher at Purdue University, instructed by Professor He Wang, [SIMBA Lab](https://simbalab.cs.purdue.edu/).
 
 ## Ongoing projects: 
 
@@ -15,7 +15,7 @@ I am currently an undergraduate student studying at Purdue Univesity. I am curre
 
 - [CrtxNN](https://arxiv.org/abs/1804.03313): A biological applaudable neural network architecture 
 
-- Reflection: learning from clustering the mistakes
+- [Reflection](https://gaoliyao.github.io/CortexNeuralNetwork/): learning from clustering the mistakes
 
 - OptimalLayer: deep learning requires optimal layer number
 
