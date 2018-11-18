@@ -134,6 +134,3 @@ CS 49000: Neural Network: A+ (Instructed by Prof. He Wang)
 
 (https://github.com/PoseTracking/PoseSimulator)
  
- $ \sum_{\forall i}{x_i^{2}} $
-
-
