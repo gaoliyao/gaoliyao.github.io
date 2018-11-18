@@ -1,4 +1,3 @@
-# Liyao Gao
 I am currently an undergraduate student studying at Purdue Univesity. I am currently doing research on deep learning at Purdue University, instructed by Professor [He Wang](https://www.cs.purdue.edu/homes/hw/) in SIMBA Lab. I used to work as a researcher at Carnegie Mellon University. My research interests are on Learning Theory and Mobile System. 
 ![Purdue University Lawson Hall](http://jackkozik.com/wp-content/gallery/purdue040513/purdue040513-6051.jpg)
 
@@ -11,7 +10,7 @@ I am currently an undergraduate student studying at Purdue Univesity. I am curre
 
 ## Ongoing projects: 
 
-2018 - now Currently doing research on an architecture of neural network and theory in deep learning.  [TBD]
+2018 - now Currently doing research on an architecture of neural network and theory in deep learning.  [Website](https://gaoliyao.github.io/CortexNeuralNetwork)
 
 - [CrtxNN](https://arxiv.org/abs/1804.03313): A biological applaudable neural network architecture 
 
@@ -22,27 +21,24 @@ I am currently an undergraduate student studying at Purdue Univesity. I am curre
 - Ambiguous cases: a method to estimate learning difficulty
 
 
-2017 - now PoseSimulator: A pose data simulator in generating training data of pose tracking algorithm. [Python]
-
- - 3D generalization of pose data
-
-
 ## Former works:
 
 ### Experiences
 
-2016 - Research intern at Carnegie Mellon University, instructed by Dr. Xinlei Chen
+2018 Summer - Research intern at Tsinghua University, instructed by Dr. Xinlei Chen, Prof. Yong Li
 
 2016 - 2017 Researcher at Carnegie Mellon University, cooperate with Dr. Fanglin Chen
 [Chimps Lab](http://cmuchimps.org/)
 
-2018 Summer - Research intern at Tsinghua University, instructed by Dr. Xinlei Chen, Prof. Yong Li
+2016 - Research intern at Carnegie Mellon University, instructed by Dr. Xinlei Chen
 
 ### Projects
 
-2018 - now Currently doing research on a new architecture of Neural Network.  [TBD]
+2018 - now Currently doing research on a new architecture of Neural Network.  [Website](https://gaoliyao.github.io/CortexNeuralNetwork)
 
 2018 - now Contributor to OpenGenus: 'World's first offline search engine'.  [Website](https://github.com/OpenGenus)[Star: 6338]
+
+2017 - PoseSimulator: A pose data simulator in generating training data of pose tracking algorithm. [Python]
 
 2016 - 2017 MessageOnTap: An intelligent agent in instant messaging through the length of personal data. [Java, Android]
 
@@ -94,7 +90,11 @@ I am currently an undergraduate student studying at Purdue Univesity. I am curre
 2014 - Daxia Cup Badminton Competition 1st Place
 
 ## Publications
-TBD
+Revising rejected papers. Hope to appear on some day in the future. 
+
+## Past Reviews
+
+[2017](https://gaoliyao.github.io/report2017)
 
 ## Contact
 Email: 
