@@ -1,4 +1,3 @@
-# Liyao Gao
 I am currently an undergraduate student at Purdue Univesity. I am also doing research on deep learning at Purdue University, instructed by Professor [He Wang](https://www.cs.purdue.edu/homes/hw/) in SIMBA Lab. I used to work as a researcher at Carnegie Mellon University. My research interests are on Learning Theory and Mobile System. 
 ![Purdue University Lawson Hall](http://jackkozik.com/wp-content/gallery/purdue040513/purdue040513-6051.jpg)
 
