@@ -122,6 +122,9 @@ CS 18000 Prob Solvng & OO Progrmng: A/A+, 97
 
 CS 49000: Neural Network: A+ (Instructed by Prof. He Wang)
 
+## Others
+Please view this [link](https://gaoliyao.github.io/others) for my life and other interests. 
+
 ## Links
 (https://github.com/MessageOnTap)
 
