@@ -104,11 +104,13 @@ I am a student at Purdue Univesity in Mathematics. I am doing research in deep l
 2014 - Daxia Cup Badminton Competition 1st Place
 
 ## Publications
-Revising rejected papers. Hope to appear on some day in the future.
 
 #### Poster
 - Reflection [pdf](https://gaoliyao.github.io/img/poster.pdf)
 Purdue Fall Undergraduate Research Exposition
+
+#### In Submission
+Xinlei Chen, Susu Xu, Xinyu Liu, Xiangxiang Xu, Shijia Pan, Liyao Gao, Yuxuan Zhou, Hae Young Noh, Lin Zhang, Pei Zhang. “Adaptive Hybrid Model-enabled Sensing System (HMSS) for Fine-Grained Air Pollution Estimation”. Submitted to ACM SenSys 2019.
 
 #### Preprints
 - [Cortex Neural Network: learning with neural network groups](https://arxiv.org/abs/1804.03313) [pdf](https://gaoliyao.github.io/img/CrtxNN.pdf)
