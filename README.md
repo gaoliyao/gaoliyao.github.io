@@ -21,6 +21,8 @@ I am a student at Purdue Univesity in Mathematics. I am doing research in deep l
 
 2019 - now Research Assistant at Purdue University, instructed by Professor Guang Lin, Dr. Wei Deng. 
 
+2019 - now [Webchair of Ubicomp CPD Workshop](https://ubicomp-cpd.com/). 
+
 2018 - 2019 Software developer at Purdue University (CS 49000), working with Dr. [Hongshan Li](https://www.math.purdue.edu/~li108/) (Brilliant, nice, intelligent researcher in pure mathematics, also working on deep learning theory and applications).  
 
 2017 - now Independent Researcher at Purdue University, instructed by Professor He Wang, [SIMBA Lab](https://simbalab.cs.purdue.edu/)
@@ -110,7 +112,7 @@ I am a student at Purdue Univesity in Mathematics. I am doing research in deep l
 Purdue Fall Undergraduate Research Exposition
 
 #### In Submission
-Xinlei Chen, Susu Xu, Xinyu Liu, Xiangxiang Xu, Shijia Pan, Liyao Gao, Yuxuan Zhou, Hae Young Noh, Lin Zhang, Pei Zhang. “Adaptive Hybrid Model-enabled Sensing System (HMSS) for Fine-Grained Air Pollution Estimation”. Submitted to ACM SenSys 2019.
+- Xinlei Chen, Susu Xu, Xinyu Liu, Xiangxiang Xu, Shijia Pan, Liyao Gao, Yuxuan Zhou, Hae Young Noh, Lin Zhang, Pei Zhang. “Adaptive Hybrid Model-enabled Sensing System (HMSS) for Fine-Grained Air Pollution Estimation”. Submitted to ACM SenSys 2019.
 
 #### Preprints
 - [Cortex Neural Network: learning with neural network groups](https://arxiv.org/abs/1804.03313) [pdf](https://gaoliyao.github.io/img/CrtxNN.pdf)
