@@ -99,7 +99,7 @@ I am a student at Purdue Univesity in Mathematics. I am doing research in deep l
 
 2019 - American Middle Soccer Cup 1st Place
 
-2018 - American Middle Soccer Cup 2nd Place
+2018 - American Middle Soccer Cup 1st Place
 
 2017 - American Middle Soccer Cup 2nd Place
 
