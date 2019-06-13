@@ -1,15 +1,15 @@
-## Current: 
-I am a student at Purdue Univesity in Mathematics. I am doing research in deep learning, Professor [Guang Lin](https://www.math.purdue.edu/~lin491/). I used to work as a research assistant at Carnegie Mellon University. My research interests are on Learning Theory and Neural Network Ensembles. 
+## Current:
+I am a student at Purdue Univesity in Mathematics. I am doing research in deep learning, Professor [Guang Lin](https://www.math.purdue.edu/~lin491/). I used to work as a research assistant at Carnegie Mellon University. My research interests are on Learning Theory and Neural Network Ensembles.
 ![Purdue University Lawson Hall](http://jackkozik.com/wp-content/gallery/purdue040513/purdue040513-6051.jpg)
 
 ![Carnegie Mellon University Newell Simon Hall](http://wtwarchitects.com/wp-content/uploads/2014/08/CMU_CS_ExtBikeRack-1-635x505.jpg)
 
 
-## Ongoing projects: 
+## Ongoing projects:
 
 2018 - now Currently doing research on an architecture of neural network and theory in deep learning.  [Website](https://gaoliyao.github.io/CortexNeuralNetwork)
 
-- [CrtxNN](https://arxiv.org/abs/1804.03313): A biological applaudable neural network architecture 
+- [CrtxNN](https://arxiv.org/abs/1804.03313): A biological applaudable neural network architecture
 
 - [Reflection](https://gaoliyao.github.io/CortexNeuralNetwork/): learning from clustering the mistakes
 
@@ -19,9 +19,9 @@ I am a student at Purdue Univesity in Mathematics. I am doing research in deep l
 
 ### Experiences
 
-2019 - now Research Assistant at Purdue University, instructed by Professor Guang Lin, Dr. Wei Deng. 
+2019 - now Research Assistant at Purdue University, instructed by Professor Guang Lin, Dr. Wei Deng.
 
-2019 - now [Webchair of Ubicomp CPD Workshop](https://ubicomp-cpd.com/). 
+2019 - now [Webchair of Ubicomp CPD Workshop](https://ubicomp-cpd.com/).
 
 2018 - 2019 Software developer at Purdue University (CS 49000), working with Dr. [Hongshan Li](https://www.math.purdue.edu/~li108/) (Brilliant, nice, intelligent researcher in pure mathematics, also working on deep learning theory and applications).  
 
@@ -38,7 +38,7 @@ I am a student at Purdue Univesity in Mathematics. I am doing research in deep l
 
 2018 - now Currently doing research on a new architecture of Neural Network.  [Website](https://gaoliyao.github.io/CortexNeuralNetwork)
 
-2019 - now Rotation-equivariant Neural Network. 
+2019 - now Rotation-equivariant Neural Network.
 
 2019 - 2019 Interpolate: Online PDF annotation platform. [Website](https://interpolate.io/)
 
@@ -68,7 +68,7 @@ I am a student at Purdue Univesity in Mathematics. I am doing research in deep l
 ## Education
 2017 - now Student at Purdue University. (Pure Mathematics and Mathematics with Computer Science)
 
-## Past Honors and Awards: 
+## Past Honors and Awards:
 ### Academic Awards
 
 2019 - Alton D. & Juanita S. Andrews Scholarship
@@ -85,7 +85,7 @@ I am a student at Purdue Univesity in Mathematics. I am doing research in deep l
 
 2012 - China National Astronomy Olympics 1st Place
 
-### Past Scholoarships: 
+### Past Scholoarships:
 
 2019 - Alton D. & Juanita S. Andrews Scholarship ($6000)
 
@@ -95,11 +95,11 @@ I am a student at Purdue Univesity in Mathematics. I am doing research in deep l
 
 2012 - Guangdong Experimental High School Student Award ($300)
 
-### Sports Awards: 
+### Sports Awards:
 
 2019 - American Middle Soccer Cup 1st Place
 
-2018 - American Middle Soccer Cup 1st Place
+2018 - American Middle Soccer Cup 2nd Place
 
 2017 - American Middle Soccer Cup 2nd Place
 
@@ -119,12 +119,12 @@ Purdue Fall Undergraduate Research Exposition
 #### Preprints
 - [Cortex Neural Network: learning with neural network groups](https://arxiv.org/abs/1804.03313) [pdf](https://gaoliyao.github.io/img/CrtxNN.pdf)
 
-- [Learning with Collaborative Neural Network Group by Reflection](https://arxiv.org/pdf/1901.02433.pdf) 
+- [Learning with Collaborative Neural Network Group by Reflection](https://arxiv.org/pdf/1901.02433.pdf)
 
 ## Contact
-Email: 
+Email:
 MarsGao AT purdue DOT edu
-       
+
 MarsGaoCV AT gmail DOT com
 
 ## Current GPA
@@ -176,4 +176,3 @@ Please view this [link](https://gaoliyao.github.io/others) for my life and other
 (https://github.com/gaoliyao/LocationClustering) [medium](https://medium.com/@marsgaocv/a-new-method-of-personal-location-classification-156ff8fc5c2c)
 
 (https://github.com/PoseTracking/PoseSimulator)
- 
