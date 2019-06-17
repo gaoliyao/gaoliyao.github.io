@@ -112,7 +112,7 @@ I am a student at Purdue Univesity in Mathematics. I am doing research in deep l
 Purdue Fall Undergraduate Research Exposition
 
 #### In Submission
-- Xinlei Chen, Susu Xu, Xinyu Liu, Xiangxiang Xu, Shijia Pan, Liyao Gao, Yuxuan Zhou, Hae Young Noh, Lin Zhang, Pei Zhang. “Adaptive Hybrid Model-enabled Sensing System (HMSS) for Fine-Grained Air Pollution Estimation”. Submitted to ACM SenSys 2019.
+- Submitted to ACM SenSys 2019.
 
 - Liyao Gao. “Cortex Inspired Neural Network Ensembles”. Submitted to ICANN 2019.
 
