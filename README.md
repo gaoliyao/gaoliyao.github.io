@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Current:
 I am a student at Purdue Univesity in Mathematics. I am doing research in deep learning, Professor [Guang Lin](https://www.math.purdue.edu/~lin491/). I used to work as a research assistant at Carnegie Mellon University. My research interests are on Learning Theory and Neural Network Ensembles.
 ![Purdue University Lawson Hall](http://jackkozik.com/wp-content/gallery/purdue040513/purdue040513-6051.jpg)
