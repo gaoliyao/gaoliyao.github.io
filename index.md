@@ -23,7 +23,7 @@ I am a student at Purdue Univesity in Mathematics. I am doing research in deep l
 
 ### Experiences
 
-2019 - now Research Assistant at Purdue University, instructed by Professor Guang Lin, Dr. Wei Deng.
+2019 - now Research Assistant at Purdue University, instructed by Professor Guang Lin and Dr. Wei Deng.
 
 2019 - now [Webchair of Ubicomp CPD Workshop](https://ubicomp-cpd.com/).
 
@@ -70,9 +70,9 @@ I am a student at Purdue Univesity in Mathematics. I am doing research in deep l
 
 
 ## Education
-2017 - now Student at Purdue University. (Pure Mathematics and Mathematics with Computer Science)
+2017 - now Student at Purdue University. (Mathematics with Computer Science)
 
-## Past Honors and Awards:
+## Honors and Awards:
 ### Academic Awards
 
 2019 - Alton D. & Juanita S. Andrews Scholarship
@@ -89,7 +89,9 @@ I am a student at Purdue Univesity in Mathematics. I am doing research in deep l
 
 2012 - China National Astronomy Olympics 1st Place
 
-### Past Scholoarships:
+### Scholoarships:
+
+2019 - Research assistantship granted by Prof. Guang Lin (half)
 
 2019 - Alton D. & Juanita S. Andrews Scholarship ($6000)
 
@@ -111,14 +113,15 @@ I am a student at Purdue Univesity in Mathematics. I am doing research in deep l
 
 ## Publications
 
+#### Conference article
+- Gao, Liyao, et al. "Rotation-equivariant convolutional neural network ensembles in image processing." *Proceedings of the 2019 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2019 ACM International Symposium on Wearable Computers*. ACM, 2019. [pdf](https://dl.acm.org/ft_gateway.cfm?id=3349330&ftid=2082607&dwn=1&CFID=174579832&CFTOKEN=2056b8b608a255d0-6FDD2312-FB2D-99B6-12E58D3451BCA0FA) [project link](https://github.com/LouiseHash/Rotation_Equivariant_CNN_Ensembles)
+
 #### Poster
 - Reflection [pdf](https://gaoliyao.github.io/img/poster.pdf)
 Purdue Fall Undergraduate Research Exposition
 
 #### In Submission
-- Submitted to ACM SenSys 2019.
-
-- Liyao Gao. “Cortex Inspired Neural Network Ensembles”. Submitted to ICANN 2019.
+- Submitted to ACM TOSN after major revision.
 
 #### Preprints
 - [Cortex Neural Network: learning with neural network groups](https://arxiv.org/abs/1804.03313) [pdf](https://gaoliyao.github.io/img/CrtxNN.pdf)
