@@ -2,11 +2,9 @@
 layout: default
 ---
 
-## Current:
 I am a student at Purdue Univesity in Mathematics. I am doing research in deep learning, Professor [Guang Lin](https://www.math.purdue.edu/~lin491/). I used to work as a research assistant at Carnegie Mellon University. My research interests are on Learning Theory and Neural Network Ensembles.
 ![Purdue University Lawson Hall](http://jackkozik.com/wp-content/gallery/purdue040513/purdue040513-6051.jpg)
 
-![Carnegie Mellon University Newell Simon Hall](http://wtwarchitects.com/wp-content/uploads/2014/08/CMU_CS_ExtBikeRack-1-635x505.jpg)
 
 
 ## Ongoing projects:
@@ -81,10 +79,8 @@ MarsGao AT purdue DOT edu
 MarsGaoCV AT gmail DOT com
 
 ## Former works:
-
+![Carnegie Mellon University Newell Simon Hall](http://wtwarchitects.com/wp-content/uploads/2014/08/CMU_CS_ExtBikeRack-1-635x505.jpg)
 ### Experiences
-
-2019 - now [Webchair of Ubicomp CPD Workshop](https://ubicomp-cpd.com/).
 
 2018 - 2019 Software developer at Purdue University (CS 49000), working with Dr. [Hongshan Li](https://www.math.purdue.edu/~li108/) (Brilliant, nice, intelligent researcher in pure mathematics, also working on deep learning theory and applications).  
 
