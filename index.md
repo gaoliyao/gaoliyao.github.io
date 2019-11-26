@@ -11,66 +11,12 @@ I am a student at Purdue Univesity in Mathematics. I am doing research in deep l
 
 ## Ongoing projects:
 
-2018 - now Currently doing research on an architecture of neural network and theory in deep learning.  [Website](https://gaoliyao.github.io/CortexNeuralNetwork)
-
-- [CrtxNN](https://arxiv.org/abs/1804.03313): A biological applaudable neural network architecture
-
-- [Reflection](https://gaoliyao.github.io/CortexNeuralNetwork/): learning from clustering the mistakes
-
-- Rotation-equivariant Neural Network
-
-## Former works:
-
-### Experiences
-
 2019 - now Research Assistant at Purdue University, instructed by Professor Guang Lin and Dr. Wei Deng.
-
-2019 - now [Webchair of Ubicomp CPD Workshop](https://ubicomp-cpd.com/).
-
-2018 - 2019 Software developer at Purdue University (CS 49000), working with Dr. [Hongshan Li](https://www.math.purdue.edu/~li108/) (Brilliant, nice, intelligent researcher in pure mathematics, also working on deep learning theory and applications).  
-
-2017 - now Independent Researcher at Purdue University, instructed by Professor He Wang, [SIMBA Lab](https://simbalab.cs.purdue.edu/)
-
-2018 Summer - Research intern at Tsinghua University, instructed by Dr. Xinlei Chen, Prof. Yong Li
-
-2016 - 2017 Researcher at Carnegie Mellon University, cooperate with Dr. Fanglin Chen
-[Chimps Lab](http://cmuchimps.org/)
-
-2016 - Research intern at Carnegie Mellon University, instructed by Dr. Xinlei Chen
-
-### Projects
-
-2018 - now Currently doing research on a new architecture of Neural Network.  [Website](https://gaoliyao.github.io/CortexNeuralNetwork)
-
-2019 - now Rotation-equivariant Neural Network.
-
-2019 - 2019 Interpolate: Online PDF annotation platform. [Website](https://interpolate.io/)
-
-2018 - 2019 Contributor to OpenGenus: 'World's first offline search engine'.  [Website](https://github.com/OpenGenus)[Star: 6338]
-
-2017 - PoseSimulator: A pose data simulator in generating training data of pose tracking algorithm. [Python]
-
-2016 - 2017 MessageOnTap: An intelligent agent in instant messaging through the length of personal data. [Java, Android]
-
-2016 - 2017 PersonalKnowledgeGraph: A graph based personal data engine
-
-2016 Repetitive Dialogue Detection: [java]
-
-2016 TimeParser: [java]
-
-2016 LocationClustering: [java]
-
-2015 Hackathon Moving Lightening Screen: [C++]
-
-2015 Intelligent Chess Algorithm, Advanced A* Tree: [C#]
-
-2014 OurManager: University drom management website [j2ee]
-
-2013 Audio Directional Speaker. Patent [C]
-
+- Non-convex optimization algorithm in deep learning
+- Machine learning under rotation invariant condition for high order tensor
 
 ## Education
-2017 - now Student at Purdue University. (Mathematics with Computer Science)
+2017 - now Student at Purdue University, Mathematics with Computer Science. GPA: 3.89
 
 ## Honors and Awards:
 ### Academic Awards
@@ -134,8 +80,52 @@ MarsGao AT purdue DOT edu
 
 MarsGaoCV AT gmail DOT com
 
-## Current GPA
-3.89
+## Former works:
+
+### Experiences
+
+2019 - now [Webchair of Ubicomp CPD Workshop](https://ubicomp-cpd.com/).
+
+2018 - 2019 Software developer at Purdue University (CS 49000), working with Dr. [Hongshan Li](https://www.math.purdue.edu/~li108/) (Brilliant, nice, intelligent researcher in pure mathematics, also working on deep learning theory and applications).  
+
+2017 - now Independent Researcher at Purdue University, instructed by Professor He Wang, [SIMBA Lab](https://simbalab.cs.purdue.edu/)
+
+2018 Summer - Research intern at Tsinghua University, instructed by Dr. Xinlei Chen, Prof. Yong Li
+
+2016 - 2017 Researcher at Carnegie Mellon University, cooperate with Dr. Fanglin Chen
+[Chimps Lab](http://cmuchimps.org/)
+
+2016 - Research intern at Carnegie Mellon University, instructed by Dr. Xinlei Chen
+
+### Projects
+
+2018 - now Currently doing research on a new architecture of Neural Network.  [Website](https://gaoliyao.github.io/CortexNeuralNetwork)
+
+2019 - now Rotation-equivariant Neural Network.
+
+2019 - 2019 Interpolate: Online PDF annotation platform. [Website](https://interpolate.io/)
+
+2018 - 2019 Contributor to OpenGenus: 'World's first offline search engine'.  [Website](https://github.com/OpenGenus)[Star: 6338]
+
+2017 - PoseSimulator: A pose data simulator in generating training data of pose tracking algorithm. [Python]
+
+2016 - 2017 MessageOnTap: An intelligent agent in instant messaging through the length of personal data. [Java, Android]
+
+2016 - 2017 PersonalKnowledgeGraph: A graph based personal data engine
+
+2016 Repetitive Dialogue Detection: [java]
+
+2016 TimeParser: [java]
+
+2016 LocationClustering: [java]
+
+2015 Hackathon Moving Lightening Screen: [C++]
+
+2015 Intelligent Chess Algorithm, Advanced A* Tree: [C#]
+
+2014 OurManager: University drom management website [j2ee]
+
+2013 Audio Directional Speaker. Patent [C]
 
 [//]: # (MA 35100 Elementary Linear Algebra)
 
