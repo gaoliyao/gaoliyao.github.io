@@ -67,7 +67,7 @@ Purdue Fall Undergraduate Research Exposition
 #### In Submission
 - Submitted to ACM TOSN after major revision.
 
-#### Preprints
+#### Preprints (Use very carefully)
 - [Cortex Neural Network: learning with neural network groups](https://arxiv.org/abs/1804.03313) [pdf](https://gaoliyao.github.io/img/CrtxNN.pdf)
 
 - [Learning with Collaborative Neural Network Group by Reflection](https://arxiv.org/pdf/1901.02433.pdf)
