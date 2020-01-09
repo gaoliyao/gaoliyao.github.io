@@ -1,3 +1,5 @@
+{% include lib/mathjax.html %}
+
 ## Cyclic Groups and Order of Elements in $S_n$
 $\textbf{Theorem 10.1 (Foundamental Theorem of Cyclic groups)}$
 *1. Every subgroup of a cyclic group G is cyclic.*
