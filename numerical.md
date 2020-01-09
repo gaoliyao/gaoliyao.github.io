@@ -1,3 +1,7 @@
+{% include lib/mathjax.html %}
+
+{% include head.html %}
+
 ## Interpolation
 #### Vandermonde Form
 $$\begin{bmatrix}
