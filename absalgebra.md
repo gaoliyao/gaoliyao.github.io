@@ -1,4 +1,5 @@
 {% include lib/mathjax.html %}
+{% include head.html %}
 
 ## Cyclic Groups and Order of Elements in $S_n$
 $\textbf{Theorem 10.1 (Foundamental Theorem of Cyclic groups)}$
