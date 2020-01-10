@@ -1,3 +1,6 @@
+{% include lib/mathjax.html %}
+
+{% include head.html %}
 ## Adaptive Boosting
 The idea of adaptive boosting is not complex at all. However, the full process and proof of this algorithm takes time to digest. I write this note for understanding this algorithm. 
 
