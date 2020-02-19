@@ -27,6 +27,7 @@ $$P[|x-E[x]|\geq a]\leq \frac{1}{a^2}Var[x]$$
 $$P[|x-E[x]|\geq a]=P[[x-E[x]]^2\geq a^2|]\leq \frac{1}{a^2}E[[x-E[x]]^2]$$
 
 Therefore, 
+
 $$P[|x-E[x]|\geq a] \leq \frac{1}{a^2}Var(x)$$
 
 
