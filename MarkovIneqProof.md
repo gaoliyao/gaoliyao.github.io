@@ -59,5 +59,12 @@ Combining all results from previous analysis, we have:
 
 $$P[\frac{1}{n}\sum_{i=1}^{n}x_i\geq\epsilon]\leq min\;(e^{\frac{nt^2}{2}-tn\epsilon})=e^{-n\epsilon^2/2}$$
 
+For arbitrary random variable $x$, the moment generating function is defined as $E[e^{tx}], \forall t \in R$. 
+
+**Theorem 1.3** *Assume that $A$ and $B$ are two  events based on a random variables on $x$. We have that:*
+
+$$P[A(x)\;or\;B(x)]\leq P[A(x)] +P[B(x)]$$
+
+
 
 > Written with [StackEdit](https://stackedit.io/).
