@@ -55,6 +55,9 @@ I am a student at Purdue Univesity in Mathematics. I am doing research in deep l
 
 2014 - Daxia Cup Badminton Competition 1st Place
 
+## Study notes
+- Learning proofs on [stochastic equations](https://gaoliyao.github.io/MarkovIneqProof).
+
 ## Publications
 
 #### Conference article
