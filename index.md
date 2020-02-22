@@ -58,6 +58,8 @@ I am a student at Purdue Univesity in Mathematics. I am doing research in deep l
 ## Study notes
 - Learning proofs on [stochastic equations](https://gaoliyao.github.io/MarkovIneqProof).
 
+- [Abstract algebra](https://gaoliyao.github.io/absalgebra)
+
 ## Publications
 
 #### Conference article
