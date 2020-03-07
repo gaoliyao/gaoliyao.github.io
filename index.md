@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a student at Purdue Univesity in Mathematics. I am doing research in deep learning under supervision of Professor [Guang Lin](https://www.math.purdue.edu/~lin491/). I used to work as a research assistant at Carnegie Mellon University. My research interests are on Learning Theory non-convex optimization, and neural network ensembles.
+I am a student at Purdue Univesity in Mathematics. I am doing research in deep learning under supervision of Professor [Guang Lin](https://www.math.purdue.edu/~lin491/). I used to work as a research assistant at Carnegie Mellon University. I am interested in learning theory, non-convex optimization, and neural network ensembles.
 ![Purdue University Lawson Hall](http://jackkozik.com/wp-content/gallery/purdue040513/purdue040513-6051.jpg)
 
 
