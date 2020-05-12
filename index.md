@@ -6,28 +6,52 @@ I am a student at Purdue Univesity in Mathematics. I am doing research in deep l
 ![Purdue University Lawson Hall](http://jackkozik.com/wp-content/gallery/purdue040513/purdue040513-6051.jpg)
 
 
-
 ## Ongoing projects:
 
 2019 - now Research Assistant at Purdue University, instructed by Professor Guang Lin and Dr. Wei Deng.
-- Non-convex optimization algorithm in deep learning
-- Machine learning under rotation invariant condition for high order tensor
+- Non-convex optimization via SG-MCMC in deep learning. 
+- Group-Equivariance Convolutional Neural Networks. 
+- Machine learning under rotation invariant condition for high order tensors. 
+
+## Publications
+
+#### In Submission
+- Liyao Gao, Yifan Du, Hongshan Li, Guang Lin. "RotEqNet: Rotation-Equivariant Network for Fluid Systems with Symmetric High-Order Tensors." *Submitted to Journal of Computational Physics*. [link](https://arxiv.org/pdf/2005.04286.pdf)
+
+- *Currently under review for ICML 2020.* 
+
+#### Conference article
+- Gao, Liyao, et al. "Rotation-equivariant convolutional neural network ensembles in image processing." *Proceedings of the 2019 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2019 ACM International Symposium on Wearable Computers*. ACM, 2019. [pdf](https://dl.acm.org/ft_gateway.cfm?id=3349330&ftid=2082607&dwn=1&CFID=174579832&CFTOKEN=2056b8b608a255d0-6FDD2312-FB2D-99B6-12E58D3451BCA0FA) [project link](https://github.com/LouiseHash/Rotation_Equivariant_CNN_Ensembles)
+
+#### Journal
+- Xinlei Chen, Carlos Ruiz, Sihan Zeng, *Liyao Gao*, Aveek Purohit, Stefano Carpin, Pei Zhang, et al. "H-DrunkWalk: Collaborative and Adaptive Navigation for Heterogeneous MAV swarm." *Transactions on Sensor Networks*. ACM, 2020. (accepted)
+
+#### Poster
+- Reflection [link](https://gaoliyao.github.io/img/poster.pdf)
+Purdue Fall Undergraduate Research Exposition
+
+#### Preprints
+- [Cortex Neural Network: learning with neural network groups](https://arxiv.org/abs/1804.03313) [link](https://gaoliyao.github.io/img/CrtxNN.pdf)
+
+- [Learning with Collaborative Neural Network Group by Reflection](https://arxiv.org/pdf/1901.02433.pdf)
+Note: these two works are related to brain dynamics in some sense. I am still trying to make better connection between these two concepts. 
+
+## Study notes
+- Learning proofs on [stochastic equations](https://gaoliyao.github.io/MarkovIneqProof).
+
+- [Abstract algebra](https://gaoliyao.github.io/absalgebra)
+
 
 ## Education
 2017 - now Student at Purdue University, Mathematics with Computer Science. GPA: 3.89
 
+
 ## Honors and Awards:
 ### Academic Awards
-
-2019 - Alton D. & Juanita S. Andrews Scholarship
 
 2019 - Certificate of recognition for 2019 Purdue Undergraduate Research Conference
 
 2018 - Dean's List & Semester Honors: Purdue University
-
-2017 - Semester Honors: Purdue University
-
-2017 - Dean's List Honors: Purdue Polytechnic Institute
 
 2013 - China Adolesence Science and Technology Innovation Competition Gold Prize
 
@@ -35,9 +59,9 @@ I am a student at Purdue Univesity in Mathematics. I am doing research in deep l
 
 ### Scholoarships:
 
-2019 - Research assistantship granted by Prof. Guang Lin (half)
+2019 - Research assistantship granted by Prof. Guang Lin 
 
-2019 - Alton D. & Juanita S. Andrews Scholarship ($6000)
+2019 - Alton D. & Juanita S. Andrews Scholarship (top scholarship of Purdue math undergraduate)
 
 2013 - 'Sun' Science and Technology Award ($800)
 
@@ -55,30 +79,6 @@ I am a student at Purdue Univesity in Mathematics. I am doing research in deep l
 
 2014 - Daxia Cup Badminton Competition 1st Place
 
-## Study notes
-- Learning proofs on [stochastic equations](https://gaoliyao.github.io/MarkovIneqProof).
-
-- [Abstract algebra](https://gaoliyao.github.io/absalgebra)
-
-## Publications
-
-#### Conference article
-- Gao, Liyao, et al. "Rotation-equivariant convolutional neural network ensembles in image processing." *Proceedings of the 2019 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2019 ACM International Symposium on Wearable Computers*. ACM, 2019. [pdf](https://dl.acm.org/ft_gateway.cfm?id=3349330&ftid=2082607&dwn=1&CFID=174579832&CFTOKEN=2056b8b608a255d0-6FDD2312-FB2D-99B6-12E58D3451BCA0FA) [project link](https://github.com/LouiseHash/Rotation_Equivariant_CNN_Ensembles)
-
-#### Journal
-- Xinlei Chen, Carlos Ruiz, Sihan Zeng, *Liyao Gao*, Aveek Purohit, Stefano Carpin, Pei Zhang, et al. "H-DrunkWalk: Collaborative and Adaptive Navigation for Heterogeneous MAV swarm." *Transactions on Sensor Networks*. ACM, 2020. (accepted)
-
-#### Poster
-- Reflection [pdf](https://gaoliyao.github.io/img/poster.pdf)
-Purdue Fall Undergraduate Research Exposition
-
-#### In Submission
-- Submitted to ACM TOSN after major revision.
-
-#### Preprints (Use very carefully)
-- [Cortex Neural Network: learning with neural network groups](https://arxiv.org/abs/1804.03313) [pdf](https://gaoliyao.github.io/img/CrtxNN.pdf)
-
-- [Learning with Collaborative Neural Network Group by Reflection](https://arxiv.org/pdf/1901.02433.pdf)
 
 ## Contact
 Email:
