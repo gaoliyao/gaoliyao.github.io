@@ -34,7 +34,7 @@ Purdue Fall Undergraduate Research Exposition
 - [Cortex Neural Network: learning with neural network groups](https://arxiv.org/abs/1804.03313) [link](https://gaoliyao.github.io/img/CrtxNN.pdf)
 
 - [Learning with Collaborative Neural Network Group by Reflection](https://arxiv.org/pdf/1901.02433.pdf)
-Note: these two works are related to brain dynamics in some sense. I am still trying to make better connection between these two concepts. 
+Note: these two works are related to brain dynamics in some sense. I am still trying to make better connection between these two concepts (of Cortex and Ensembles). 
 
 ## Study notes
 - Learning proofs on [stochastic equations](https://gaoliyao.github.io/MarkovIneqProof).
