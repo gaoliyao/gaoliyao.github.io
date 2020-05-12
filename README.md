@@ -10,58 +10,33 @@ I am a student at Purdue Univesity in Mathematics. I am doing research in deep l
 
 ## Ongoing projects:
 
-2018 - now Currently doing research on an architecture of neural network and theory in deep learning.  [Website](https://gaoliyao.github.io/CortexNeuralNetwork)
+- Rotation-Scale-Translation Equivariant Neural Network. 
 
-- [CrtxNN](https://arxiv.org/abs/1804.03313): A biological applaudable neural network architecture
+- Non-convex learning via SG-MCMC. 
 
-- [Reflection](https://gaoliyao.github.io/CortexNeuralNetwork/): learning from clustering the mistakes
-
-- Rotation-equivariant Neural Network
-
-## Former works:
+- Large and small dilemma in learning rates for deep learning. 
 
 ### Experiences
 
 2019 - now Research Assistant at Purdue University, instructed by Professor Guang Lin, Dr. Wei Deng.
 
-2019 - now [Webchair of Ubicomp CPD Workshop](https://ubicomp-cpd.com/).
+2018 - 2019 Software developer at Purdue University (CS 49000), working with Dr. [Hongshan Li](https://www.math.purdue.edu/~li108/).  
 
-2018 - 2019 Software developer at Purdue University (CS 49000), working with Dr. [Hongshan Li](https://www.math.purdue.edu/~li108/) (Brilliant, nice, intelligent researcher in pure mathematics, also working on deep learning theory and applications).  
+2016 - 2019 Research intern at Carnegie Mellon University, instructed by Dr. Xinlei Chen. 
 
-2017 - now Independent Researcher at Purdue University, instructed by Professor He Wang, [SIMBA Lab](https://simbalab.cs.purdue.edu/)
-
-2018 Summer - Research intern at Tsinghua University, instructed by Dr. Xinlei Chen, Prof. Yong Li
-
-2016 - 2017 Researcher at Carnegie Mellon University, cooperate with Dr. Fanglin Chen
-[Chimps Lab](http://cmuchimps.org/)
-
-2016 - Research intern at Carnegie Mellon University, instructed by Dr. Xinlei Chen
-
-### Projects
-
-2018 - now Currently doing research on a new architecture of Neural Network.  [Website](https://gaoliyao.github.io/CortexNeuralNetwork)
+### Past Projects
 
 2019 - now Rotation-equivariant Neural Network.
 
 2019 - 2019 Interpolate: Online PDF annotation platform. [Website](https://interpolate.io/)
 
-2018 - 2019 Contributor to OpenGenus: 'World's first offline search engine'.  [Website](https://github.com/OpenGenus)[Star: 6338]
-
 2017 - PoseSimulator: A pose data simulator in generating training data of pose tracking algorithm. [Python]
 
 2016 - 2017 MessageOnTap: An intelligent agent in instant messaging through the length of personal data. [Java, Android]
 
-2016 - 2017 PersonalKnowledgeGraph: A graph based personal data engine
-
 2016 Repetitive Dialogue Detection: [java]
 
 2016 TimeParser: [java]
-
-2016 LocationClustering: [java]
-
-2015 Hackathon Moving Lightening Screen: [C++]
-
-2015 Intelligent Chess Algorithm, Advanced A* Tree: [C#]
 
 2014 OurManager: University drom management website [j2ee]
 
@@ -74,15 +49,11 @@ I am a student at Purdue Univesity in Mathematics. I am doing research in deep l
 ## Past Honors and Awards:
 ### Academic Awards
 
-2019 - Alton D. & Juanita S. Andrews Scholarship
-
 2019 - Certificate of recognition for 2019 Purdue Undergraduate Research Conference
 
 2018 - Dean's List & Semester Honors: Purdue University
 
 2017 - Semester Honors: Purdue University
-
-2017 - Dean's List Honors: Purdue Polytechnic Institute
 
 2013 - China Adolesence Science and Technology Innovation Competition Gold Prize
 
@@ -90,13 +61,13 @@ I am a student at Purdue Univesity in Mathematics. I am doing research in deep l
 
 ### Past Scholoarships:
 
-2019 - Alton D. & Juanita S. Andrews Scholarship ($6000)
+2019 - Alton D. & Juanita S. Andrews Scholarship (top scholarship for Purdue math undergraduate student)
 
-2013 - 'Sun' Science and Technology Award ($800)
+2013 - 'Sun' Science and Technology Award 
 
-2013 - Mao Yisheng Science and Technology Award ($100)
+2013 - Mao Yisheng Science and Technology Award
 
-2012 - Guangdong Experimental High School Student Award ($300)
+2012 - Guangdong Experimental High School Student Award 
 
 ### Sports Awards:
 
@@ -110,19 +81,23 @@ I am a student at Purdue Univesity in Mathematics. I am doing research in deep l
 
 ## Publications
 
-#### Poster
-- Reflection [pdf](https://gaoliyao.github.io/img/poster.pdf)
-Purdue Fall Undergraduate Research Exposition
-
 #### In Submission
 - Submitted to ACM SenSys 2019.
 
 - Liyao Gao. “Cortex Inspired Neural Network Ensembles”. Submitted to ICANN 2019.
 
+#### Journal and Conference Articles
+
+
+
 #### Preprints
 - [Cortex Neural Network: learning with neural network groups](https://arxiv.org/abs/1804.03313) [pdf](https://gaoliyao.github.io/img/CrtxNN.pdf)
 
 - [Learning with Collaborative Neural Network Group by Reflection](https://arxiv.org/pdf/1901.02433.pdf)
+
+#### Poster
+- Reflection [pdf](https://gaoliyao.github.io/img/poster.pdf)
+Purdue Fall Undergraduate Research Exposition
 
 ## Contact
 Email:
