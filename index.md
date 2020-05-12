@@ -20,13 +20,11 @@ I am a student at Purdue Univesity in Mathematics. I am doing research in deep l
 
 - *Currently under review for ICML 2020.* 
 
-#### Conference article
+#### Conference and Journal articles
 - Gao, Liyao, et al. "Rotation-equivariant convolutional neural network ensembles in image processing." *Proceedings of the 2019 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2019 ACM International Symposium on Wearable Computers*. ACM, 2019. [pdf](https://dl.acm.org/ft_gateway.cfm?id=3349330&ftid=2082607&dwn=1&CFID=174579832&CFTOKEN=2056b8b608a255d0-6FDD2312-FB2D-99B6-12E58D3451BCA0FA) [project link](https://github.com/LouiseHash/Rotation_Equivariant_CNN_Ensembles)
 
-#### Journal
 - Xinlei Chen, Carlos Ruiz, Sihan Zeng, *Liyao Gao*, Aveek Purohit, Stefano Carpin, Pei Zhang, et al. "H-DrunkWalk: Collaborative and Adaptive Navigation for Heterogeneous MAV swarm." *Transactions on Sensor Networks*. ACM, 2020. [link](https://dl.acm.org/doi/abs/10.1145/3382094)
 
-#### Poster
 - Reflection [link](https://gaoliyao.github.io/img/poster.pdf)
 Purdue Fall Undergraduate Research Exposition
 
