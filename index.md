@@ -72,6 +72,7 @@ MarsGao AT purdue DOT edu
 
 MarsGaoCV AT gmail DOT com
 
+<!---
 ## Former works:
 ![Carnegie Mellon University Newell Simon Hall](http://wtwarchitects.com/wp-content/uploads/2014/08/CMU_CS_ExtBikeRack-1-635x505.jpg)
 ### Experiences
@@ -163,3 +164,4 @@ Please view this [link](https://gaoliyao.github.io/others) for my life and other
 (https://github.com/gaoliyao/LocationClustering) [medium](https://medium.com/@marsgaocv/a-new-method-of-personal-location-classification-156ff8fc5c2c)
 
 (https://github.com/PoseTracking/PoseSimulator)
+-->
