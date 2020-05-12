@@ -45,27 +45,15 @@ Note: these two works are related to brain dynamics in some sense. I am still tr
 
 
 ## Honors and Awards:
-### Academic Awards
-
-2019 - Certificate of recognition for 2019 Purdue Undergraduate Research Conference
-
-2018 - Dean's List & Semester Honors: Purdue University
-
-2013 - China Adolesence Science and Technology Innovation Competition Gold Prize
-
-2012 - China National Astronomy Olympics 1st Place
-
-### Scholoarships:
+### Academic Awards and Scholoarships
 
 2019 - Research assistantship granted by Prof. Guang Lin 
 
 2019 - Alton D. & Juanita S. Andrews Scholarship (top scholarship of Purdue math undergraduate)
 
-2013 - 'Sun' Science and Technology Award ($800)
+2013 - China Adolesence Science and Technology Innovation Competition Gold Prize
 
-2013 - Mao Yisheng Science and Technology Award ($100)
-
-2012 - Guangdong Experimental High School Student Award ($300)
+2012 - China National Astronomy Olympics 1st Place
 
 ### Sports Awards:
 
