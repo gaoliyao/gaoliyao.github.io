@@ -1,3 +1,7 @@
+{% include lib/mathjax.html %}
+
+{% include head.html %}
+
 Recall the definition of $\sigma(\mathcal{C})$, we have: 
 
 $$\sigma(\mathcal{C})=\cap\{\mathcal{F}_\alpha: \mathcal{F}_\alpha \text{is a } \sigma \text{-field of subsets of }  \Omega \text{ for which } \mathcal{C}\in \mathcal{F}_\alpha\}$$
