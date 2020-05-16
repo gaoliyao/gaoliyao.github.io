@@ -37,6 +37,8 @@ Note: these two works are related to brain dynamics in some sense. I am still tr
 ## Study notes
 - Learning proofs on [stochastic equations](https://gaoliyao.github.io/MarkovIneqProof).
 
+- [Basic things about measure theory](https://gaoliyao.github.io/measure)
+
 - [Abstract algebra](https://gaoliyao.github.io/absalgebra)
 
 
