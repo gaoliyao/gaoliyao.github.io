@@ -2,23 +2,26 @@
 
 {% include head.html %}
 
-Recall the definition of $\sigma(\mathcal{C})$, we have: 
+### Basics of sets and sigma-algebra
+
+##### Recall the definition of $\sigma(\mathcal{C})$, we have: 
 
 $$\sigma(\mathcal{C})=\cap\{\mathcal{F}_\alpha: \mathcal{F}_\alpha \text{is a } \sigma \text{-field of subsets of }  \Omega \text{ for which } \mathcal{C}\in \mathcal{F}_\alpha\}$$
 
-Recall the definition of a field, a collection $\mathcal{A}$ is a field if it is closed under complements and unions. 
+##### Recall the definition of a field, a collection $\mathcal{A}$ is a field if it is closed under complements and unions. 
 
-Recall the definition of a $\sigma$-field, for a set $X$, a $\sigma$-field $\mathcal{A}$ is a nonempty collection of subsets such that the following hold: 
+##### Recall the definition of a $\sigma$-field, for a set $X$, a $\sigma$-field $\mathcal{A}$ is a nonempty collection of subsets such that the following hold: 
 
 - $X \in \mathcal{A}$
 -  If $A\in \mathcal{A}$, then $A^c\in \mathcal{A}$. 
 - If $A_n$ is a sequence of elements in $\mathcal{A}$, then $\cup_1^\infty A_i\in \mathcal{A}$. 
 
-Recall again for the definition of monotone class: 
+##### Recall again for the definition of monotone class: 
 
 $\mathcal{A}$ is called a monotone class provided it contains $\cup_1^\infty A_i$ for all increasing sequence $A_n$ in $\mathcal{A}$ and contains $\cap_1^\infty B_n$ for all decreasing sequences $B_n$ in $\mathcal{A}$. 
 
-Introducing lemma: 
+##### Introducing lemma: 
+
 **A collection $\mathcal{A}$ of subsets of  is a $\sigma$-field if and only if it is both a field and a monotone class.**
 
 *Proof:*
@@ -48,6 +51,7 @@ Since $B_j$ is an increasing sequence, $\cup_1^\infty B_j \in \mathcal{A}$.
  ($\Leftarrow$) has been proved. 
 
 **Exercise 1.1 (Generators)**
+
 Let $\mathcal{C}_1$ and $\mathcal{C}_2$ denote two collections of subsets of the
 set $\Omega$. If $\mathcal{C}_2 \subset \sigma(\mathcal{C}_1)$ and $\mathcal{C}_1 \subset \sigma(\mathcal{C}_2)$, then $\sigma(\mathcal{C}_1)=\sigma(\mathcal{C}_2)$. Prove this fact. 
 
