@@ -84,7 +84,12 @@ Let $B_n\equiv \cap_{k=n}^{\infty}A_k$. We know that $B_n \subseteq A_n$.
 If $A_n$ is an increasing sequence, we could know that $B_n$ is also an increasing sequence. 
 
 $$\mu(\liminf A_n) = \mu(\cup_{n=1}^{\infty} B_n)=\lim_{n\rightarrow \infty} \mu(B_n)$$
+
 For $\mu(B_n)$, 
+
 $$ \mu(B_n) \leq \inf_{N\geq n}\mu(A_N)$$
+
 Combining (2) and (3), we will get
- $$\mu(\liminf A_n) = \lim_{n\rightarrow \infty} \mu(B_n) \leq \lim_{n} \inf_{N\geq n} \mu(A_N) = \liminf \mu(A_n)$$
+
+$$\mu(\liminf A_n) = \lim_{n\rightarrow \infty} \mu(B_n) \leq \lim_{n} \inf_{N\geq n} \mu(A_N) = \liminf \mu(A_n)$$
+
