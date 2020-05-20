@@ -1,3 +1,4 @@
+
 {% include lib/mathjax.html %}
 
 {% include head.html %}
@@ -64,3 +65,26 @@ On the other hand, since $\mathcal{C}_1 \subset \sigma(\mathcal{C}_2)$, we can a
 We can know $\sigma(\mathcal{C_2}) = \sigma(\mathcal{C_1})$. 
 
 
+
+
+
+**Exercise 1.2**
+- Now $\mu(\liminf A_n)\leq \liminf \mu(A_n)$
+- Also, $\liminf \mu(A_n)\leq \mu(\liminf A_n)$ holds if $\mu(\Omega) < \infty$. 
+
+(a)
+
+Recall the definition of $\liminf A_n$, 
+
+ $$\liminf A_n \equiv \cup_{n=1}^{\infty} \cap_{k=n}^{\infty} A_k$$
+
+
+Let $B_n\equiv \cap_{k=n}^{\infty}A_k$. We know that $B_n \subseteq A_n$. 
+
+If $A_n$ is an increasing sequence, we could know that $B_n$ is also an increasing sequence. 
+
+$$\mu(\liminf A_n) = \mu(\cup_{n=1}^{\infty} B_n)=\lim_{n\rightarrow \infty} \mu(B_n)$$
+For $\mu(B_n)$, 
+$$ \mu(B_n) \leq \inf_{N\geq n}\mu(A_N)$$
+Combining (2) and (3), we will get
+ $$\mu(\liminf A_n) = \lim_{n\rightarrow \infty} \mu(B_n) \leq \lim_{n} \inf_{N\geq n} \mu(A_N) = \liminf \mu(A_n)$$
