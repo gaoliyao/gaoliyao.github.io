@@ -22,9 +22,9 @@ I am a student at Purdue Univesity in Mathematics. I am doing research in deep l
 
 - Wei Deng, Liyao Gao*, Qi Feng*, Faming Liang, Guang Lin. **Non-convex Learning via Replica Exchange Stochastic Gradient MCMC.** *ICML 2020.*
 
-- Gao, Liyao, Hongshan Li, Zheying Lu, Guang Lin. **Rotation-equivariant convolutional neural network ensembles in image processing.** *Proceedings of the 2019 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2019 ACM International Symposium on Wearable Computers. ACM, 2019*. [paper](https://dl.acm.org/ft_gateway.cfm?id=3349330&ftid=2082607&dwn=1&CFID=174579832&CFTOKEN=2056b8b608a255d0-6FDD2312-FB2D-99B6-12E58D3451BCA0FA), [code](https://github.com/LouiseHash/Rotation_Equivariant_CNN_Ensembles).
+- Liyao Gao, et al. **Rotation-equivariant convolutional neural network ensembles in image processing.** *Proceedings of the 2019 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2019 ACM International Symposium on Wearable Computers. ACM, 2019*. [paper](https://dl.acm.org/ft_gateway.cfm?id=3349330&ftid=2082607&dwn=1&CFID=174579832&CFTOKEN=2056b8b608a255d0-6FDD2312-FB2D-99B6-12E58D3451BCA0FA), [code](https://github.com/LouiseHash/Rotation_Equivariant_CNN_Ensembles).
 
-- Xinlei Chen, Carlos Ruiz, Sihan Zeng, *Liyao Gao*, Aveek Purohit, Stefano Carpin, Pei Zhang, et al. **H-DrunkWalk: Collaborative and Adaptive Navigation for Heterogeneous MAV swarm.** *Transactions on Sensor Networks. ACM, 2020.* [paper](https://dl.acm.org/doi/abs/10.1145/3382094)
+- Xinlei Chen, Carlos Ruiz, Sihan Zeng, Liyao Gao, Aveek Purohit, Stefano Carpin, Pei Zhang, et al. **H-DrunkWalk: Collaborative and Adaptive Navigation for Heterogeneous MAV swarm.** *Transactions on Sensor Networks. ACM, 2020.* [paper](https://dl.acm.org/doi/abs/10.1145/3382094)
 
 #### Preprints
 - [Cortex Neural Network: learning with neural network groups](https://arxiv.org/abs/1804.03313) [link](https://gaoliyao.github.io/img/CrtxNN.pdf)
