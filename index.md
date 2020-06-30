@@ -153,15 +153,3 @@ MarsGaoCV AT gmail DOT com
 
 <!-- ## Others
 Please view this [link](https://gaoliyao.github.io/others) for my life and other interests. -->
-
-## Links
-(https://github.com/MessageOnTap)
-
-(https://github.com/gaoliyao/RDD_Demo) [google doc](https://docs.google.com/presentation/d/1kfDppvLh4PJA7ZBC5u8tlobFVcXXSuc-3RhUbo5gs8o/edit)
-
-(https://gaoliyao.github.io/TimeParser/)
-
-(https://github.com/gaoliyao/LocationClustering) [medium](https://medium.com/@marsgaocv/a-new-method-of-personal-location-classification-156ff8fc5c2c)
-
-(https://github.com/PoseTracking/PoseSimulator)
--->
