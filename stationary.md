@@ -140,5 +140,5 @@ $$\mathcal{F}_\rho(x)=1-a_1e^{ix}-a_2e^{2ix}$$
 
 $$VarZ_n=k_Z(n,n)=\gamma_z(0)=\int_\mathbb{R}e^{i\cdot 0\cdot x}g_Z(x)dx$$
 
-$$=\int_{\mathbb{R}}g_X(x)\vert\mathcal{F}[\rho](x)\vert^2dx$$
+$$=\int_{\mathbb{R}}g_X(x)\vert\mathcal{F} [ \rho ] (x)\vert^2dx$$
 > Written with [StackEdit](https://stackedit.io/).
