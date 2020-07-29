@@ -97,7 +97,7 @@ $\mathbb{E}X_t=0$, $g_x$, $Y_t=\int_{\mathbb{R}}\rho(s)X_{t-s}ds$.
 
 Then, 
 1. $Y_t$ is weakly stationary process.
-2. $g_Y(x)=g_X(x)\cdot \vert\mathcal{F}[\rho](x)\vert^2$.
+2. $g_Y(x)=g_X(x)\cdot \vert\mathcal{F} [ \rho ] (x)\vert^2$.
 
 *Proof*:
 
