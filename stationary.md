@@ -2,6 +2,7 @@
 
 {% include head.html %}
 
+
 # Stationarity
 ### Strictly and weakly stationary
 *Definition. 1* $X_t$ is strictly stationary if
@@ -17,7 +18,7 @@ $$(X_{t_1+h}, ..., X_{t_n+h})\stackrel{d}{=} (X_{t_1}, ..., X_{t_n})$$
 To discuss some properties of $\gamma(\cdot)$, 
 
 1. $\gamma(0)\geq 0$.
-2. $|\gamma(t)| \leq \gamma(0)$
+2. $\vert\gamma(t)\vert\leq\gamma(0)$
 3. $\gamma$ is even. 
 
 $Remark$
@@ -32,10 +33,10 @@ $Remark$
 
 Given $X_t$ is weakly stationary, $\gamma:k(t,s)=\gamma(t-s)$. 
 
-If $\gamma$ is continuous and $\int |\gamma(u)|du<\infty$, 
+If $\gamma$ is continuous and $\int \vert\gamma(u)\vert du<\infty$, 
 
 
-$\exist  g(x): \gamma(u)=\int e^{iux}g(x)dx=\mathcal{F}[g](u)$. 
+$\exists  g(x): \gamma(u)=\int e^{iux}g(x)dx=\mathcal{F}[g](u)$. 
 
 
 Spectral density: $g(x)=\frac{1}{2\pi}\int e^{-iux}\gamma(u)du$
@@ -49,7 +50,7 @@ Or in discrete form: $g(x)=\frac{1}{2\pi}\sum_{h=-\infty}^{+\infty}e^{ihx}\gamma
 
 ### Stochastic integration of simple type
 Define stochastic integration as, 
-$$\int_a^b X_tdt=\lim_{max|t_i-t_{i-1}|\to 0} \sum_{k=1}^{n} X_{t_{k-1}}(t_k-t_{k-1}).$$
+$$\int_a^b X_tdt=\lim_{max\vert t_i-t_{i-1}\vert\to 0} \sum_{k=1}^{n} X_{t_{k-1}}(t_k-t_{k-1}).$$
 
 In $L_2$ sense, 
 $$\mathbb{E}(\sum-\int_a^bX_tdt)^2=0.$$
@@ -59,7 +60,7 @@ $$\mathbb{E}(\sum-\int_a^bX_tdt)^2=0.$$
 2. $m(t)$ is continuous, 
 3. $k(t, s)$ is continuous, 
 
-then $\exist \int_a^bX_tdt$.
+then $\exists \int_a^bX_tdt$.
 
 *Proposition* $k(t, s)$ is continuous $\forall (t_0, s_0) \iff k(t,s)$ is continuous of the diagonal $\forall (t_0, t_0)$.
 
@@ -96,7 +97,7 @@ $\mathbb{E}X_t=0$, $g_x$, $Y_t=\int_{\mathbb{R}}\rho(s)X_{t-s}ds$.
 
 Then, 
 1. $Y_t$ is weakly stationary process.
-2. $g_Y(x)=g_X(x)\cdot |\mathcal{F}[\rho](x)|^2$.
+2. $g_Y(x)=g_X(x)\cdot \vert\mathcal{F}[\rho](x)\vert^2$.
 
 *Proof*:
 
@@ -125,13 +126,13 @@ $$=\gamma_X\star\rho\star\rho^o$$
 
 $$\frac{1}{2\pi}\mathcal{F}[\gamma_Y](-x)=\frac{1}{2\pi}\mathcal{F}[\gamma_X](-x)\cdot \mathcal{F}[\rho](-x)\cdot \mathcal{F}[\rho^o](-x)$$
 
-Therefore, $g_Y(x)=g_X(x)|\mathcal{F}[\rho](x)|^2$.
+Therefore, $g_Y(x)=g_X(x)\vert\mathcal{F}[\rho](x)\vert^2$.
 
 #### Estimate parameter for moving average process
 
 $Z_n=X_n-aX_{n-1}-bX_{n-2}$ is weakly stationary. 
 
-$$g_Z(x)=g_X(x)\cdot|\mathcal{F}[\rho](x)|^2$$
+$$g_Z(x)=g_X(x)\cdot\vert\mathcal{F}[\rho](x)\vert^2$$
 
 $$\rho(x)=\mathbf{1}\{x=0\}-a_1\mathbf{1}\{x=1\}-a_2\mathbf{1}\{x=2\}$$
 
@@ -139,5 +140,5 @@ $$\mathcal{F}_\rho(x)=1-a_1e^{ix}-a_2e^{2ix}$$
 
 $$VarZ_n=k_Z(n,n)=\gamma_z(0)=\int_\mathbb{R}e^{i\cdot 0\cdot x}g_Z(x)dx$$
 
-$$=\int_{\mathbb{R}}g_X(x)|\mathcal{F}[\rho](x)|^2dx$$
+$$=\int_{\mathbb{R}}g_X(x)\vert\mathcal{F}[\rho](x)\vert^2dx$$
 > Written with [StackEdit](https://stackedit.io/).
