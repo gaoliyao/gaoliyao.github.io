@@ -1,3 +1,6 @@
+{% include lib/mathjax.html %}
+
+{% include head.html %}
 
 # Stationarity
 ### Strictly and weakly stationary
