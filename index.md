@@ -2,21 +2,14 @@
 layout: default
 ---
 
-I am a student at Purdue Univesity in Mathematics. I am doing research in deep learning under supervision of Professor [Guang Lin](https://www.math.purdue.edu/~lin491/). I used to work as a research assistant at Carnegie Mellon University. I am interested in learning theory, non-convex optimization, and neural network ensembles.
-![Purdue University Lawson Hall](http://jackkozik.com/wp-content/gallery/purdue040513/purdue040513-6051.jpg)
+I am currently a graduate student at Universty of Washington, Statistics. Starting from this summer, I has been working with Prof. [Yi-An Ma](https://sites.google.com/view/yianma/home) on scalable inference  methods for time-series data from the applied side. Prior to UW, I used to be a student at Purdue Univesity and has been fortunately instructed by Professor [Guang Lin](https://www.math.purdue.edu/~lin491/). Recently, my research has been focusing on learning theory, Langevin MCMC for deep learning, and theoretical guarantee of group-invariant Neural networks.
+![University of Washington. (Credit to UW website)](https://raw.githubusercontent.com/gaoliyao/gaoliyao.github.io/master/img/UW.png?token=ADLTCAFYJULIWSPGXGUWASC7PJPR6)
 
-
-## Ongoing projects:
-
-2019 - now Research Assistant at Purdue University, instructed by Professor Guang Lin and Dr. Wei Deng.
-- Non-convex optimization via SG-MCMC in deep learning. 
-- Group-Equivariance Convolutional Neural Networks. 
-- Machine learning under rotation invariant condition for high order tensors. 
 
 ## Publications
 
 #### In Submission
-- Liyao Gao, Yifan Du, Hongshan Li, Guang Lin. **RotEqNet: Rotation-Equivariant Network for Fluid Systems with Symmetric High-Order Tensors.** *Submitted to Journal of Computational Physics.* [link](https://arxiv.org/pdf/2005.04286.pdf)
+- Liyao Gao, Yifan Du, Hongshan Li, Guang Lin. **RotEqNet: Rotation-Equivariant Network for Fluid Systems with Symmetric High-Order Tensors.** *Under major revision to JCP.* [link](https://arxiv.org/pdf/2005.04286.pdf)
 
 #### Conference and Journal articles
 
@@ -26,6 +19,7 @@ I am a student at Purdue Univesity in Mathematics. I am doing research in deep l
 
 - Xinlei Chen, Carlos Ruiz, Sihan Zeng, Liyao Gao, Aveek Purohit, Stefano Carpin, Pei Zhang, et al. **H-DrunkWalk: Collaborative and Adaptive Navigation for Heterogeneous MAV swarm.** *Transactions on Sensor Networks. ACM, 2020.* [paper](https://dl.acm.org/doi/abs/10.1145/3382094)
 
+
 ## Study notes
 
 - [Stationary notations](https://gaoliyao.github.io/stationary)
@@ -34,7 +28,9 @@ I am a student at Purdue Univesity in Mathematics. I am doing research in deep l
 
 
 ## Education
-2017 - now Student at Purdue University, Mathematics with Computer Science. GPA: 3.89
+2017 - 2020 Student at Purdue University, Mathematics with Computer Science. GPA: 3.89
+
+2020 - now Student at University of Washington, Statistics. 
 
 
 ## Honors and Awards:
@@ -42,9 +38,7 @@ I am a student at Purdue Univesity in Mathematics. I am doing research in deep l
 
 2019 - Research assistantship granted by Prof. Guang Lin 
 
-2019 - Alton D. & Juanita S. Andrews Scholarship (top scholarship of Purdue math undergraduate)
-
-2013 - China Adolesence Science and Technology Innovation Competition Gold Prize
+2019 - Alton D. & Juanita S. Andrews Scholarship
 
 2012 - China National Astronomy Olympics 1st Place
 
