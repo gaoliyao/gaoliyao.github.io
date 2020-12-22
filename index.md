@@ -55,9 +55,7 @@ I am currently a graduate student at Universty of Washington, Statistics. Starti
 
 ## Contact
 Email:
-MarsGao AT purdue DOT edu
-
-MarsGaoCV AT gmail DOT com
+marsgao AT uw DOT edu
 
 <!---
 ## Former works:
