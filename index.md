@@ -11,6 +11,8 @@ I am currently a graduate student at Universty of Washington, Statistics. Starti
 #### In Submission
 - Liyao Gao, Yifan Du, Hongshan Li, Guang Lin. **RotEqNet: Rotation-Equivariant Network for Fluid Systems with Symmetric High-Order Tensors.** *Under major revision to JCP.* [link](https://arxiv.org/pdf/2005.04286.pdf)
 
+- Dongxia Wu, Liyao Gao, Xinyue Xiong, Matteo Chinazzi, Alessandro Vespignani, Yian Ma, Rose Yu. **Quantifying Uncertainty in Deep Spatiotemporal Forecasting.** *Submitted.*
+
 #### Conference and Journal articles
 
 - Wei Deng, Liyao Gao\*, Qi Feng\*, Faming Liang, Guang Lin. **Non-convex Learning via Replica Exchange Stochastic Gradient MCMC.** *ICML 2020.* [link](https://arxiv.org/pdf/2008.05367.pdf)
@@ -41,16 +43,6 @@ I am currently a graduate student at Universty of Washington, Statistics. Starti
 2019 - Alton D. & Juanita S. Andrews Scholarship
 
 2012 - China National Astronomy Olympics 1st Place
-
-### Sports Awards:
-
-2019 - American Middle Soccer Cup 1st Place
-
-2018 - American Middle Soccer Cup 2nd Place
-
-2017 - American Middle Soccer Cup 2nd Place
-
-2014 - Daxia Cup Badminton Competition 1st Place
 
 
 ## Contact
