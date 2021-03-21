@@ -32,9 +32,9 @@ I am currently a graduate student at Universty of Washington, Statistics. Starti
 
 
 ## Education
-2017 - 2020 Student at Purdue University, Mathematics with Computer Science. GPA: 3.89
+2017 - 2020 Student at Purdue University, Mathematics with Computer Science. (3.89)
 
-2020 - now Student at University of Washington, Statistics. 
+2020 - now Student at University of Washington, Statistics. (4.00)
 
 
 ## Honors and Awards:
