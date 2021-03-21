@@ -3,12 +3,16 @@ layout: default
 ---
 
 I am currently a graduate student at Universty of Washington, Statistics. Starting from this summer, I has been working with Prof. [Yi-An Ma](https://sites.google.com/view/yianma/home) on scalable inference  methods for time-series data from the applied side. Prior to UW, I used to be a student at Purdue Univesity and has been fortunately instructed by Professor [Guang Lin](https://www.math.purdue.edu/~lin491/). Recently, my research has been focusing on learning theory, Langevin MCMC for deep learning, and theoretical guarantee of group-invariant Neural networks.
-![University of Washington. (Credit to UW website)](https://raw.githubusercontent.com/gaoliyao/gaoliyao.github.io/master/img/UW.png?token=ADLTCAFYJULIWSPGXGUWASC7PJPR6)
+<!--![University of Washington. (Credit to UW website)](https://raw.githubusercontent.com/gaoliyao/gaoliyao.github.io/master/img/UW.png?token=ADLTCAFYJULIWSPGXGUWASC7PJPR6) -->
 
 
 ## Publications
 
 #### In Submission
+- **Quantifying Uncertainty in Deep Spatiotemporal Forecasting.** *Submitted.* 
+
+- **Evaluation of probabilistic forecasts of COVID-19 mortality in the US.** medRxiv. [link](https://www.medrxiv.org/content/10.1101/2021.02.03.21250974v1.full.pdf)
+
 - Liyao Gao, Yifan Du, Hongshan Li, Guang Lin. **RotEqNet: Rotation-Equivariant Network for Fluid Systems with Symmetric High-Order Tensors.** *Under major revision to JCP.* [link](https://arxiv.org/pdf/2005.04286.pdf)
 
 #### Conference and Journal articles
