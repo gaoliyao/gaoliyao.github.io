@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am currently a graduate student at Universty of Washington, Statistics. Starting from this summer, I has been working with Prof. [Yi-An Ma](https://sites.google.com/view/yianma/home) on scalable inference  methods for time-series data from the applied side. Prior to UW, I used to be a student at Purdue Univesity and has been fortunately instructed by Professor [Guang Lin](https://www.math.purdue.edu/~lin491/). Recently, my research has been focusing on learning theory, Langevin MCMC for deep learning, and theoretical guarantee of group-invariant Neural networks.
+I am currently a Master student at Universty of Washington, Statistics. Starting from this summer, I has been working with Prof. [Yi-An Ma](https://sites.google.com/view/yianma/home) on scalable inference  methods for time-series data from the applied side. Prior to UW, I used to be a student at Purdue Univesity and has been fortunately instructed by Professor [Guang Lin](https://www.math.purdue.edu/~lin491/). Recently, my research has been focusing on learning theory, Langevin MCMC for deep learning, and theoretical guarantee of group-invariant Neural networks.
 <!--![University of Washington. (Credit to UW website)](https://raw.githubusercontent.com/gaoliyao/gaoliyao.github.io/master/img/UW.png?token=ADLTCAFYJULIWSPGXGUWASC7PJPR6) -->
 
 
@@ -11,17 +11,19 @@ I am currently a graduate student at Universty of Washington, Statistics. Starti
 #### In Submission
 - **Quantifying Uncertainty in Deep Spatiotemporal Forecasting.** *Submitted.* 
 
-- **Evaluation of probabilistic forecasts of COVID-19 mortality in the US.** medRxiv. [link](https://www.medrxiv.org/content/10.1101/2021.02.03.21250974v1.full.pdf)
+- **Evaluation of probabilistic forecasts of COVID-19 mortality in the US.** [medRxiv](https://www.medrxiv.org/content/10.1101/2021.02.03.21250974v1.full.pdf)
 
-- Liyao Gao, Yifan Du, Hongshan Li, Guang Lin. **RotEqNet: Rotation-Equivariant Network for Fluid Systems with Symmetric High-Order Tensors.** *Under major revision to JCP.* [link](https://arxiv.org/pdf/2005.04286.pdf)
+- Dongxia Wu, Liyao Gao, Xinyue Xiong, Matteo Chinazzi, Alessandro Vespignani, Yian Ma, Rose Yu. **DeepGLEAM: A hybrid mechanistic and deep learning model for COVID-19 forecasting.** preprint (2021). [arXiv](https://arxiv.org/abs/2102.06684) 
+
+- Liyao Gao, Yifan Du, Hongshan Li, Guang Lin. **RotEqNet: Rotation-Equivariant Network for Fluid Systems with Symmetric High-Order Tensors.** *Under major revision to JCP.* [arXiv](https://arxiv.org/pdf/2005.04286.pdf)
 
 #### Conference and Journal articles
 
-- Wei Deng, Liyao Gao\*, Qi Feng\*, Faming Liang, Guang Lin. **Non-convex Learning via Replica Exchange Stochastic Gradient MCMC.** *ICML 2020.* [link](https://arxiv.org/pdf/2008.05367.pdf)
+- Wei Deng, Liyao Gao\*, Qi Feng\*, Faming Liang, Guang Lin. **Non-convex Learning via Replica Exchange Stochastic Gradient MCMC.** *ICML 2020.* [arXiv](https://arxiv.org/pdf/2008.05367.pdf)
 
-- Liyao Gao, et al. **Rotation-equivariant convolutional neural network ensembles in image processing.** *Proceedings of the 2019 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2019 ACM International Symposium on Wearable Computers. ACM, 2019*. [paper](https://dl.acm.org/ft_gateway.cfm?id=3349330&ftid=2082607&dwn=1&CFID=174579832&CFTOKEN=2056b8b608a255d0-6FDD2312-FB2D-99B6-12E58D3451BCA0FA), [code](https://github.com/LouiseHash/Rotation_Equivariant_CNN_Ensembles).
+- Liyao Gao, et al. **Rotation-equivariant convolutional neural network ensembles in image processing.** *Proceedings of the 2019 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2019 ACM International Symposium on Wearable Computers. ACM, 2019*. [ACM](https://dl.acm.org/ft_gateway.cfm?id=3349330&ftid=2082607&dwn=1&CFID=174579832&CFTOKEN=2056b8b608a255d0-6FDD2312-FB2D-99B6-12E58D3451BCA0FA), [code](https://github.com/LouiseHash/Rotation_Equivariant_CNN_Ensembles).
 
-- Xinlei Chen, Carlos Ruiz, Sihan Zeng, Liyao Gao, Aveek Purohit, Stefano Carpin, Pei Zhang, et al. **H-DrunkWalk: Collaborative and Adaptive Navigation for Heterogeneous MAV swarm.** *Transactions on Sensor Networks. ACM, 2020.* [paper](https://dl.acm.org/doi/abs/10.1145/3382094)
+- Xinlei Chen, Carlos Ruiz, Sihan Zeng, Liyao Gao, Aveek Purohit, Stefano Carpin, Pei Zhang, et al. **H-DrunkWalk: Collaborative and Adaptive Navigation for Heterogeneous MAV swarm.** *Transactions on Sensor Networks. ACM, 2020.* [ACM](https://dl.acm.org/doi/abs/10.1145/3382094)
 
 
 ## Study notes
