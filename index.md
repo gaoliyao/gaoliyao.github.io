@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am currently a Master student at Universty of Washington, Statistics. Starting from this summer, I has been working with Prof. [Yi-An Ma](https://sites.google.com/view/yianma/home) on scalable inference  methods for time-series data from the applied side. Prior to UW, I used to be a student at Purdue Univesity and has been fortunately instructed by Professor [Guang Lin](https://www.math.purdue.edu/~lin491/). Recently, my research has been focusing on learning theory, Langevin MCMC for deep learning, and theoretical guarantee of group-invariant Neural networks.
+I am currently a Master student at Universty of Washington, Statistics. Starting from Summer 2020, I has been working with Prof. [Yi-An Ma](https://sites.google.com/view/yianma/home) on scalable inference  methods for time-series data from the applied side. Prior to UW, I used to be a student at Purdue Univesity and has been fortunately instructed by Professor [Guang Lin](https://www.math.purdue.edu/~lin491/). Recently, my research has been focusing on learning theory, Langevin MCMC for deep learning, and theoretical guarantee of group-invariant Neural networks.
 <!--![University of Washington. (Credit to UW website)](https://raw.githubusercontent.com/gaoliyao/gaoliyao.github.io/master/img/UW.png?token=ADLTCAFYJULIWSPGXGUWASC7PJPR6) -->
 
 
