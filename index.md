@@ -13,7 +13,7 @@ I am currently a Master student at Universty of Washington, Statistics. Starting
 
 - **Evaluation of probabilistic forecasts of COVID-19 mortality in the US.** [medRxiv](https://www.medrxiv.org/content/10.1101/2021.02.03.21250974v1.full.pdf)
 
-- Dongxia Wu, Liyao Gao, Xinyue Xiong, Matteo Chinazzi, Alessandro Vespignani, Yian Ma, Rose Yu. **DeepGLEAM: A hybrid mechanistic and deep learning model for COVID-19 forecasting.** preprint (2021). [arXiv](https://arxiv.org/abs/2102.06684) 
+- Dongxia Wu, Liyao Gao, Xinyue Xiong, Matteo Chinazzi, Alessandro Vespignani, Yi-An Ma, Rose Yu. **DeepGLEAM: A hybrid mechanistic and deep learning model for COVID-19 forecasting.** preprint (2021). [arXiv](https://arxiv.org/abs/2102.06684) 
 
 - Liyao Gao, Yifan Du, Hongshan Li, Guang Lin. **RotEqNet: Rotation-Equivariant Network for Fluid Systems with Symmetric High-Order Tensors.** *Under major revision to JCP.* [arXiv](https://arxiv.org/pdf/2005.04286.pdf)
 
