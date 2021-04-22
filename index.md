@@ -33,6 +33,8 @@ I am currently a Master student at Universty of Washington, Statistics. Starting
 
 - [Abstract algebra](https://gaoliyao.github.io/absalgebra)
 
+- [Log-Sobolev Inequality short notes](https://github.com/gaoliyao/FinalReview/raw/master/Log_Sobolev_Inequality_draft.pdf)
+
 
 ## Education
 2017 - 2020 Student at Purdue University, Mathematics with Computer Science. (3.89)
