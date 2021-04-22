@@ -33,7 +33,7 @@ I am currently a Master student at Universty of Washington, Statistics. Starting
 
 - [Abstract algebra](https://gaoliyao.github.io/absalgebra)
 
-- [Log-Sobolev Inequality short notes](https://github.com/gaoliyao/FinalReview/raw/master/Log_Sobolev_Inequality_draft.pdf)
+- [Log-Sobolev Inequality short notes](https://gaoliyao.github.io/FinalReview/Log_Sobolev_Inequality_draft.pdf)
 
 
 ## Education
