@@ -1,3 +1,4 @@
+RCAC instruction to get personlized conda library. 
 ```
 module load anaconda
 conda list
