@@ -9,7 +9,7 @@ I am currently a Master student at Universty of Washington, Statistics. Starting
 ## Publications
 
 #### In Submission
-- **Quantifying Uncertainty in Deep Spatiotemporal Forecasting.** *Submitted.* 
+- **Quantifying Uncertainty in Deep Spatiotemporal Forecasting.** Dongxia Wu, Liyao Gao, Xinyue Xiong, Matteo Chinazzi, Alessandro Vespignani, Yi-An Ma, Rose Yu. SIGKDD (2021). [arXiv](https://arxiv.org/pdf/2105.11982.pdf). [Code](https://github.com/DongxiaW/Quantifying_Uncertainty_in_Deep_Spatiotemporal_Forecasting)
 
 - **Evaluation of probabilistic forecasts of COVID-19 mortality in the US.** [medRxiv](https://www.medrxiv.org/content/10.1101/2021.02.03.21250974v1.full.pdf)
 
@@ -35,6 +35,7 @@ I am currently a Master student at Universty of Washington, Statistics. Starting
 
 - [Log-Sobolev Inequality short notes](https://gaoliyao.github.io/FinalReview/Log_Sobolev_Inequality_draft.pdf)
 
+- [Notes for Statistical Inference (Qual)](https://www.dropbox.com/s/iq1hhrdz85fe4e1/512%20Notes.pdf?dl=0)
 
 ## Education
 2017 - 2020 Student at Purdue University, Mathematics with Computer Science. (3.89)
