@@ -37,7 +37,7 @@ I am currently a Master student at Universty of Washington, Statistics. Starting
 
 - [Log-Sobolev Inequality short notes](https://gaoliyao.github.io/FinalReview/Log_Sobolev_Inequality_draft.pdf)
 
-- [Notes for Statistical Inference (Qual)](https://www.dropbox.com/s/iq1hhrdz85fe4e1/512%20Notes.pdf?dl=0)
+- [Notes for Statistical Inference (Qual)](https://gaoliyao.github.io/FinalReview/Theoryexam.pdf)
 
 ## Education
 2017 - 2020 Student at Purdue University, Mathematics with Computer Science. (3.89)
