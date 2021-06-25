@@ -11,3 +11,11 @@ Run ResNet code
 nohup chmod +x run.sh && ./run.sh > output.out &
 ```
 
+#### Load anaconda
+```
+module load anaconda
+source activate mars
+```
+
+
+
