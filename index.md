@@ -48,7 +48,7 @@ I am currently a Master student at Universty of Washington, Statistics. Starting
 ## Honors and Awards:
 ### Academic Awards and Scholoarships
 
-2019 - Research assistantship granted by Prof. Guang Lin 
+2019 - Research assistantship
 
 2019 - Alton D. & Juanita S. Andrews Scholarship
 
