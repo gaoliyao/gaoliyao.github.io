@@ -39,6 +39,10 @@ I am currently a Master student at Universty of Washington, Statistics. Starting
 
 - [Notes for Statistical Inference (Qual)](https://gaoliyao.github.io/FinalReview/Theoryexam.pdf)
 
+- [Notes for SINDy autoencoder](https://drive.google.com/u/0/uc?id=1GMKm-ZGKfzEQTizhaC8W331VBP4TXDMS&export=pdf) 
+
+- [Notes for UQ-SINDy](https://drive.google.com/u/0/uc?id=1HKkyYeAOp7gOD5ujqum9cIUHZihF1F5H&export=pdf)
+
 ## Education
 2017 - 2020 Student at Purdue University, Mathematics with Computer Science. (3.89)
 
