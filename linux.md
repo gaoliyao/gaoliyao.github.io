@@ -1,5 +1,10 @@
 ## Commonly used Linux commands
 
+### Purdue
+```
+firefox -no-remote -P "me"
+```
+
 ### HDSI
 ```
 jupyter notebook --no-browser --port 8000
