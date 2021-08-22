@@ -1,4 +1,7 @@
 theme: jekyll-theme-minimal
+
+# make things wider
+layout: single
 classes: wide
 
 # Google Analytics
