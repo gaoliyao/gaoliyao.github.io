@@ -43,6 +43,8 @@ I am currently a Master student at Universty of Washington, Statistics. Starting
 
 - [Notes for UQ-SINDy](https://drive.google.com/u/0/uc?id=1HKkyYeAOp7gOD5ujqum9cIUHZihF1F5H&export=pdf)
 
+- [Computational Optimal Transport](https://drive.google.com/u/0/uc?id=1sktFfasiLcN01s6RytbMKyHtd2Cs5X_A&export=pdf)
+
 ## Education
 2017 - 2020 Student at Purdue University, Mathematics with Computer Science. (3.89)
 
