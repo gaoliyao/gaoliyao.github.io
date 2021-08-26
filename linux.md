@@ -45,3 +45,15 @@ module load ml-toolkit-gpu/tensorflow
 
 Then we are ready to go! 
 
+### AMath server
+Add jupyter notebook kernel. 
+```
+conda install -c anaconda ipykernel
+python -m ipykernel install --user --name=firstEnv
+```
+
+Remove jupyter notebook kernel. 
+```
+jupyter kernelspec list
+jupyter kernelspec uninstall unwanted-kernel
+```
