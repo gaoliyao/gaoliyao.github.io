@@ -4,15 +4,27 @@ layout: default
 
 ## Hi, I'm Mars (Liyao)
 
-I am currently a Master student at Universty of Washington, Statistics. Currently, I'm working with Prof.[Nathan Kutz](https://amath.washington.edu/people/j-nathan-kutz) on XXXXXXXXXXX. Besides, I'm also working with Prof. [Wei Zhu](https://people.math.umass.edu/~zhu/) on XXXXXXXXXXX. In 2020, I worked with Prof. [Yi-An Ma](https://sites.google.com/view/yianma/home) on scalable inference methods with theoretical guarantees. Prior to UW, I used to be a student at Purdue Univesity and has been fortunately instructed by Prof. [Guang Lin](https://www.math.purdue.edu/~lin491/). My current **Research Interests** focus on Learning theory, Bayesian deep learning, Generalization Issues for Deep Neural Networks.
+I am currently a Master student at Universty of Washington, Statistics. Currently, I'm working with Prof.[Nathan Kutz](https://amath.washington.edu/people/j-nathan-kutz) on constructing Bayesian  posterior via Stochastic Gradient Langevin Dynamics to perform model discovery. Besides, I'm also working with Prof. [Wei Zhu](https://people.math.umass.edu/~zhu/) on building decomposed convolutional filters (DCF) to equip CNNs with certain basis to build equivariance on transformation in rotation-scaling-translation group. In 2020, I worked with Prof. [Yi-An Ma](https://sites.google.com/view/yianma/home) on scalable inference methods with theoretical guarantees. Prior to UW, I used to be a student at Purdue Univesity and has been fortunately instructed by Prof. [Guang Lin](https://www.math.purdue.edu/~lin491/). My current **Research Interests** focus on Learning theory, Bayesian deep learning, Generalization Issues for Deep Neural Networks.
 
 <br />
 <!--![University of Washington. (Credit to UW website)](https://raw.githubusercontent.com/gaoliyao/gaoliyao.github.io/master/img/UW.png?token=ADLTCAFYJULIWSPGXGUWASC7PJPR6) -->
 
 
-## Publications
+## Research Projects & Publication Papers
 
-### __Conference and Journal articles:
+### __Ongoing Research Projects:
+
+- **Bayesian Uncertainty Quantification in Model Discovery with Deep Sparse Identification of Nonlinear Dynamics.** <br />
+*with Professor Nathan Kutz, University of Washington* <br />
+In this work, we construct Bayesian posterior via Stochastic Gradient Langevin Dynamics to perform model discovery with quantification of uncertainty. We apply Auto-encoder architecture with constraints for discovery of governing equation, and select laplace, spike-and-slab, regularized horseshoe prior to promote sparsity.
+
+- **Rotation-Scale Equvariant Networks with Decomposed Convolutional Filters.** <br />
+*with Dr. Wei Zhu, UMass Amherst* <br />
+We build decomposed convolutional filters (DCF) to equip CNNs with certain basis (Fourier-Bessel, Hermite polynomial with Gaussian envelope) to build equivariance on transformation in rotation-scaling-translation group. We show robustness of DCF representation in theory with improved performances in deep learning experiments.
+
+<br />
+
+### __Publications on Conference and Journal:
 
 - **Quantifying Uncertainty in Deep Spatiotemporal Forecasting.** <br />
 *Dongxia Wu, Liyao Gao, Xinyue Xiong, Matteo Chinazzi, Alessandro Vespignani, Yi-An Ma, Rose Yu. SIGKDD (2021). [arXiv](https://arxiv.org/pdf/2105.11982.pdf) and [Code](https://github.com/DongxiaW/Quantifying_Uncertainty_in_Deep_Spatiotemporal_Forecasting)* <br />
@@ -43,10 +55,10 @@ I am currently a Master student at Universty of Washington, Statistics. Currentl
 
 ## Education
 
-University of Washington                2020 - 2022
+University of Washington                2020 - 2022 <br />
 Master of Statistics (4.00)
 
-Purdue University                       2017 - 2020 
+Purdue University                       2017 - 2020 <br />
 Bachelor of Mathematics with Computer Science (3.89)
 
 
