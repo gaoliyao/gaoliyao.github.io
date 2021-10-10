@@ -2,30 +2,45 @@
 layout: default
 ---
 
-I am currently a Master student at Universty of Washington, Statistics. Starting from Summer 2020, I has been working with Prof. [Yi-An Ma](https://sites.google.com/view/yianma/home) on scalable inference methods with theoretical guarantees. Prior to UW, I used to be a student at Purdue Univesity and has been fortunately instructed by Professor [Guang Lin](https://www.math.purdue.edu/~lin491/). Recently, my research has been focusing on learning theory, Bayesian deep learning, and generalization issues for deep Neural networks.
+## Hi, I'm Mars (Liyao)
+
+I am currently a Master student at Universty of Washington, Statistics. Currently, I'm working with Prof.[Nathan Kutz](https://amath.washington.edu/people/j-nathan-kutz) on XXXXXXXXXXX. Besides, I'm also working with Prof. [Wei Zhu](https://people.math.umass.edu/~zhu/) on XXXXXXXXXXX. In 2020, I worked with Prof. [Yi-An Ma](https://sites.google.com/view/yianma/home) on scalable inference methods with theoretical guarantees. Prior to UW, I used to be a student at Purdue Univesity and has been fortunately instructed by Prof. [Guang Lin](https://www.math.purdue.edu/~lin491/).
+
+
+## Fields of Interest
+
+Learning theory, Bayesian deep learning, Generalization Issues for Deep Neural Networks
+
 <!--![University of Washington. (Credit to UW website)](https://raw.githubusercontent.com/gaoliyao/gaoliyao.github.io/master/img/UW.png?token=ADLTCAFYJULIWSPGXGUWASC7PJPR6) -->
 
 
 ## Publications
 
-#### Conference and Journal articles
+### Conference and Journal articles
 
-**Quantifying Uncertainty in Deep Spatiotemporal Forecasting.** Dongxia Wu, Liyao Gao, Xinyue Xiong, Matteo Chinazzi, Alessandro Vespignani, Yi-An Ma, Rose Yu. SIGKDD (2021). [arXiv](https://arxiv.org/pdf/2105.11982.pdf) and [Code](https://github.com/DongxiaW/Quantifying_Uncertainty_in_Deep_Spatiotemporal_Forecasting)
+**Quantifying Uncertainty in Deep Spatiotemporal Forecasting.** 
+Dongxia Wu, Liyao Gao, Xinyue Xiong, Matteo Chinazzi, Alessandro Vespignani, Yi-An Ma, Rose Yu. SIGKDD (2021). [arXiv](https://arxiv.org/pdf/2105.11982.pdf) and [Code](https://github.com/DongxiaW/Quantifying_Uncertainty_in_Deep_Spatiotemporal_Forecasting)
 
-**Non-convex Learning via Replica Exchange Stochastic Gradient MCMC.** Wei Deng, Liyao Gao\*, Qi Feng\*, Faming Liang, Guang Lin. *ICML 2020.* [arXiv](https://arxiv.org/pdf/2008.05367.pdf) and [Code](https://github.com/gaoliyao/Replica_Exchange_Stochastic_Gradient_MCMC)
+**Non-convex Learning via Replica Exchange Stochastic Gradient MCMC.** 
+Wei Deng, Liyao Gao\*, Qi Feng\*, Faming Liang, Guang Lin. *ICML 2020.* [arXiv](https://arxiv.org/pdf/2008.05367.pdf) and [Code](https://github.com/gaoliyao/Replica_Exchange_Stochastic_Gradient_MCMC)
 
-**H-DrunkWalk: Collaborative and Adaptive Navigation for Heterogeneous MAV swarm.** Xinlei Chen, Carlos Ruiz, Sihan Zeng, Liyao Gao, Aveek Purohit, Stefano Carpin, Pei Zhang, et al. *Transactions on Sensor Networks. ACM, 2020.* [ACM](https://dl.acm.org/doi/abs/10.1145/3382094)
+**H-DrunkWalk: Collaborative and Adaptive Navigation for Heterogeneous MAV swarm.** 
+Xinlei Chen, Carlos Ruiz, Sihan Zeng, Liyao Gao, Aveek Purohit, Stefano Carpin, Pei Zhang, et al. *Transactions on Sensor Networks. ACM, 2020.* [ACM](https://dl.acm.org/doi/abs/10.1145/3382094)
 
-**Rotation-equivariant convolutional neural network ensembles in image processing.** Liyao Gao, Hongshan Li, Zheying Lu, Guang Lin. *Ubicomp CPD Workshop. ACM, 2019*. [ACM](https://dl.acm.org/ft_gateway.cfm?id=3349330&ftid=2082607&dwn=1&CFID=174579832&CFTOKEN=2056b8b608a255d0-6FDD2312-FB2D-99B6-12E58D3451BCA0FA) and [code](https://github.com/LouiseHash/Rotation_Equivariant_CNN_Ensembles)
+**Rotation-equivariant convolutional neural network ensembles in image processing.** 
+Liyao Gao, Hongshan Li, Zheying Lu, Guang Lin. *Ubicomp CPD Workshop. ACM, 2019*. [ACM](https://dl.acm.org/ft_gateway.cfm?id=3349330&ftid=2082607&dwn=1&CFID=174579832&CFTOKEN=2056b8b608a255d0-6FDD2312-FB2D-99B6-12E58D3451BCA0FA) and [code](https://github.com/LouiseHash/Rotation_Equivariant_CNN_Ensembles)
 
 
-#### Preprints
+### Preprints
 
-**Evaluation of probabilistic forecasts of COVID-19 mortality in the US.** R&R, PNAS. [medRxiv](https://www.medrxiv.org/content/10.1101/2021.02.03.21250974v1.full.pdf)
+**Evaluation of probabilistic forecasts of COVID-19 mortality in the US.** 
+R&R, PNAS. [medRxiv](https://www.medrxiv.org/content/10.1101/2021.02.03.21250974v1.full.pdf)
 
-**DeepGLEAM: A hybrid mechanistic and deep learning model for COVID-19 forecasting.**  Dongxia Wu, Liyao Gao, Xinyue Xiong, Matteo Chinazzi, Alessandro Vespignani, Yi-An Ma, Rose Yu. preprint (2021). [arXiv](https://arxiv.org/abs/2102.06684) 
+**DeepGLEAM: A hybrid mechanistic and deep learning model for COVID-19 forecasting.**  
+Dongxia Wu, Liyao Gao, Xinyue Xiong, Matteo Chinazzi, Alessandro Vespignani, Yi-An Ma, Rose Yu. preprint (2021). [arXiv](https://arxiv.org/abs/2102.06684) 
 
-**RotEqNet: Rotation-Equivariant Network for Fluid Systems with Symmetric High-Order Tensors.** Liyao Gao, Yifan Du, Hongshan Li, Guang Lin. *Under major revision to JCP.* [arXiv](https://arxiv.org/pdf/2005.04286.pdf)
+**RotEqNet: Rotation-Equivariant Network for Fluid Systems with Symmetric High-Order Tensors.** 
+Liyao Gao, Yifan Du, Hongshan Li, Guang Lin. *Under major revision to JCP.* [arXiv](https://arxiv.org/pdf/2005.04286.pdf)
 
 
 
