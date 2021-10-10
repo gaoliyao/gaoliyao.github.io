@@ -60,11 +60,9 @@ We build decomposed convolutional filters (DCF) to equip CNNs with certain basis
 
 University of Washington                2020 - 2022 <br />
 Master of Statistics (4.00) <br />
-*Statistical Theory Exam qualified (June 2021)*
 
 Purdue University                       2017 - 2020 <br />
 Bachelor of Mathematics with Computer Science (3.89)<br />
-*Alton D. & Juanita S. Andrews Scholarship. Graduated with Distinction.*
 
 
 
