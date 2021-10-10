@@ -25,10 +25,10 @@ We build decomposed convolutional filters (DCF) to equip CNNs with certain basis
 
 <br />
 
-### __Publications on Conference and Journal:
+### &nbsp;&nbsp;Publications on Conference and Journal:
 
 - **On Optimal Early Stopping: Overparametrization versus Underparametrization.** <br /> 
-*Ruoqi Shen, Liyao Gao, Yi-An Ma. Submitted to ICLR 2022. [PDF link](https://openreview.net/pdf?id=LQCUmLgFlR)*
+*Submitted to ICLR 2022. [PDF link](https://openreview.net/pdf?id=LQCUmLgFlR)*
 
 - **Quantifying Uncertainty in Deep Spatiotemporal Forecasting.** <br />
 *Dongxia Wu, Liyao Gao, Xinyue Xiong, Matteo Chinazzi, Alessandro Vespignani, Yi-An Ma, Rose Yu. SIGKDD (2021). [arXiv](https://arxiv.org/pdf/2105.11982.pdf) and [Code](https://github.com/DongxiaW/Quantifying_Uncertainty_in_Deep_Spatiotemporal_Forecasting)* <br />
@@ -44,25 +44,25 @@ We build decomposed convolutional filters (DCF) to equip CNNs with certain basis
 
 <br />
 
-### __Preprints:
+### Preprints:
 
 - **Evaluation of probabilistic forecasts of COVID-19 mortality in the US.** <br />
-*R&R, PNAS. [medRxiv](https://www.medrxiv.org/content/10.1101/2021.02.03.21250974v1.full.pdf)*<br />
+*PNAS, Revise and Resubmit. [medRxiv](https://www.medrxiv.org/content/10.1101/2021.02.03.21250974v1.full.pdf)*<br />
 
 - **DeepGLEAM: A hybrid mechanistic and deep learning model for COVID-19 forecasting.**  <br />
 *Dongxia Wu, Liyao Gao, Xinyue Xiong, Matteo Chinazzi, Alessandro Vespignani, Yi-An Ma, Rose Yu. preprint (2021). [arXiv](https://arxiv.org/abs/2102.06684)* <br />
 
 - **RotEqNet: Rotation-Equivariant Network for Fluid Systems with Symmetric High-Order Tensors.** <br />
-*Liyao Gao, Yifan Du, Hongshan Li, Guang Lin. *Under major revision to JCP.* [arXiv](https://arxiv.org/pdf/2005.04286.pdf)*<br />
+*Liyao Gao, Yifan Du, Hongshan Li, Guang Lin. *Under major revision to JCP.* [arXiv](https://arxiv.org/pdf/2005.04286.pdf)<br />
 
 <br />
 
 ## Education
 
-University of Washington                2020 - 2022 <br />
+2020 - 2022 University of Washington                 <br />
 Master of Statistics (4.00) <br />
 
-Purdue University                       2017 - 2020 <br />
+2017 - 2020 Purdue University                        <br />
 Bachelor of Mathematics with Computer Science (3.89)<br />
 
 
