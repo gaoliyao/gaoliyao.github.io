@@ -42,9 +42,14 @@ I am currently a Master student at Universty of Washington, Statistics. Currentl
 <br />
 
 ## Education
-2017 - 2020 Student at Purdue University, Mathematics with Computer Science. (3.89)
 
-2020 - now Student at University of Washington, Statistics. (4.00)
+University of Washington                2020 - 2022
+Master of Statistics (4.00)
+
+Purdue University                       2017 - 2020 
+Bachelor of Mathematics with Computer Science (3.89)
+
+
 
 <br />
 
