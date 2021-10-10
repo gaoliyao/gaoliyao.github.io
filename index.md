@@ -27,8 +27,8 @@ We build decomposed convolutional filters (DCF) to equip CNNs with certain basis
 
 ### &nbsp;&nbsp;Publications on Conference and Journal:
 
-- **On Optimal Early Stopping: Overparametrization versus Underparametrization.** <br /> 
-*Submitted to ICLR 2022. [PDF link](https://openreview.net/pdf?id=LQCUmLgFlR)*
+- **Optimal Early Stopping for Overparametrization Models.** <br /> 
+*Submitted to ICLR 2022. 
 
 - **Quantifying Uncertainty in Deep Spatiotemporal Forecasting.** <br />
 *Dongxia Wu, Liyao Gao, Xinyue Xiong, Matteo Chinazzi, Alessandro Vespignani, Yi-An Ma, Rose Yu. SIGKDD (2021). [arXiv](https://arxiv.org/pdf/2105.11982.pdf) and [Code](https://github.com/DongxiaW/Quantifying_Uncertainty_in_Deep_Spatiotemporal_Forecasting)* <br />
