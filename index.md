@@ -4,7 +4,7 @@ layout: default
 
 ## Hi, I'm Mars (Liyao)
 
-I am currently a Master student at Universty of Washington, Statistics. Currently, I'm working with Prof.[Nathan Kutz](https://amath.washington.edu/people/j-nathan-kutz) on constructing Bayesian  posterior via Stochastic Gradient Langevin Dynamics to perform model discovery. Besides, I'm also working with Prof. [Wei Zhu](https://people.math.umass.edu/~zhu/) on building decomposed convolutional filters (DCF) to equip CNNs with certain basis to build equivariance on transformation in rotation-scaling-translation group. In 2020, I worked with Prof. [Yi-An Ma](https://sites.google.com/view/yianma/home) on scalable inference methods with theoretical guarantees. Prior to UW, I used to be a student at Purdue Univesity and has been fortunately instructed by Prof. [Guang Lin](https://www.math.purdue.edu/~lin491/). My current **Research Interests** focus on Learning theory, Bayesian deep learning, Generalization Issues for Deep Neural Networks.
+I am currently a Master student at Universty of Washington, Statistics. Currently, I'm working with Prof.[Nathan Kutz](https://amath.washington.edu/people/j-nathan-kutz) on constructing Bayesian  posterior via Stochastic Gradient Langevin Dynamics to perform model discovery. Besides, I'm also working with Prof. [Wei Zhu](https://people.math.umass.edu/~zhu/) on building decomposed convolutional filters (DCF) to equip CNNs with certain basis to build equivariance on transformation in rotation-scaling-translation group. In 2020, I worked with Prof. [Yi-An Ma](https://sites.google.com/view/yianma/home) on scalable inference methods with theoretical guarantees. Prior to UW, I used to be a student at Purdue Univesity and has been fortunately instructed by Prof. [Guang Lin](https://www.math.purdue.edu/~lin491/). My current **Research Interests** focus on **Learning theory, Bayesian deep learning, Generalization Issues for Deep Neural Networks**.
 
 <br />
 <!--![University of Washington. (Credit to UW website)](https://raw.githubusercontent.com/gaoliyao/gaoliyao.github.io/master/img/UW.png?token=ADLTCAFYJULIWSPGXGUWASC7PJPR6) -->
@@ -27,7 +27,7 @@ We build decomposed convolutional filters (DCF) to equip CNNs with certain basis
 ### __Publications on Conference and Journal:
 
 - **On Optimal Early Stopping: Overparametrization versus Underparametrization.** <br /> 
-*Ruoqi Shen, \underline{\smash{Liyao Gao}}, Yi-An Ma. Submitted to \textbf{ICLR 2022}. [PDF link](https://openreview.net/pdf?id=LQCUmLgFlR)*
+*Ruoqi Shen, Liyao Gao, Yi-An Ma. Submitted to ICLR 2022. [PDF link](https://openreview.net/pdf?id=LQCUmLgFlR)*
 
 - **Quantifying Uncertainty in Deep Spatiotemporal Forecasting.** <br />
 *Dongxia Wu, Liyao Gao, Xinyue Xiong, Matteo Chinazzi, Alessandro Vespignani, Yi-An Ma, Rose Yu. SIGKDD (2021). [arXiv](https://arxiv.org/pdf/2105.11982.pdf) and [Code](https://github.com/DongxiaW/Quantifying_Uncertainty_in_Deep_Spatiotemporal_Forecasting)* <br />
