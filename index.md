@@ -4,7 +4,7 @@ layout: default
 
 ## Hi, I'm Liyao (Mars)
 
-I am currently a Master student at Universty of Washington, Statistics. Currently, I'm working with Prof. [Nathan Kutz](https://amath.washington.edu/people/j-nathan-kutz) on deep learning methods for governing equations discovery. Besides, I'm also working with Prof. [Wei Zhu](https://people.math.umass.edu/~zhu/) on equivariant learning on rotation-scaling-translation group. In 2020, I worked with Prof. [Yi-An Ma](https://sites.google.com/view/yianma/home) on scalable inference methods with theoretical guarantees. Prior to UW, I used to be a student at Purdue Univesity and has been fortunately instructed by Prof. [Guang Lin](https://www.math.purdue.edu/~lin491/). 
+I am currently a Master student at Universty of Washington, Statistics. Currently, I'm working with Prof. [Nathan Kutz](https://amath.washington.edu/people/j-nathan-kutz) on deep learning methods for governing equations discovery. Besides, I'm also working with Prof. [Wei Zhu](https://people.math.umass.edu/~zhu/) on equivariant learning for random rotation-scaling transformation. In 2020, I worked with Prof. [Yi-An Ma](https://sites.google.com/view/yianma/home) on scalable Bayesian inference methods with theoretical guarantees. Prior to UW, I used to be a student at Purdue Univesity and has been fortunately instructed by Prof. [Guang Lin](https://www.math.purdue.edu/~lin491/). 
 
 **Research Interests:** Learning theory, Bayesian deep learning, Generalization Issues for Deep Neural Networks.
 
@@ -14,7 +14,7 @@ I am currently a Master student at Universty of Washington, Statistics. Currentl
 
 ## Research Projects & Publication Papers
 
-### __Ongoing Research Projects:
+### &nbsp;&nbsp;Ongoing Research Projects:
 
 - **Bayesian Uncertainty Quantification in Model Discovery with Deep Sparse Identification of Nonlinear Dynamics.** <br />
 *with Professor Nathan Kutz, University of Washington* <br />
