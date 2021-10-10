@@ -38,24 +38,7 @@ I am currently a Master student at Universty of Washington, Statistics. Currentl
 
 - **RotEqNet: Rotation-Equivariant Network for Fluid Systems with Symmetric High-Order Tensors.** <br />
 *Liyao Gao, Yifan Du, Hongshan Li, Guang Lin. *Under major revision to JCP.* [arXiv](https://arxiv.org/pdf/2005.04286.pdf)*<br />
-<br />
 
-
-## Study notes
-
-- [Stationary notations](https://gaoliyao.github.io/stationary)
-
-- [Abstract algebra](https://gaoliyao.github.io/absalgebra)
-
-- [Log-Sobolev Inequality short notes](https://gaoliyao.github.io/FinalReview/Log_Sobolev_Inequality_draft.pdf)
-
-- [Notes for Statistical Inference (Qual)](https://gaoliyao.github.io/FinalReview/Theoryexam.pdf)
-
-- [Notes for SINDy autoencoder](https://drive.google.com/u/0/uc?id=1GMKm-ZGKfzEQTizhaC8W331VBP4TXDMS&export=pdf) 
-
-- [Notes for UQ-SINDy](https://drive.google.com/u/0/uc?id=1HKkyYeAOp7gOD5ujqum9cIUHZihF1F5H&export=pdf)
-
-- [Computational Optimal Transport](https://drive.google.com/u/0/uc?id=1sktFfasiLcN01s6RytbMKyHtd2Cs5X_A&export=pdf)
 <br />
 
 ## Education
@@ -75,6 +58,25 @@ I am currently a Master student at Universty of Washington, Statistics. Currentl
 2012 - China National Astronomy Olympics 1st Place
 
 <br />
+
+## Study notes
+
+- [Stationary notations](https://gaoliyao.github.io/stationary)
+
+- [Abstract algebra](https://gaoliyao.github.io/absalgebra)
+
+- [Log-Sobolev Inequality short notes](https://gaoliyao.github.io/FinalReview/Log_Sobolev_Inequality_draft.pdf)
+
+- [Notes for Statistical Inference (Qual)](https://gaoliyao.github.io/FinalReview/Theoryexam.pdf)
+
+- [Notes for SINDy autoencoder](https://drive.google.com/u/0/uc?id=1GMKm-ZGKfzEQTizhaC8W331VBP4TXDMS&export=pdf) 
+
+- [Notes for UQ-SINDy](https://drive.google.com/u/0/uc?id=1HKkyYeAOp7gOD5ujqum9cIUHZihF1F5H&export=pdf)
+
+- [Computational Optimal Transport](https://drive.google.com/u/0/uc?id=1sktFfasiLcN01s6RytbMKyHtd2Cs5X_A&export=pdf)
+
+<br />
+
 ## Contact
 Email:
 marsgao AT uw DOT edu
