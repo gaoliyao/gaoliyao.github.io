@@ -5,18 +5,18 @@ layout: default
 ## Hi, I'm Mars (Liyao)
 
 I am currently a Master student at Universty of Washington, Statistics. Currently, I'm working with Prof.[Nathan Kutz](https://amath.washington.edu/people/j-nathan-kutz) on XXXXXXXXXXX. Besides, I'm also working with Prof. [Wei Zhu](https://people.math.umass.edu/~zhu/) on XXXXXXXXXXX. In 2020, I worked with Prof. [Yi-An Ma](https://sites.google.com/view/yianma/home) on scalable inference methods with theoretical guarantees. Prior to UW, I used to be a student at Purdue Univesity and has been fortunately instructed by Prof. [Guang Lin](https://www.math.purdue.edu/~lin491/).
-
+<br />
 
 ## Fields of Interest
 
 Learning theory, Bayesian deep learning, Generalization Issues for Deep Neural Networks
-
+<br />
 <!--![University of Washington. (Credit to UW website)](https://raw.githubusercontent.com/gaoliyao/gaoliyao.github.io/master/img/UW.png?token=ADLTCAFYJULIWSPGXGUWASC7PJPR6) -->
 
 
 ## Publications
 
-### __Conference and Journal articles:
+### __Conference and Journal articles__:
 
 - **Quantifying Uncertainty in Deep Spatiotemporal Forecasting.** <br />
 *Dongxia Wu, Liyao Gao, Xinyue Xiong, Matteo Chinazzi, Alessandro Vespignani, Yi-An Ma, Rose Yu. SIGKDD (2021). [arXiv](https://arxiv.org/pdf/2105.11982.pdf) and [Code](https://github.com/DongxiaW/Quantifying_Uncertainty_in_Deep_Spatiotemporal_Forecasting)* <br />
@@ -31,7 +31,7 @@ Learning theory, Bayesian deep learning, Generalization Issues for Deep Neural N
 *Liyao Gao, Hongshan Li, Zheying Lu, Guang Lin. *Ubicomp CPD Workshop. ACM, 2019*. [ACM](https://dl.acm.org/ft_gateway.cfm?id=3349330&ftid=2082607&dwn=1&CFID=174579832&CFTOKEN=2056b8b608a255d0-6FDD2312-FB2D-99B6-12E58D3451BCA0FA) and [code](https://github.com/LouiseHash/Rotation_Equivariant_CNN_Ensembles)*<br />
 
 
-### __Preprints:
+### __Preprints__:
 
 - **Evaluation of probabilistic forecasts of COVID-19 mortality in the US.** <br />
 *R&R, PNAS. [medRxiv](https://www.medrxiv.org/content/10.1101/2021.02.03.21250974v1.full.pdf)*<br />
@@ -41,7 +41,7 @@ Learning theory, Bayesian deep learning, Generalization Issues for Deep Neural N
 
 - **RotEqNet: Rotation-Equivariant Network for Fluid Systems with Symmetric High-Order Tensors.** <br />
 *Liyao Gao, Yifan Du, Hongshan Li, Guang Lin. *Under major revision to JCP.* [arXiv](https://arxiv.org/pdf/2005.04286.pdf)*<br />
-
+<br />
 
 
 ## Study notes
@@ -59,13 +59,13 @@ Learning theory, Bayesian deep learning, Generalization Issues for Deep Neural N
 - [Notes for UQ-SINDy](https://drive.google.com/u/0/uc?id=1HKkyYeAOp7gOD5ujqum9cIUHZihF1F5H&export=pdf)
 
 - [Computational Optimal Transport](https://drive.google.com/u/0/uc?id=1sktFfasiLcN01s6RytbMKyHtd2Cs5X_A&export=pdf)
-
+<br />
 ## Education
 2017 - 2020 Student at Purdue University, Mathematics with Computer Science. (3.89)
 
 2020 - now Student at University of Washington, Statistics. (4.00)
 
-
+<br />
 ## Honors and Awards:
 ### Academic Awards and Scholoarships
 
@@ -75,7 +75,7 @@ Learning theory, Bayesian deep learning, Generalization Issues for Deep Neural N
 
 2012 - China National Astronomy Olympics 1st Place
 
-
+<br />
 ## Contact
 Email:
 marsgao AT uw DOT edu
