@@ -5,11 +5,13 @@ layout: default
 ## Hi, I'm Mars (Liyao)
 
 I am currently a Master student at Universty of Washington, Statistics. Currently, I'm working with Prof.[Nathan Kutz](https://amath.washington.edu/people/j-nathan-kutz) on XXXXXXXXXXX. Besides, I'm also working with Prof. [Wei Zhu](https://people.math.umass.edu/~zhu/) on XXXXXXXXXXX. In 2020, I worked with Prof. [Yi-An Ma](https://sites.google.com/view/yianma/home) on scalable inference methods with theoretical guarantees. Prior to UW, I used to be a student at Purdue Univesity and has been fortunately instructed by Prof. [Guang Lin](https://www.math.purdue.edu/~lin491/).
+
 <br />
 
 ## Fields of Interest
 
 Learning theory, Bayesian deep learning, Generalization Issues for Deep Neural Networks
+
 <br />
 <!--![University of Washington. (Credit to UW website)](https://raw.githubusercontent.com/gaoliyao/gaoliyao.github.io/master/img/UW.png?token=ADLTCAFYJULIWSPGXGUWASC7PJPR6) -->
 
