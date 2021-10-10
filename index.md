@@ -18,7 +18,7 @@ Learning theory, Bayesian deep learning, Generalization Issues for Deep Neural N
 
 ## Publications
 
-### __Conference and Journal articles__:
+### __Conference and Journal articles:
 
 - **Quantifying Uncertainty in Deep Spatiotemporal Forecasting.** <br />
 *Dongxia Wu, Liyao Gao, Xinyue Xiong, Matteo Chinazzi, Alessandro Vespignani, Yi-An Ma, Rose Yu. SIGKDD (2021). [arXiv](https://arxiv.org/pdf/2105.11982.pdf) and [Code](https://github.com/DongxiaW/Quantifying_Uncertainty_in_Deep_Spatiotemporal_Forecasting)* <br />
@@ -33,7 +33,7 @@ Learning theory, Bayesian deep learning, Generalization Issues for Deep Neural N
 *Liyao Gao, Hongshan Li, Zheying Lu, Guang Lin. *Ubicomp CPD Workshop. ACM, 2019*. [ACM](https://dl.acm.org/ft_gateway.cfm?id=3349330&ftid=2082607&dwn=1&CFID=174579832&CFTOKEN=2056b8b608a255d0-6FDD2312-FB2D-99B6-12E58D3451BCA0FA) and [code](https://github.com/LouiseHash/Rotation_Equivariant_CNN_Ensembles)*<br />
 
 
-### __Preprints__:
+### __Preprints:
 
 - **Evaluation of probabilistic forecasts of COVID-19 mortality in the US.** <br />
 *R&R, PNAS. [medRxiv](https://www.medrxiv.org/content/10.1101/2021.02.03.21250974v1.full.pdf)*<br />
@@ -62,12 +62,14 @@ Learning theory, Bayesian deep learning, Generalization Issues for Deep Neural N
 
 - [Computational Optimal Transport](https://drive.google.com/u/0/uc?id=1sktFfasiLcN01s6RytbMKyHtd2Cs5X_A&export=pdf)
 <br />
+
 ## Education
 2017 - 2020 Student at Purdue University, Mathematics with Computer Science. (3.89)
 
 2020 - now Student at University of Washington, Statistics. (4.00)
 
 <br />
+
 ## Honors and Awards:
 ### Academic Awards and Scholoarships
 
