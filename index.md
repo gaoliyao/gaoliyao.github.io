@@ -18,16 +18,16 @@ Learning theory, Bayesian deep learning, Generalization Issues for Deep Neural N
 
 ### Conference and Journal articles
 
-**Quantifying Uncertainty in Deep Spatiotemporal Forecasting.** <br />
+- **Quantifying Uncertainty in Deep Spatiotemporal Forecasting.** <br />
 Dongxia Wu, Liyao Gao, Xinyue Xiong, Matteo Chinazzi, Alessandro Vespignani, Yi-An Ma, Rose Yu. SIGKDD (2021). [arXiv](https://arxiv.org/pdf/2105.11982.pdf) and [Code](https://github.com/DongxiaW/Quantifying_Uncertainty_in_Deep_Spatiotemporal_Forecasting)
 
-**Non-convex Learning via Replica Exchange Stochastic Gradient MCMC.** <br />
+- **Non-convex Learning via Replica Exchange Stochastic Gradient MCMC.** <br />
 Wei Deng, Liyao Gao\*, Qi Feng\*, Faming Liang, Guang Lin. *ICML 2020.* [arXiv](https://arxiv.org/pdf/2008.05367.pdf) and [Code](https://github.com/gaoliyao/Replica_Exchange_Stochastic_Gradient_MCMC)
 
-**H-DrunkWalk: Collaborative and Adaptive Navigation for Heterogeneous MAV swarm.** <br />
+- **H-DrunkWalk: Collaborative and Adaptive Navigation for Heterogeneous MAV swarm.** <br />
 Xinlei Chen, Carlos Ruiz, Sihan Zeng, Liyao Gao, Aveek Purohit, Stefano Carpin, Pei Zhang, et al. *Transactions on Sensor Networks. ACM, 2020.* [ACM](https://dl.acm.org/doi/abs/10.1145/3382094)
 
-**Rotation-equivariant convolutional neural network ensembles in image processing.** <br />
+- **Rotation-equivariant convolutional neural network ensembles in image processing.** <br />
 Liyao Gao, Hongshan Li, Zheying Lu, Guang Lin. *Ubicomp CPD Workshop. ACM, 2019*. [ACM](https://dl.acm.org/ft_gateway.cfm?id=3349330&ftid=2082607&dwn=1&CFID=174579832&CFTOKEN=2056b8b608a255d0-6FDD2312-FB2D-99B6-12E58D3451BCA0FA) and [code](https://github.com/LouiseHash/Rotation_Equivariant_CNN_Ensembles)
 
 
