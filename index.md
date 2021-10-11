@@ -2,9 +2,10 @@
 layout: default
 ---
 
-## Hi, I'm Liyao (Mars)
+## Hi, I'm Liyao (Mars) Gao
 
 I am currently a Master student at Universty of Washington, Statistics. Currently, I'm working with Prof. [Nathan Kutz](https://amath.washington.edu/people/j-nathan-kutz) on deep learning methods for governing equations discovery. Besides, I'm also working with Prof. [Wei Zhu](https://people.math.umass.edu/~zhu/) on equivariant learning for robust random rotation-scaling transformation. In 2020, I worked with Prof. [Yi-An Ma](https://sites.google.com/view/yianma/home) on scalable Bayesian inference methods with theoretical guarantees. Prior to UW, I used to be a student at Purdue Univesity and has been fortunately instructed by Prof. [Guang Lin](https://www.math.purdue.edu/~lin491/). 
+
 **Research Interests:** Learning theory, Bayesian deep learning, Generalization Issues for Deep Neural Networks.
 
 <br />
