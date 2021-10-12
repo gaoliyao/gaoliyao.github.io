@@ -61,10 +61,10 @@ We build decomposed convolutional filters (DCF) to equip CNNs with certain basis
 ## Education
 
 2020 - 2022 University of Washington                 <br />
-Master of Statistics (4.00) <br />
+Master of Statistics <br />
 
 2017 - 2020 Purdue University                        <br />
-Bachelor of Mathematics with Computer Science (3.89)<br />
+Bachelor of Mathematics with Computer Science <br />
 
 
 
