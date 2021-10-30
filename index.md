@@ -18,11 +18,11 @@ I am currently a Master student at Universty of Washington, Statistics. Currentl
 
 - **Bayesian Uncertainty Quantification in Model Discovery with Deep Sparse Identification of Nonlinear Dynamics.** <br />
 *with Professor Nathan Kutz, University of Washington* <br />
-In this work, we construct Bayesian posterior via Stochastic Gradient Langevin Dynamics to perform model discovery with quantification of uncertainty. We apply Auto-encoder architecture with constraints for discovery of governing equation, and select laplace, spike-and-slab, regularized horseshoe prior to promote sparsity.
+In this work, we construct Bayesian posterior via Stochastic Gradient Langevin Dynamics to perform model discovery with quantification of uncertainty. We apply auto-encoder with constraints for discovery of governing equation, and select Gaussian-Laplace prior to promote sparsity. We are doing further experiments for video (optical flow) data. 
 
 - **Rotation-Scale Equvariant Networks with Decomposed Convolutional Filters.** <br />
-*with Dr. Wei Zhu, UMass Amherst* <br />
-We build decomposed convolutional filters (DCF) to equip CNNs with certain basis (Fourier-Bessel, Hermite polynomial with Gaussian envelope) to build equivariance on transformation in rotation-scaling-translation group. We show robustness of DCF representation in theory with improved performances in deep learning experiments.
+*with Professor Wei Zhu, UMass Amherst* <br />
+We build decomposed convolutional filters (DCF) to equip CNNs with certain basis (Fourier-Bessel, Hermite polynomial) to build equivariance on transformation in rotation-scaling-translation group. We show robustness of DCF representation in theory with improved performances in deep learning experiments on rotated MNIST, rotated Fashion-MNIST, and STL-10.
 
 <br />
 
