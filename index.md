@@ -20,13 +20,12 @@ I am currently a Master student at Universty of Washington, Statistics. Currentl
 *with Professor Nathan Kutz, University of Washington* <br />
 In this work, we construct Bayesian posterior via Stochastic Gradient Langevin Dynamics to perform model discovery with quantification of uncertainty. We apply auto-encoder with constraints for discovery of governing equation, and select Gaussian-Laplace prior to promote sparsity. We are doing further experiments for video (optical flow) data. 
 
-- **Rotation-Scale Equvariant Networks with Decomposed Convolutional Filters.** <br />
-*with Professor Wei Zhu, UMass Amherst* <br />
-We build decomposed convolutional filters (DCF) to equip CNNs with certain basis (Fourier-Bessel, Hermite polynomial) to build equivariance on transformation in rotation-scaling-translation group. We show robustness of DCF representation in theory with improved performances in deep learning experiments on rotated MNIST, rotated Fashion-MNIST, and STL-10.
-
 <br />
 
 ### &nbsp;&nbsp;Publications on Conference and Journal:
+
+- **Deformation Robust Roto-Scale-Translation Equivariant CNNs.** <br /> 
+Liyao Gao, Guang Lin, Wei Zhu. (Submitted)
 
 - **Optimal Early Stopping for Overparametrization Models.** <br /> 
 *Submitted to ICLR 2022.*
