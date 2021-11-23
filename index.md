@@ -25,7 +25,7 @@ In this work, we construct Bayesian posterior via Stochastic Gradient Langevin D
 ### &nbsp;&nbsp;Publications on Conference and Journal:
 
 - **Deformation Robust Roto-Scale-Translation Equivariant CNNs.** <br /> 
-Liyao Gao, Guang Lin, Wei Zhu. (Submitted)
+Liyao Gao, Guang Lin, Wei Zhu. [link](https://arxiv.org/pdf/2111.10978.pdf)
 
 - **Optimal Early Stopping for Overparametrization Models.** <br /> 
 *Submitted to ICLR 2022.*
