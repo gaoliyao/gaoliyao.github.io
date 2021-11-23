@@ -28,7 +28,7 @@ In this work, we construct Bayesian posterior via Stochastic Gradient Langevin D
 Liyao Gao, Guang Lin, Wei Zhu*. [Submitted] 🎉🎉🎉. [paper link](https://arxiv.org/pdf/2111.10978.pdf) 
 
 - **On Optimal Early Stopping: Overparametrization versus Underparametrization.** <br /> 
-Ruoqi Shen, Liyao Gao, Yi-An Ma. 
+Ruoqi Shen, Liyao Gao, Yi-An Ma. [Submitted]
 
 - **Quantifying Uncertainty in Deep Spatiotemporal Forecasting.** <br />
 *Dongxia Wu, Liyao Gao, Xinyue Xiong, Matteo Chinazzi, Alessandro Vespignani, Yi-An Ma, Rose Yu. SIGKDD (2021). [arXiv](https://arxiv.org/pdf/2105.11982.pdf) and [Code](https://github.com/DongxiaW/Quantifying_Uncertainty_in_Deep_Spatiotemporal_Forecasting)* <br />
