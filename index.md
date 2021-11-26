@@ -54,6 +54,8 @@ Ruoqi Shen, Liyao Gao, Yi-An Ma. [Submitted]
 - **Rotation-equivariant convolutional neural network ensembles in image processing.** <br />
 *Liyao Gao, Hongshan Li, Zheying Lu, Guang Lin. *Ubicomp CPD Workshop. ACM, 2019*. [ACM](https://dl.acm.org/ft_gateway.cfm?id=3349330&ftid=2082607&dwn=1&CFID=174579832&CFTOKEN=2056b8b608a255d0-6FDD2312-FB2D-99B6-12E58D3451BCA0FA) and [code](https://github.com/LouiseHash/Rotation_Equivariant_CNN_Ensembles)*<br />
 
+### &nbsp;&nbsp;Talks:
+
 
 <br />
 
@@ -80,7 +82,11 @@ Bachelor of Mathematics with Computer Science <br />
 
 <br />
 
-## Study notes
+## Courses List:
+
+<br />
+
+## Study notes:
 
 - [Stationary notations](https://gaoliyao.github.io/stationary)
 
