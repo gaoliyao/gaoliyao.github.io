@@ -23,7 +23,6 @@ I am currently a Master student at Universty of Washington, Statistics. Currentl
 *with Professor Nathan Kutz, University of Washington* <br />
 In this work, we construct Bayesian posterior via Stochastic Gradient Langevin Dynamics to perform model discovery with quantification of uncertainty. We apply auto-encoder with constraints for discovery of governing equation, and select Gaussian-Laplace prior to promote sparsity. We are doing further experiments for video (optical flow) data. 
 
-<br />
 
 ### &nbsp;&nbsp;Publications:
 
@@ -83,6 +82,10 @@ Bachelor of Mathematics with Computer Science <br />
 <br />
 
 ## Courses List:
+
+**University of Washington:** Advanced Regression Methods for Independent Data, Deep Learning and Equation Discovery (Research), Optimal Transportation, Analysis of Categorical and Count Data, Statistical Computing, Theory of Optimization and Continuous Algorithms, Statistical Inference II, Deep Learning Theory, Applied Regression, Design And Analysis of Experiments, Statistical Inference I, Measure Theory
+
+**Purdue University:** Ordinary differential equations, Numerical Methods, Calculus I/II/III, Linear Algebra II, Abstract Algebra, Mathematical Aspects of Neural Networks, Data Structures And Algorithms, Probability, Introduction to Discrete Mathematics, Linear Algebra
 
 <br />
 
