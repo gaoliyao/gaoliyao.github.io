@@ -57,3 +57,8 @@ Remove jupyter notebook kernel.
 jupyter kernelspec list
 jupyter kernelspec uninstall unwanted-kernel
 ```
+
+Copy between two machines. 
+```
+scp -r usr_name@172.28.14.182:/home/usr_name/video_generation/x_gaussian.npy .
+```
