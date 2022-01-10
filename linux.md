@@ -61,4 +61,5 @@ jupyter kernelspec uninstall unwanted-kernel
 Copy between two machines. 
 ```
 scp -r usr_name@172.28.14.182:/home/usr_name/video_generation/x_gaussian.npy .
+mv x_gaussian.npy dx_gaussian.npy ddx_gaussian.npy ../SindyAutoencoders/examples/pen_video/
 ```
