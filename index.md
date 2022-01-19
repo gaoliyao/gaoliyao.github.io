@@ -111,7 +111,9 @@ Bachelor of Mathematics with Computer Science <br />
 
 - [Notes for UQ-SINDy](https://drive.google.com/u/0/uc?id=1HKkyYeAOp7gOD5ujqum9cIUHZihF1F5H&export=pdf)
 
-- [Computational Optimal Transport](https://drive.google.com/u/0/uc?id=1sktFfasiLcN01s6RytbMKyHtd2Cs5X_A&export=pdf)
+- [Optimal Transport](https://gaoliyao.github.io/FinalReview/Notes_on_Optimal_Transport.pdf)
+
+
 
 <br />
 
