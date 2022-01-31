@@ -3,7 +3,7 @@
 I wish to note here the analysis was first derived by Ruoqi. It is a very remarkable way of thinking to this problem. 
 
 Main idea of the Theorem. 
-In setting $\mathcal{S}_{over}$, for a fixed parameter $\theta^*$ and noise variance $\sigma^2$, when $n\leq d$, let $\gamma=\left(\frac{\sqrt n+\sqrt{2\log n}}{\sqrt d}\right)^2$. For $\gamma\leq 1$, with probability at least $1-\frac{2}{n}$ over the randomness of $X$, the optimal early stopping time $t_{opt}$ satisfies
+In setting $S_{over}$, for a fixed parameter $\theta^* $ and noise variance $\sigma^2$, when $n\leq d$, let $\gamma=\left(\frac{\sqrt n+\sqrt{2\log n}}{\sqrt d}\right)^2$. For $\gamma\leq 1$, with probability at least $1-\frac{2}{n}$ over the randomness of $X$, the optimal early stopping time $t_{opt}$ satisfies
 
 $$
 \frac{n}{(1+\sqrt{\gamma})^2d}\log\left(1+\frac{(1-\sqrt{\gamma})^2||\theta^*||^2_2}{\sigma^2}\right) \leq t_{opt} \leq \frac{n}{(1-\sqrt{\gamma})^2d}\log\left(1+\frac{(1+\sqrt{\gamma})^2||\theta^*||^2_2}{\sigma^2}\right).
