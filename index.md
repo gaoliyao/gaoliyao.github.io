@@ -9,7 +9,7 @@ I am currently a Master student at Universty of Washington, Statistics. Currentl
 **Research Interests:** Learning theory, Bayesian deep learning, Generalization Issues for Deep Neural Networks.
 
 
-**Skills and Programming Languages:** Expert: Python, C/C++, Java, Android, R, MATLAB, PyTorch, Tensorflow, Linux, C#, Scikit-learn, LaTex, LyX, Markdown, Numpy, Scipy, IOS, Swift, HTML, J2EE, JavaScript, TypeScript, NodeJS.
+<!--**Skills and Programming Languages:** Expert: Python, C/C++, Java, Android, R, MATLAB, PyTorch, Tensorflow, Linux, C#, Scikit-learn, LaTex, LyX, Markdown, Numpy, Scipy, IOS, Swift, HTML, J2EE, JavaScript, TypeScript, NodeJS.-->
 
 <br />
 <!--![University of Washington. (Credit to UW website)](https://raw.githubusercontent.com/gaoliyao/gaoliyao.github.io/master/img/UW.png?token=ADLTCAFYJULIWSPGXGUWASC7PJPR6) -->
