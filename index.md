@@ -12,7 +12,7 @@ I am currently a Master student at Universty of Washington, Statistics. Currentl
 <!--**Skills and Programming Languages:** Expert: Python, C/C++, Java, Android, R, MATLAB, PyTorch, Tensorflow, Linux, C#, Scikit-learn, LaTex, LyX, Markdown, Numpy, Scipy, IOS, Swift, HTML, J2EE, JavaScript, TypeScript, NodeJS.-->
 
 <br />
-![University of Washington. (Credit to UW website)](https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/57/2020/08/18125914/hp-gallery-red-squareC-16x12.jpg)
+<!--![University of Washington. (Credit to UW website)](https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/57/2020/08/18125914/hp-gallery-red-squareC-16x12.jpg)--!>
 
 
 ## Research Projects & Publication Papers
