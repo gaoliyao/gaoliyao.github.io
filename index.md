@@ -12,7 +12,7 @@ I am currently a Master student at Universty of Washington, Statistics. Currentl
 <!--**Skills and Programming Languages:** Expert: Python, C/C++, Java, Android, R, MATLAB, PyTorch, Tensorflow, Linux, C#, Scikit-learn, LaTex, LyX, Markdown, Numpy, Scipy, IOS, Swift, HTML, J2EE, JavaScript, TypeScript, NodeJS.-->
 
 <br />
-<!--![University of Washington. (Credit to UW website)](https://raw.githubusercontent.com/gaoliyao/gaoliyao.github.io/master/img/UW.png?token=ADLTCAFYJULIWSPGXGUWASC7PJPR6) -->
+![University of Washington. (Credit to UW website)](https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/57/2020/08/18125914/hp-gallery-red-squareC-16x12.jpg)
 
 
 ## Research Projects & Publication Papers
@@ -29,8 +29,8 @@ In this work, we construct Bayesian posterior via Stochastic Gradient Langevin D
 - **Deformation Robust Roto-Scale-Translation Equivariant CNNs.** <br /> 
 Liyao Gao, Guang Lin, Wei Zhu*. [Submitted] 🎉🎉🎉. [paper link](https://arxiv.org/pdf/2111.10978.pdf) 
 
-- **On Optimal Early Stopping: Overparametrization versus Underparametrization.** <br /> 
-Ruoqi Shen, Liyao Gao, Yi-An Ma. [Submitted]
+- **On Optimal Early Stopping: Over-informative versus Under-informative Parametrization.** <br /> 
+Ruoqi Shen, Liyao Gao, Yi-An Ma. [Submitted]. [paper link](https://arxiv.org/pdf/2202.09885.pdf) 
 
 - **Quantifying Uncertainty in Deep Spatiotemporal Forecasting.** <br />
 *Dongxia Wu, Liyao Gao, Xinyue Xiong, Matteo Chinazzi, Alessandro Vespignani, Yi-An Ma, Rose Yu. SIGKDD (2021). [arXiv](https://arxiv.org/pdf/2105.11982.pdf) and [Code](https://github.com/DongxiaW/Quantifying_Uncertainty_in_Deep_Spatiotemporal_Forecasting)* <br />
