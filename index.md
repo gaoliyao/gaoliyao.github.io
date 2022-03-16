@@ -112,6 +112,8 @@ Bachelor of Mathematics with Computer Science <br />
 
 - [Optimal Transport](https://gaoliyao.github.io/FinalReview/Notes_on_Optimal_Transport.pdf)
 
+- [Bayesian Statistics](https://gaoliyao.github.io/FinalReview/Bayesian_Statistics.pdf)
+
 
 
 <br />
