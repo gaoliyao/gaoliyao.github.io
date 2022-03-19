@@ -6,7 +6,7 @@ layout: default
 
 I am currently a Master student at Universty of Washington, Statistics. Currently, I'm working with Prof. [Nathan Kutz](https://amath.washington.edu/people/j-nathan-kutz) on deep learning methods for governing equations discovery. Besides, I'm also working with Prof. [Wei Zhu](https://people.math.umass.edu/~zhu/) on robust equivariant learning for random rotation-scaling transformation. In 2020, I worked with Prof. [Yi-An Ma](https://sites.google.com/view/yianma/home) on scalable Bayesian inference methods with theoretical guarantees. Prior to UW, I used to be a student at Purdue Univesity and has been fortunately instructed by Prof. [Guang Lin](https://www.math.purdue.edu/~lin491/). 
 
-**Research Interests:** Learning theory, Bayesian deep learning, Generalization Issues for Deep Neural Networks.
+<!--**Research Interests:** Learning theory, Bayesian deep learning, Generalization Issues for Deep Neural Networks.-->
 
 
 <!--**Skills and Programming Languages:** Expert: Python, C/C++, Java, Android, R, MATLAB, PyTorch, Tensorflow, Linux, C#, Scikit-learn, LaTex, LyX, Markdown, Numpy, Scipy, IOS, Swift, HTML, J2EE, JavaScript, TypeScript, NodeJS.-->
@@ -14,16 +14,16 @@ I am currently a Master student at Universty of Washington, Statistics. Currentl
 <br />
 
 
-## Research Projects & Publication Papers
+## Recent Publication
 
-### &nbsp;&nbsp;Ongoing Research Projects:
+<!--### &nbsp;&nbsp;Ongoing Research Projects:
 
 - **Bayesian Uncertainty Quantification in Model Discovery with Deep Sparse Identification of Nonlinear Dynamics.** <br />
 *with Professor Nathan Kutz, University of Washington* <br />
-In this work, we construct Bayesian posterior via Stochastic Gradient Langevin Dynamics to perform model discovery with quantification of uncertainty. We apply auto-encoder with constraints for discovery of governing equation, and select Gaussian-Laplace prior to promote sparsity. We are doing further experiments for video (optical flow) data. 
+In this work, we construct Bayesian posterior via Stochastic Gradient Langevin Dynamics to perform model discovery with quantification of uncertainty. We apply auto-encoder with constraints for discovery of governing equation, and select Gaussian-Laplace prior to promote sparsity. We are doing further experiments for video (optical flow) data. -->
 
 
-### &nbsp;&nbsp;Publications:
+<!--### &nbsp;&nbsp;Publications:-->
 
 - **Deformation Robust Roto-Scale-Translation Equivariant CNNs.** <br /> 
 Liyao Gao, Guang Lin, Wei Zhu*. [Submitted] 🎉🎉🎉. [paper link](https://arxiv.org/pdf/2111.10978.pdf) 
@@ -31,7 +31,7 @@ Liyao Gao, Guang Lin, Wei Zhu*. [Submitted] 🎉🎉🎉. [paper link](https://a
 - **On Optimal Early Stopping: Over-informative versus Under-informative Parametrization.** <br /> 
 Ruoqi Shen, Liyao Gao, Yi-An Ma. [Submitted]. [paper link](https://arxiv.org/pdf/2202.09885.pdf) 
 
-- **Quantifying Uncertainty in Deep Spatiotemporal Forecasting.** <br />
+<!--- **Quantifying Uncertainty in Deep Spatiotemporal Forecasting.** <br />
 *Dongxia Wu, Liyao Gao, Xinyue Xiong, Matteo Chinazzi, Alessandro Vespignani, Yi-An Ma, Rose Yu. SIGKDD (2021). [arXiv](https://arxiv.org/pdf/2105.11982.pdf) and [Code](https://github.com/DongxiaW/Quantifying_Uncertainty_in_Deep_Spatiotemporal_Forecasting)* <br />
 
 - **Non-convex Learning via Replica Exchange Stochastic Gradient MCMC.** <br />
@@ -50,9 +50,9 @@ Ruoqi Shen, Liyao Gao, Yi-An Ma. [Submitted]. [paper link](https://arxiv.org/pdf
 *Xinlei Chen, Carlos Ruiz, Sihan Zeng, Liyao Gao, Aveek Purohit, Stefano Carpin, Pei Zhang, et al. *Transactions on Sensor Networks. ACM, 2020.* [ACM](https://dl.acm.org/doi/abs/10.1145/3382094)*<br />
 
 - **Rotation-equivariant convolutional neural network ensembles in image processing.** <br />
-*Liyao Gao, Hongshan Li, Zheying Lu, Guang Lin. *Ubicomp CPD Workshop. ACM, 2019*. [ACM](https://dl.acm.org/ft_gateway.cfm?id=3349330&ftid=2082607&dwn=1&CFID=174579832&CFTOKEN=2056b8b608a255d0-6FDD2312-FB2D-99B6-12E58D3451BCA0FA) and [code](https://github.com/LouiseHash/Rotation_Equivariant_CNN_Ensembles)*<br />
+*Liyao Gao, Hongshan Li, Zheying Lu, Guang Lin. *Ubicomp CPD Workshop. ACM, 2019*. [ACM](https://dl.acm.org/ft_gateway.cfm?id=3349330&ftid=2082607&dwn=1&CFID=174579832&CFTOKEN=2056b8b608a255d0-6FDD2312-FB2D-99B6-12E58D3451BCA0FA) and [code](https://github.com/LouiseHash/Rotation_Equivariant_CNN_Ensembles)*<br /> -->
 
-### &nbsp;&nbsp;Talks:
+<!--### &nbsp;&nbsp;Talks:
 - **Quantifying Uncertainty in Deep Spatiotemporal Forecasting for COVID-19.** NeurIPS, COVID-19 Symposium. [link](https://nips.cc/virtual/2020/symposium/19628#collapse-sl-21348)
 
 - **Rotation-Equivariant Convolutional Neural Network Ensembles.** Ubicomp 2019, Combining Physical and Data-Driven Knowledge in Ubiquitous Computing Workshop. [link](https://ubicomp-cpd.com/2019.html)
@@ -60,39 +60,8 @@ Ruoqi Shen, Liyao Gao, Yi-An Ma. [Submitted]. [paper link](https://arxiv.org/pdf
 
 ### &nbsp;&nbsp;Reviewer:
 - Time Series Workshop @ ICML 2021. 
-- Machine Learning for Mobile Health. NeurIPS 2020 Workshop. 
+- Machine Learning for Mobile Health. NeurIPS 2020 Workshop. -->
 
-
-<br />
-
-## Education
-
-2020 - 2022 University of Washington                 <br />
-Master of Statistics <br />
-
-2017 - 2020 Purdue University                        <br />
-Bachelor of Mathematics with Computer Science <br />
-
-
-
-<br />
-
-## Honors and Awards:
-### Academic Awards and Scholoarships
-
-2019 - Research assistantship
-
-2019 - Alton D. & Juanita S. Andrews Scholarship
-
-2012 - China National Astronomy Olympics 1st Place
-
-<br />
-
-## Courses List:
-
-**University of Washington:** Advanced Regression Methods for Independent Data, Deep Learning and Equation Discovery (Research), Optimal Transportation, Analysis of Categorical and Count Data, Statistical Computing, Theory of Optimization and Continuous Algorithms, Statistical Inference II, Deep Learning Theory, Applied Regression, Design And Analysis of Experiments, Statistical Inference I, Measure Theory
-
-**Purdue University:** Ordinary differential equations, Numerical Methods, Calculus I/II/III, Linear Algebra II, Abstract Algebra, Mathematical Aspects of Neural Networks, Data Structures And Algorithms, Probability, Introduction to Discrete Mathematics, Linear Algebra
 
 <br />
 
@@ -114,6 +83,39 @@ Bachelor of Mathematics with Computer Science <br />
 
 - [Bayesian Statistics](https://gaoliyao.github.io/FinalReview/Bayesian_Statistics.pdf)
 
+
+
+
+## Education
+
+2020 - 2022 University of Washington                 <br />
+Master of Statistics <br />
+
+2017 - 2020 Purdue University                        <br />
+Bachelor of Mathematics with Computer Science <br />
+
+
+
+<br />
+
+<!--## Honors and Awards:
+### Academic Awards and Scholoarships
+
+2019 - Research assistantship
+
+2019 - Alton D. & Juanita S. Andrews Scholarship
+
+2012 - China National Astronomy Olympics 1st Place
+
+<br />-->
+
+<!--## Courses List:
+
+**University of Washington:** Advanced Regression Methods for Independent Data, Deep Learning and Equation Discovery (Research), Optimal Transportation, Analysis of Categorical and Count Data, Statistical Computing, Theory of Optimization and Continuous Algorithms, Statistical Inference II, Deep Learning Theory, Applied Regression, Design And Analysis of Experiments, Statistical Inference I, Measure Theory
+
+**Purdue University:** Ordinary differential equations, Numerical Methods, Calculus I/II/III, Linear Algebra II, Abstract Algebra, Mathematical Aspects of Neural Networks, Data Structures And Algorithms, Probability, Introduction to Discrete Mathematics, Linear Algebra-->
+
+<br />
 
 
 <br />
