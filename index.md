@@ -25,6 +25,9 @@ In this work, we construct Bayesian posterior via Stochastic Gradient Langevin D
 
 <!--### &nbsp;&nbsp;Publications:-->
 
+- **RotEqNet: Rotation-Equivariant Network for Fluid Systems with Symmetric High-Order Tensors.** <br />
+Liyao Gao, Yifan Du, Hongshan Li, Guang Lin. *Journal of Computational Physics (To appear).* [arXiv](https://arxiv.org/pdf/2005.04286.pdf)<br />
+
 - **Deformation Robust Roto-Scale-Translation Equivariant CNNs.** <br /> 
 Liyao Gao, Guang Lin, Wei Zhu*. [Submitted] 🎉🎉🎉. [paper link](https://arxiv.org/pdf/2111.10978.pdf) 
 
