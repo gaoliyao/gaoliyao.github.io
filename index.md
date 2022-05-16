@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am currently a student at the Universty of Washington. I'm recently working with Prof. [Nathan Kutz](https://amath.washington.edu/people/j-nathan-kutz) on deep learning methods for governing equations discovery. Besides, I'm also working with Prof. [Wei Zhu](https://people.math.umass.edu/~zhu/) on robust equivariant learning for random rotation-scaling transformation. In 2020, I worked with Prof. [Yi-An Ma](https://sites.google.com/view/yianma/home) on scalable Bayesian inference methods with theoretical guarantees. Prior to UW, I used to be a student at Purdue Univesity and has been fortunately instructed by Prof. [Guang Lin](https://www.math.purdue.edu/~lin491/). 
+I am currently a student at the Universty of Washington, Computer Science and Engineering. I'm recently working with Prof. [Nathan Kutz](https://amath.washington.edu/people/j-nathan-kutz) on deep learning methods for physical equations discovery. Besides, I'm also working with Prof. [Wei Zhu](https://people.math.umass.edu/~zhu/) on robust equivariant learning for random rotation-scaling transformation. In 2020, I worked with Prof. [Yi-An Ma](https://sites.google.com/view/yianma/home) on scalable Bayesian inference methods with theoretical guarantees. Prior to UW, I used to be a student at Purdue Univesity and has been fortunately instructed by Prof. [Guang Lin](https://www.math.purdue.edu/~lin491/). 
 
 <!--**Research Interests:** Learning theory, Bayesian deep learning, Generalization Issues for Deep Neural Networks.-->
 
@@ -12,7 +12,7 @@ I am currently a student at the Universty of Washington. I'm recently working wi
 <br />
 
 
-## Recent Publication
+## Publication
 
 <!--### &nbsp;&nbsp;Ongoing Research Projects:
 
@@ -24,7 +24,7 @@ In this work, we construct Bayesian posterior via Stochastic Gradient Langevin D
 <!--### &nbsp;&nbsp;Publications:-->
 
 - **RotEqNet: Rotation-Equivariant Network for Fluid Systems with Symmetric High-Order Tensors.** <br />
-Liyao Gao, Yifan Du, Hongshan Li, Guang Lin. *Journal of Computational Physics (To appear).* [arXiv](https://arxiv.org/pdf/2005.04286.pdf)<br />
+Liyao Gao, Yifan Du, Hongshan Li, Guang Lin. *Journal of Computational Physics.* [arXiv](https://www.sciencedirect.com/science/article/pii/S0021999122002674)<br />
 
 - **Deformation Robust Roto-Scale-Translation Equivariant CNNs.** <br /> 
 Liyao Gao, Guang Lin, Wei Zhu*. [Submitted] 🎉🎉🎉. [paper link](https://arxiv.org/pdf/2111.10978.pdf) 
@@ -32,28 +32,25 @@ Liyao Gao, Guang Lin, Wei Zhu*. [Submitted] 🎉🎉🎉. [paper link](https://a
 - **On Optimal Early Stopping: Over-informative versus Under-informative Parametrization.** <br /> 
 Ruoqi Shen, Liyao Gao, Yi-An Ma. [Submitted]. [paper link](https://arxiv.org/pdf/2202.09885.pdf) 
 
-<!--- **Quantifying Uncertainty in Deep Spatiotemporal Forecasting.** <br />
+- **Quantifying Uncertainty in Deep Spatiotemporal Forecasting.** <br />
 *Dongxia Wu, Liyao Gao, Xinyue Xiong, Matteo Chinazzi, Alessandro Vespignani, Yi-An Ma, Rose Yu. SIGKDD (2021). [arXiv](https://arxiv.org/pdf/2105.11982.pdf) and [Code](https://github.com/DongxiaW/Quantifying_Uncertainty_in_Deep_Spatiotemporal_Forecasting)* <br />
 
 - **Non-convex Learning via Replica Exchange Stochastic Gradient MCMC.** <br />
 *Wei Deng, Liyao Gao\*, Qi Feng\*, Faming Liang, Guang Lin. *ICML 2020.* [arXiv](https://arxiv.org/pdf/2008.05367.pdf) and [Code](https://github.com/gaoliyao/Replica_Exchange_Stochastic_Gradient_MCMC)*<br />
 
 - **Evaluation of probabilistic forecasts of COVID-19 mortality in the US.** <br />
-*PNAS, Revise and Resubmit. [medRxiv](https://www.medrxiv.org/content/10.1101/2021.02.03.21250974v1.full.pdf)*<br />
+*PNAS. [medRxiv](https://www.medrxiv.org/content/10.1101/2021.02.03.21250974v1.full.pdf)*<br />
 
 - **DeepGLEAM: A hybrid mechanistic and deep learning model for COVID-19 forecasting.**  <br />
 *Dongxia Wu, Liyao Gao, Xinyue Xiong, Matteo Chinazzi, Alessandro Vespignani, Yi-An Ma, Rose Yu. preprint (2021). [arXiv](https://arxiv.org/abs/2102.06684)* <br />
-
-- **RotEqNet: Rotation-Equivariant Network for Fluid Systems with Symmetric High-Order Tensors.** <br />
-*Liyao Gao, Yifan Du, Hongshan Li, Guang Lin. *Under major revision to JCP.* [arXiv](https://arxiv.org/pdf/2005.04286.pdf)<br />
 
 - **H-DrunkWalk: Collaborative and Adaptive Navigation for Heterogeneous MAV swarm.** <br />
 *Xinlei Chen, Carlos Ruiz, Sihan Zeng, Liyao Gao, Aveek Purohit, Stefano Carpin, Pei Zhang, et al. *Transactions on Sensor Networks. ACM, 2020.* [ACM](https://dl.acm.org/doi/abs/10.1145/3382094)*<br />
 
 - **Rotation-equivariant convolutional neural network ensembles in image processing.** <br />
-*Liyao Gao, Hongshan Li, Zheying Lu, Guang Lin. *Ubicomp CPD Workshop. ACM, 2019*. [ACM](https://dl.acm.org/ft_gateway.cfm?id=3349330&ftid=2082607&dwn=1&CFID=174579832&CFTOKEN=2056b8b608a255d0-6FDD2312-FB2D-99B6-12E58D3451BCA0FA) and [code](https://github.com/LouiseHash/Rotation_Equivariant_CNN_Ensembles)*<br /> -->
+*Liyao Gao, Hongshan Li, Zheying Lu, Guang Lin. *Ubicomp CPD Workshop. ACM, 2019*. [ACM](https://dl.acm.org/ft_gateway.cfm?id=3349330&ftid=2082607&dwn=1&CFID=174579832&CFTOKEN=2056b8b608a255d0-6FDD2312-FB2D-99B6-12E58D3451BCA0FA) and [code](https://github.com/LouiseHash/Rotation_Equivariant_CNN_Ensembles)*<br /> 
 
-<!--### &nbsp;&nbsp;Talks:
+### &nbsp;&nbsp;Talks:
 - **Quantifying Uncertainty in Deep Spatiotemporal Forecasting for COVID-19.** NeurIPS, COVID-19 Symposium. [link](https://nips.cc/virtual/2020/symposium/19628#collapse-sl-21348)
 
 - **Rotation-Equivariant Convolutional Neural Network Ensembles.** Ubicomp 2019, Combining Physical and Data-Driven Knowledge in Ubiquitous Computing Workshop. [link](https://ubicomp-cpd.com/2019.html)
@@ -61,8 +58,16 @@ Ruoqi Shen, Liyao Gao, Yi-An Ma. [Submitted]. [paper link](https://arxiv.org/pdf
 
 ### &nbsp;&nbsp;Reviewer:
 - Time Series Workshop @ ICML 2021. 
-- Machine Learning for Mobile Health. NeurIPS 2020 Workshop. -->
+- Machine Learning for Mobile Health. NeurIPS 2020 Workshop.
 
+
+<br />
+
+## Honors and Awards:
+
+2019 - Alton D. & Juanita S. Andrews Scholarship
+
+2012 - China National Astronomy Olympics 1st Place
 
 <br />
 
@@ -85,30 +90,7 @@ Ruoqi Shen, Liyao Gao, Yi-An Ma. [Submitted]. [paper link](https://arxiv.org/pdf
 - [Bayesian Statistics](https://gaoliyao.github.io/FinalReview/Bayesian_Statistics.pdf)
 
 
-
-
-## Education
-
-2020 - 2022 University of Washington                 <br />
-Master of Statistics <br />
-
-2017 - 2020 Purdue University                        <br />
-Bachelor of Mathematics with Computer Science <br />
-
-
-
 <br />
-
-<!--## Honors and Awards:
-### Academic Awards and Scholoarships
-
-2019 - Research assistantship
-
-2019 - Alton D. & Juanita S. Andrews Scholarship
-
-2012 - China National Astronomy Olympics 1st Place
-
-<br />-->
 
 <!--## Courses List:
 
