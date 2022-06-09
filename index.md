@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am currently a student at the Universty of Washington, Computer Science and Engineering. I'm recently working with Prof. [Nathan Kutz](https://amath.washington.edu/people/j-nathan-kutz) on deep learning methods for physical equations discovery. Besides, I'm also working with Prof. [Wei Zhu](https://people.math.umass.edu/~zhu/) on robust equivariant learning for random rotation-scaling transformation. In 2020, I worked with Prof. [Yi-An Ma](https://sites.google.com/view/yianma/home) on scalable Bayesian inference methods with theoretical guarantees. Prior to UW, I used to be a student at Purdue Univesity and has been fortunately instructed by Prof. [Guang Lin](https://www.math.purdue.edu/~lin491/). 
+I am currently a student at the Universty of Washington, Computer Science and Engineering. I'm recently working with Prof. [J. Nathan Kutz](https://amath.washington.edu/people/j-nathan-kutz) on deep learning methods for physical equations discovery. Besides, I'm also working with Prof. [Wei Zhu](https://people.math.umass.edu/~zhu/) on robust equivariant learning for random rotation-scaling transformation. In 2020, I worked with Prof. [Yi-An Ma](https://sites.google.com/view/yianma/home) on scalable Bayesian inference methods with theoretical guarantees. Prior to UW, I used to be a student at Purdue Univesity and has been fortunately instructed by Prof. [Guang Lin](https://www.math.purdue.edu/~lin491/). 
 
 <!--**Research Interests:** Learning theory, Bayesian deep learning, Generalization Issues for Deep Neural Networks.-->
 
