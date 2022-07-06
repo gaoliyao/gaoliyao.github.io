@@ -23,11 +23,11 @@ In this work, we construct Bayesian posterior via Stochastic Gradient Langevin D
 
 <!--### &nbsp;&nbsp;Publications:-->
 
+- **Deformation Robust Roto-Scale-Translation Equivariant CNNs.** <br /> 
+Liyao Gao, Guang Lin, Wei Zhu*. Accepted by Transactions on Machine Learning Research (TMLR). [paper link](https://arxiv.org/pdf/2111.10978.pdf) 
+
 - **RotEqNet: Rotation-Equivariant Network for Fluid Systems with Symmetric High-Order Tensors.** <br />
 Liyao Gao, Yifan Du, Hongshan Li, Guang Lin. *Journal of Computational Physics.* [arXiv](https://www.sciencedirect.com/science/article/pii/S0021999122002674)<br />
-
-- **Deformation Robust Roto-Scale-Translation Equivariant CNNs.** <br /> 
-Liyao Gao, Guang Lin, Wei Zhu*. [Submitted] 🎉🎉🎉. [paper link](https://arxiv.org/pdf/2111.10978.pdf) 
 
 - **On Optimal Early Stopping: Over-informative versus Under-informative Parametrization.** <br /> 
 Ruoqi Shen, Liyao Gao, Yi-An Ma. [Submitted]. [paper link](https://arxiv.org/pdf/2202.09885.pdf) 
