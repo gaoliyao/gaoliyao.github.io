@@ -10,6 +10,12 @@ firefox -no-remote -P "me"
 jupyter notebook --no-browser --port 8000
 ssh -N -f -L localhost:8000:localhost:8000 mars@ds-serv1.ucsd.edu
 ```
+
+### HYAK
+```
+salloc -N 1 -p gpu-a40 -A dynamicsai --time=5 --mem=5G
+```
+
 #### Early stopping
 Run ResNet code
 ```
