@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am currently a student at Paul G. Allen School of Computer Science \& Engineering, Universty of Washington. I'm recently working with Prof. [J. Nathan Kutz](https://amath.washington.edu/people/j-nathan-kutz) on deep learning methods for physical equations discovery. Besides, I'm also working with Prof. [Wei Zhu](https://people.math.umass.edu/~zhu/) on robust equivariant learning for random rotation-scaling transformation. In 2020, I worked with Prof. [Yi-An Ma](https://sites.google.com/view/yianma/home) on scalable Bayesian inference methods with theoretical guarantees. Prior to UW, I used to be a student at Purdue Univesity and has been fortunately instructed by Prof. [Guang Lin](https://www.math.purdue.edu/~lin491/). 
+I am currently a student at Paul G. Allen School of Computer Science \& Engineering, Universty of Washington. I'm recently working with Prof. [J. Nathan Kutz](https://amath.washington.edu/people/j-nathan-kutz) on sparse regression and deep learning methods for physical equations discovery. Besides, I'm also working with Prof. [Wei Zhu](https://people.math.umass.edu/~zhu/) on robust equivariant learning for random rotation-scaling transformation. In 2020, I worked with Prof. [Yi-An Ma](https://sites.google.com/view/yianma/home) on scalable Bayesian inference methods with theoretical guarantees. Prior to UW, I used to be a student at Purdue Univesity and has been fortunately instructed by Prof. [Guang Lin](https://www.math.purdue.edu/~lin491/). 
 
 <!--**Research Interests:** Learning theory, Bayesian deep learning, Generalization Issues for Deep Neural Networks.-->
 
@@ -10,6 +10,27 @@ I am currently a student at Paul G. Allen School of Computer Science \& Engineer
 <!--**Skills and Programming Languages:** Expert: Python, C/C++, Java, Android, R, MATLAB, PyTorch, Tensorflow, Linux, C#, Scikit-learn, LaTex, LyX, Markdown, Numpy, Scipy, IOS, Swift, HTML, J2EE, JavaScript, TypeScript, NodeJS.-->
 
 <br />
+
+## Study notes:
+
+- [High Dimensional Probability and Statistical Learning Notes](https://gaoliyao.github.io/Notes/MA581/Mathematics_of_Data_Science.pdf)
+
+- [Stationary notations](https://gaoliyao.github.io/stationary)
+
+- [Abstract algebra](https://gaoliyao.github.io/absalgebra)
+
+- [Log-Sobolev Inequality short notes](https://gaoliyao.github.io/FinalReview/Log_Sobolev_Inequality_draft.pdf)
+
+- [Notes for Statistical Inference (Qual)](https://gaoliyao.github.io/FinalReview/Theoryexam.pdf)
+
+- [Notes for SINDy autoencoder](https://drive.google.com/u/0/uc?id=1GMKm-ZGKfzEQTizhaC8W331VBP4TXDMS&export=pdf) 
+
+- [Notes for UQ-SINDy](https://drive.google.com/u/0/uc?id=1HKkyYeAOp7gOD5ujqum9cIUHZihF1F5H&export=pdf)
+
+- [Optimal Transport](https://gaoliyao.github.io/FinalReview/Notes_on_Optimal_Transport.pdf)
+
+- [Bayesian Statistics](https://gaoliyao.github.io/FinalReview/Bayesian_Statistics.pdf)
+
 
 
 ## Publication
@@ -71,25 +92,6 @@ Ruoqi Shen, Liyao Gao, Yi-An Ma. [Submitted]. [paper link](https://arxiv.org/pdf
 
 <br />
 
-## Study notes:
-
-- [High Dimensional Probability and Statistical Learning Notes](https://gaoliyao.github.io/Notes/MA581/Mathematics_of_Data_Science.pdf)
-
-- [Stationary notations](https://gaoliyao.github.io/stationary)
-
-- [Abstract algebra](https://gaoliyao.github.io/absalgebra)
-
-- [Log-Sobolev Inequality short notes](https://gaoliyao.github.io/FinalReview/Log_Sobolev_Inequality_draft.pdf)
-
-- [Notes for Statistical Inference (Qual)](https://gaoliyao.github.io/FinalReview/Theoryexam.pdf)
-
-- [Notes for SINDy autoencoder](https://drive.google.com/u/0/uc?id=1GMKm-ZGKfzEQTizhaC8W331VBP4TXDMS&export=pdf) 
-
-- [Notes for UQ-SINDy](https://drive.google.com/u/0/uc?id=1HKkyYeAOp7gOD5ujqum9cIUHZihF1F5H&export=pdf)
-
-- [Optimal Transport](https://gaoliyao.github.io/FinalReview/Notes_on_Optimal_Transport.pdf)
-
-- [Bayesian Statistics](https://gaoliyao.github.io/FinalReview/Bayesian_Statistics.pdf)
 
 
 <br />
