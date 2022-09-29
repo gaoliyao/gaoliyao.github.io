@@ -73,6 +73,8 @@ Ruoqi Shen, Liyao Gao, Yi-An Ma. [Submitted]. [paper link](https://arxiv.org/pdf
 
 ## Study notes:
 
+- [High Dimensional Probability and Statistical Learning Notes](https://gaoliyao.github.io/Notes/MA581/Mathematics_of_Data_Science.pdf)
+
 - [Stationary notations](https://gaoliyao.github.io/stationary)
 
 - [Abstract algebra](https://gaoliyao.github.io/absalgebra)
