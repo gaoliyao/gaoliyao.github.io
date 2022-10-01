@@ -15,6 +15,8 @@ I am currently a student at Paul G. Allen School of Computer Science & Engineeri
 
 - [High Dimensional Probability and Statistical Learning Notes](https://gaoliyao.github.io/Notes/MA581/Mathematics_of_Data_Science.pdf)
 
+- [Advanced Theory of Statistical Inference](https://drive.google.com/u/0/uc?id=1EmUWt0TSZiGyL3gwvooFxkdk4qHmD3MC&export=pdf)
+
 - [Stationary notations](https://gaoliyao.github.io/stationary)
 
 - [Abstract algebra](https://gaoliyao.github.io/absalgebra)
