@@ -23,7 +23,7 @@ I am currently a student at Paul G. Allen School of Computer Science & Engineeri
 
 - [Bayesian Statistics](https://gaoliyao.github.io/FinalReview/Bayesian_Statistics.pdf)
 
-- [Measure theory notes for probability](https://gaoliyao.github.io/FinalReview/Bayesian_Statistics.pdf)
+- [Measure theory notes for probability](https://homes.cs.washington.edu/~marsgao/files/measure.pdf)
 
 
 
