@@ -17,21 +17,13 @@ I am currently a student at Paul G. Allen School of Computer Science & Engineeri
 
 - [Advanced Theory of Statistical Inference](https://homes.cs.washington.edu/~marsgao/files/Chapter1.pdf)
 
-- [Stationary notations](https://gaoliyao.github.io/stationary)
-
-- [Abstract algebra](https://gaoliyao.github.io/absalgebra)
-
 - [Log-Sobolev Inequality short notes](https://gaoliyao.github.io/FinalReview/Log_Sobolev_Inequality_draft.pdf)
-
-- [Notes for Statistical Inference (Qual)](https://gaoliyao.github.io/FinalReview/Theoryexam.pdf)
-
-- [Notes for SINDy autoencoder](https://drive.google.com/u/0/uc?id=1GMKm-ZGKfzEQTizhaC8W331VBP4TXDMS&export=pdf) 
-
-- [Notes for UQ-SINDy](https://drive.google.com/u/0/uc?id=1HKkyYeAOp7gOD5ujqum9cIUHZihF1F5H&export=pdf)
 
 - [Optimal Transport](https://gaoliyao.github.io/FinalReview/Notes_on_Optimal_Transport.pdf)
 
 - [Bayesian Statistics](https://gaoliyao.github.io/FinalReview/Bayesian_Statistics.pdf)
+
+- [Measure theory notes for probability](https://gaoliyao.github.io/FinalReview/Bayesian_Statistics.pdf)
 
 
 
