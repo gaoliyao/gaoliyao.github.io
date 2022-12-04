@@ -15,7 +15,7 @@ I am currently a student at Paul G. Allen School of Computer Science & Engineeri
 
 - [High Dimensional Probability and Statistical Learning Notes](https://homes.cs.washington.edu/~marsgao/files/Mathematics_of_Data_Science.pdf)
 
-- [Advanced Theory of Statistical Inference](https://homes.cs.washington.edu/~marsgao/files/Chapter1.pdf)
+- Advanced Theory of Statistical Inference [Chap.1](https://homes.cs.washington.edu/~marsgao/files/Chapter1.pdf) [Chap.2](https://homes.cs.washington.edu/~marsgao/files/Chapter%202.pdf) [Chap.3](https://homes.cs.washington.edu/~marsgao/files/Chapter3.pdf)
 
 - [Log-Sobolev Inequality short notes](https://gaoliyao.github.io/FinalReview/Log_Sobolev_Inequality_draft.pdf)
 
