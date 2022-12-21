@@ -66,11 +66,14 @@ Ruoqi Shen, **Gao**, Yi-An Ma. [Submitted]. [paper link](https://arxiv.org/pdf/2
 *Xinlei Chen, Carlos Ruiz, Sihan Zeng, **Gao**, Aveek Purohit, Stefano Carpin, Pei Zhang, et al. *Transactions on Sensor Networks. ACM, 2020.* [ACM](https://dl.acm.org/doi/abs/10.1145/3382094)*<br />
 
 - **Rotation-equivariant convolutional neural network ensembles in image processing.** <br />
-**Gao**, Hongshan Li, Zheying Lu, Guang Lin. *Ubicomp CPD Workshop. ACM, 2019*. [ACM](https://dl.acm.org/ft_gateway.cfm?id=3349330&ftid=2082607&dwn=1&CFID=174579832&CFTOKEN=2056b8b608a255d0-6FDD2312-FB2D-99B6-12E58D3451BCA0FA) and [code](https://github.com/LouiseHash/Rotation_Equivariant_CNN_Ensembles)*<br /> 
+**Gao**, Hongshan Li, Zheying Lu, Guang Lin. *Ubicomp CPD Workshop. ACM, 2019*. [ACM](https://dl.acm.org/ft_gateway.cfm?id=3349330&ftid=2082607&dwn=1&CFID=174579832&CFTOKEN=2056b8b608a255d0-6FDD2312-FB2D-99B6-12E58D3451BCA0FA) and [code](https://github.com/LouiseHash/Rotation_Equivariant_CNN_Ensembles)<br /> 
+
 <!-- 
 ### &nbsp;&nbsp;Talks:
-- **Quantifying Uncertainty in Deep Spatiotemporal Forecasting for COVID-19.** NeurIPS, COVID-19 Symposium. [link](https://nips.cc/virtual/2020/symposium/19628#collapse-sl-21348)
+- **Quantifying Uncertainty in Deep Spatiotemporal Forecasting for COVID-19.** NeurIPS, COVID-19 Symposium. [link](https://nips.cc/virtual/2020/symposium/19628#collapse-sl-21348) 
+-->
 
+<!-- 
 - **Rotation-Equivariant Convolutional Neural Network Ensembles.** Ubicomp 2019, Combining Physical and Data-Driven Knowledge in Ubiquitous Computing Workshop. [link](https://ubicomp-cpd.com/2019.html) -->
 
 <!-- 
