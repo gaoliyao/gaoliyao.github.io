@@ -38,6 +38,9 @@ In this work, we construct Bayesian posterior via Stochastic Gradient Langevin D
 
 <!--### &nbsp;&nbsp;Publications:-->
 
+- **Convergence of uncertainty estimates in Ensemble and Bayesian sparse model discovery.** <br /> 
+**Gao**, Urban Fasel, Steven L. Brunton, J. Nathan Kutz. Preprint. [link](https://arxiv.org/pdf/2301.12649.pdf) 
+
 - **Bayesian autoencoders for data-driven discovery of coordinates, governing equations and fundamental constants.** <br /> 
 **Gao**, J. Nathan Kutz*. Preprint. [link](https://arxiv.org/pdf/2211.10575.pdf) 
 
