@@ -79,10 +79,9 @@ Ruoqi Shen, **Gao**, Yi-An Ma. [Submitted]. [paper link](https://arxiv.org/pdf/2
 <!-- 
 - **Rotation-Equivariant Convolutional Neural Network Ensembles.** Ubicomp 2019, Combining Physical and Data-Driven Knowledge in Ubiquitous Computing Workshop. [link](https://ubicomp-cpd.com/2019.html) -->
 
-<!-- 
-### &nbsp;&nbsp;Reviewer:
-- Time Series Workshop @ ICML 2021. 
-- Machine Learning for Mobile Health. NeurIPS 2020 Workshop. -->
+
+### &nbsp;&nbsp;Services
+- Reviewers: Nature Communications, ICML Workshop, NeurIPS Workshop.
 
 
 <br />
