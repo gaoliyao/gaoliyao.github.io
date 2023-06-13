@@ -11,7 +11,7 @@ I am currently a student at Paul G. Allen School of Computer Science & Engineeri
 
 <br />
 
-## Study notes:
+## Study notes
 
 - [High Dimensional Probability and Statistical Learning Notes](https://homes.cs.washington.edu/~marsgao/files/Mathematics_of_Data_Science.pdf)
 
@@ -80,19 +80,23 @@ Ruoqi Shen, **Gao**, Yi-An Ma. [Submitted]. [paper link](https://arxiv.org/pdf/2
 - **Rotation-Equivariant Convolutional Neural Network Ensembles.** Ubicomp 2019, Combining Physical and Data-Driven Knowledge in Ubiquitous Computing Workshop. [link](https://ubicomp-cpd.com/2019.html) -->
 
 
+
+
+
+<br />
+
+## Others
+
+### &nbsp;&nbsp;Awards
+
+- 2019 - Alton D. & Juanita S. Andrews Scholarship
+
+- 2012 - China National Astronomy Olympics 1st Place
+
+<br />
+
 ### &nbsp;&nbsp;Services
 - Reviewers: Nature Communications, ICML Workshop, NeurIPS Workshop.
-
-
-<br />
-
-## Honors and Awards:
-
-2019 - Alton D. & Juanita S. Andrews Scholarship
-
-2012 - China National Astronomy Olympics 1st Place
-
-<br />
 
 
 
