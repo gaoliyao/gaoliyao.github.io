@@ -81,3 +81,8 @@ Remove conda environment
 ```
 conda remove -n ENV_NAME --all
 ```
+
+Deactivate conda environment
+```
+conda deactivate
+```
