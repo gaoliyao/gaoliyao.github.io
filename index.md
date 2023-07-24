@@ -2,7 +2,9 @@
 layout: default
 ---
 
-I am currently a student at Paul G. Allen School of Computer Science & Engineering, Universty of Washington. I'm recently working with Prof. [J. Nathan Kutz](https://amath.washington.edu/people/j-nathan-kutz) on sparse regression and deep learning methods for physical equations discovery. Besides, I'm also working with Prof. [Wei Zhu](https://people.math.umass.edu/~zhu/) on robust equivariant learning for random rotation-scaling transformation. In 2020, I worked with Prof. [Yi-An Ma](https://sites.google.com/view/yianma/home) on scalable Bayesian inference methods with theoretical guarantees. Prior to UW, I used to be a student at Purdue Univesity and has been fortunately instructed by Prof. [Guang Lin](https://www.math.purdue.edu/~lin491/). 
+I am currently a student at Paul G. Allen School of Computer Science & Engineering, Universty of Washington. I'm recently working with Prof. [J. Nathan Kutz](https://amath.washington.edu/people/j-nathan-kutz) on sparse regression and deep learning methods for physical equations discovery. Besides, I'm very fortunate that I've been instructed by Prof. [Guang Lin](https://www.math.purdue.edu/~lin491/), Prof. [Yi-An Ma](https://sites.google.com/view/yianma/home), and Prof. [Wei Zhu](https://people.math.umass.edu/~zhu/). 
+
+My research interests lie in statistical learning theory, bayesian statistics, bayesian deep learning. My passion lies in utilizing theoretically justified methods to tackle real-world problems. I love to develop generalizable and interpretable learning frameworks that not only address practical challenges but also contribute to our understanding of the natural world. My ultimate goal is to employ these methods to solve complex real-world problems in nature.
 
 <!--**Research Interests:** Learning theory, Bayesian deep learning, Generalization Issues for Deep Neural Networks.-->
 
@@ -10,20 +12,6 @@ I am currently a student at Paul G. Allen School of Computer Science & Engineeri
 <!--**Skills and Programming Languages:** Expert: Python, C/C++, Java, Android, R, MATLAB, PyTorch, Tensorflow, Linux, C#, Scikit-learn, LaTex, LyX, Markdown, Numpy, Scipy, IOS, Swift, HTML, J2EE, JavaScript, TypeScript, NodeJS.-->
 
 <br />
-
-## Study notes
-
-- [High Dimensional Probability and Statistical Learning Notes](https://homes.cs.washington.edu/~marsgao/files/Mathematics_of_Data_Science.pdf)
-
-- Advanced Theory of Statistical Inference [Chap.1](https://homes.cs.washington.edu/~marsgao/files/Chapter1.pdf) [Chap.2](https://homes.cs.washington.edu/~marsgao/files/Chapter%202.pdf) [Chap.3](https://homes.cs.washington.edu/~marsgao/files/Chapter3.pdf) [Chap.4](https://homes.cs.washington.edu/~marsgao/files/Chapter%204.pdf) [Chap.5](https://homes.cs.washington.edu/~marsgao/files/Chapter%205.pdf) [Chap.6](https://homes.cs.washington.edu/~marsgao/files/Chapter%206.pdf)
-
-- [Log-Sobolev Inequality short notes](https://gaoliyao.github.io/FinalReview/Log_Sobolev_Inequality_draft.pdf)
-
-- [Optimal Transport](https://gaoliyao.github.io/FinalReview/Notes_on_Optimal_Transport.pdf)
-
-- [Bayesian Statistics](https://gaoliyao.github.io/FinalReview/Bayesian_Statistics.pdf)
-
-- [Measure theory notes for probability](https://homes.cs.washington.edu/~marsgao/files/measure.pdf)
 
 
 
@@ -79,6 +67,20 @@ Ruoqi Shen, **Gao**, Yi-An Ma. [Submitted]. [paper link](https://arxiv.org/pdf/2
 <!-- 
 - **Rotation-Equivariant Convolutional Neural Network Ensembles.** Ubicomp 2019, Combining Physical and Data-Driven Knowledge in Ubiquitous Computing Workshop. [link](https://ubicomp-cpd.com/2019.html) -->
 
+
+## Study notes
+
+- [High Dimensional Probability and Statistical Learning Notes](https://homes.cs.washington.edu/~marsgao/files/Mathematics_of_Data_Science.pdf)
+
+- Advanced Theory of Statistical Inference [Chap.1](https://homes.cs.washington.edu/~marsgao/files/Chapter1.pdf) [Chap.2](https://homes.cs.washington.edu/~marsgao/files/Chapter%202.pdf) [Chap.3](https://homes.cs.washington.edu/~marsgao/files/Chapter3.pdf) [Chap.4](https://homes.cs.washington.edu/~marsgao/files/Chapter%204.pdf) [Chap.5](https://homes.cs.washington.edu/~marsgao/files/Chapter%205.pdf) [Chap.6](https://homes.cs.washington.edu/~marsgao/files/Chapter%206.pdf)
+
+- [Log-Sobolev Inequality short notes](https://gaoliyao.github.io/FinalReview/Log_Sobolev_Inequality_draft.pdf)
+
+- [Optimal Transport](https://gaoliyao.github.io/FinalReview/Notes_on_Optimal_Transport.pdf)
+
+- [Bayesian Statistics](https://gaoliyao.github.io/FinalReview/Bayesian_Statistics.pdf)
+
+- [Measure theory notes for probability](https://homes.cs.washington.edu/~marsgao/files/measure.pdf)
 
 
 
