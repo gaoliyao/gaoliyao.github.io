@@ -2,9 +2,8 @@
 layout: default
 ---
 
-I am currently a student at Paul G. Allen School of Computer Science & Engineering, Universty of Washington. I'm recently working with Prof. [J. Nathan Kutz](https://amath.washington.edu/people/j-nathan-kutz) on sparse regression and deep learning methods for physical equations discovery. Besides, I'm very fortunate that I've been instructed by Prof. [Guang Lin](https://www.math.purdue.edu/~lin491/), Prof. [Yi-An Ma](https://sites.google.com/view/yianma/home), and Prof. [Wei Zhu](https://people.math.umass.edu/~zhu/). 
-
-My research interests lie in statistical learning theory, bayesian statistics, bayesian deep learning. My passion lies in utilizing theoretically justified methods to tackle real-world problems. I love to develop generalizable and interpretable learning frameworks that not only address practical challenges but also contribute to our understanding of the natural world. My ultimate goal is to employ these methods to solve complex real-world problems in nature.
+I am currently a PhD student in the Paul G. Allen School of Computer Science & Engineering at the University of Washington. I'm currently working with Prof. [J. Nathan Kutz](https://amath.washington.edu/people/j-nathan-kutz) on sparse regression and deep learning methods for equation discovery. 
+My research interests lie in deep learning, statistical learning theory, and bayesian methods. I love to develop generalizable and interpretable learning frameworks that not only address practical challenges but also contribute to our understanding of the natural world. My ultimate goal is to employ these methods to solve complex real-world problems in nature. 
 
 <!--**Research Interests:** Learning theory, Bayesian deep learning, Generalization Issues for Deep Neural Networks.-->
 
@@ -26,38 +25,38 @@ In this work, we construct Bayesian posterior via Stochastic Gradient Langevin D
 
 <!--### &nbsp;&nbsp;Publications:-->
 
-- **Convergence of uncertainty estimates in Ensemble and Bayesian sparse model discovery.** <br /> 
-**Gao**, Urban Fasel, Steven L. Brunton, J. Nathan Kutz. Preprint. [link](https://arxiv.org/pdf/2301.12649.pdf) 
-
 - **Bayesian autoencoders for data-driven discovery of coordinates, governing equations and fundamental constants.** <br /> 
-**Gao**, J. Nathan Kutz*. Preprint. [link](https://arxiv.org/pdf/2211.10575.pdf) 
+Mars Gao, J. Nathan Kutz. **Proceedings of the Royal Society A (to appear)**. [link](https://arxiv.org/pdf/2211.10575.pdf) 
+
+- **Convergence of uncertainty estimates in Ensemble and Bayesian sparse model discovery.** <br /> 
+Mars Gao, Urban Fasel, Steven L. Brunton, J. Nathan Kutz. **Preprint**. [link](https://arxiv.org/pdf/2301.12649.pdf) 
 
 - **Deformation Robust Roto-Scale-Translation Equivariant CNNs.** <br /> 
-**Gao**, Guang Lin, Wei Zhu*. Transactions on Machine Learning Research (TMLR). [link](https://openreview.net/pdf?id=yVkpxs77cD) 
+Mars Gao, Guang Lin, Wei Zhu. **Transactions on Machine Learning Research (TMLR)**. [link](https://openreview.net/pdf?id=yVkpxs77cD) 
 
 - **RotEqNet: Rotation-Equivariant Network for Fluid Systems with Symmetric High-Order Tensors.** <br />
-**Gao**, Yifan Du, Hongshan Li, Guang Lin. *Journal of Computational Physics.* [arXiv](https://www.sciencedirect.com/science/article/pii/S0021999122002674)<br />
+Mars Gao, Yifan Du, Hongshan Li, Guang Lin. **Journal of Computational Physics.** [arXiv](https://www.sciencedirect.com/science/article/pii/S0021999122002674)<br />
 
 - **On Optimal Early Stopping: Over-informative versus Under-informative Parametrization.** <br /> 
-Ruoqi Shen, **Gao**, Yi-An Ma. [Submitted]. [paper link](https://arxiv.org/pdf/2202.09885.pdf) 
+Ruoqi Shen, Mars Gao, Yi-An Ma. [Submitted]. [paper link](https://arxiv.org/pdf/2202.09885.pdf) 
 
 - **Quantifying Uncertainty in Deep Spatiotemporal Forecasting.** <br />
-*Dongxia Wu, **Gao**, Xinyue Xiong, Matteo Chinazzi, Alessandro Vespignani, Yi-An Ma, Rose Yu. SIGKDD (2021). [arXiv](https://arxiv.org/pdf/2105.11982.pdf) and [Code](https://github.com/DongxiaW/Quantifying_Uncertainty_in_Deep_Spatiotemporal_Forecasting)* <br />
+*Dongxia Wu, Mars Gao, Xinyue Xiong, Matteo Chinazzi, Alessandro Vespignani, Yi-An Ma, Rose Yu. **SIGKDD (2021)**. [arXiv](https://arxiv.org/pdf/2105.11982.pdf) and [Code](https://github.com/DongxiaW/Quantifying_Uncertainty_in_Deep_Spatiotemporal_Forecasting)* <br />
 
 - **Non-convex Learning via Replica Exchange Stochastic Gradient MCMC.** <br />
-*Wei Deng, **Gao**\*, Qi Feng\*, Faming Liang, Guang Lin. *ICML 2020.* [arXiv](https://arxiv.org/pdf/2008.05367.pdf) and [Code](https://github.com/gaoliyao/Replica_Exchange_Stochastic_Gradient_MCMC)*<br />
+Wei Deng, Mars Gao\*, Qi Feng\*, Faming Liang, Guang Lin. **ICML 2020.** [arXiv](https://arxiv.org/pdf/2008.05367.pdf) and [Code](https://github.com/gaoliyao/Replica_Exchange_Stochastic_Gradient_MCMC)*<br />
 
 - **Evaluation of probabilistic forecasts of COVID-19 mortality in the US.** <br />
 *PNAS. [medRxiv](https://www.medrxiv.org/content/10.1101/2021.02.03.21250974v1.full.pdf)*<br />
 
 - **DeepGLEAM: A hybrid mechanistic and deep learning model for COVID-19 forecasting.**  <br />
-*Dongxia Wu, Liyao Gao, Xinyue Xiong, Matteo Chinazzi, Alessandro Vespignani, Yi-An Ma, Rose Yu. preprint (2021). [arXiv](https://arxiv.org/abs/2102.06684)* <br />
+Dongxia Wu, Mars Gao, Xinyue Xiong, Matteo Chinazzi, Alessandro Vespignani, Yi-An Ma, Rose Yu. **preprint (2021)**. [arXiv](https://arxiv.org/abs/2102.06684)* <br />
 
 - **H-DrunkWalk: Collaborative and Adaptive Navigation for Heterogeneous MAV swarm.** <br />
-*Xinlei Chen, Carlos Ruiz, Sihan Zeng, **Gao**, Aveek Purohit, Stefano Carpin, Pei Zhang, et al. *Transactions on Sensor Networks. ACM, 2020.* [ACM](https://dl.acm.org/doi/abs/10.1145/3382094)*<br />
+Xinlei Chen, Carlos Ruiz, Sihan Zeng, Mars Gao, Aveek Purohit, Stefano Carpin, Pei Zhang, et al. **Transactions on Sensor Networks. ACM, 2020.** [ACM](https://dl.acm.org/doi/abs/10.1145/3382094)*<br />
 
 - **Rotation-equivariant convolutional neural network ensembles in image processing.** <br />
-**Gao**, Hongshan Li, Zheying Lu, Guang Lin. *Ubicomp CPD Workshop. ACM, 2019*. [ACM](https://dl.acm.org/ft_gateway.cfm?id=3349330&ftid=2082607&dwn=1&CFID=174579832&CFTOKEN=2056b8b608a255d0-6FDD2312-FB2D-99B6-12E58D3451BCA0FA) and [code](https://github.com/LouiseHash/Rotation_Equivariant_CNN_Ensembles)<br /> 
+Mars Gao, Hongshan Li, Zheying Lu, Guang Lin. **Ubicomp CPD Workshop. ACM, 2019**. [ACM](https://dl.acm.org/ft_gateway.cfm?id=3349330&ftid=2082607&dwn=1&CFID=174579832&CFTOKEN=2056b8b608a255d0-6FDD2312-FB2D-99B6-12E58D3451BCA0FA) and [code](https://github.com/LouiseHash/Rotation_Equivariant_CNN_Ensembles)<br /> 
 
 <!-- 
 ### &nbsp;&nbsp;Talks:
@@ -83,22 +82,8 @@ Ruoqi Shen, **Gao**, Yi-An Ma. [Submitted]. [paper link](https://arxiv.org/pdf/2
 - [Measure theory notes for probability](https://homes.cs.washington.edu/~marsgao/files/measure.pdf)
 
 
-
-
-<br />
-
-## Others
-
-### &nbsp;&nbsp;Awards
-
-- 2019 - Alton D. & Juanita S. Andrews Scholarship
-
-- 2012 - China National Astronomy Olympics 1st Place
-
-<br />
-
 ### &nbsp;&nbsp;Services
-- Reviewers: Nature Communications, ICML Workshop, NeurIPS Workshop.
+- Reviewers: Nature Communications, Journal of Machine Learning Research.
 
 
 
