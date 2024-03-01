@@ -2,8 +2,10 @@
 layout: default
 ---
 
-I am currently a PhD student in the Paul G. Allen School of Computer Science & Engineering at the University of Washington. I'm currently working with Prof. [J. Nathan Kutz](https://amath.washington.edu/people/j-nathan-kutz) on sparse regression and deep learning methods for equation discovery. 
-My research interests lie in deep learning, statistical learning theory, and bayesian methods. I love to develop generalizable and interpretable learning frameworks that not only address practical challenges but also contribute to our understanding of the natural world. My ultimate goal is to employ these methods to solve complex real-world problems in nature. 
+## About me
+
+I am currently a Ph.D. student in the Paul G. Allen School of Computer Science & Engineering at the University of Washington. I am very fortunate to be advised by Professor [J. Nathan Kutz](https://amath.washington.edu/people/j-nathan-kutz) on sparse regression and deep learning methods for equation discovery. 
+My research interests are in deep learning, statistical learning theory, and bayesian methods. I love to develop generalizable and interpretable learning frameworks that not only address practical challenges but also contribute to our understanding of the natural world. Ultimately, I hope to employ these methods in real life and solve complex scientific problems. 
 
 <!--**Research Interests:** Learning theory, Bayesian deep learning, Generalization Issues for Deep Neural Networks.-->
 
@@ -31,26 +33,29 @@ Mars Gao, J. Nathan Kutz. **Proceedings of the Royal Society A (to appear)**. [l
 - **Convergence of uncertainty estimates in Ensemble and Bayesian sparse model discovery.** <br /> 
 Mars Gao, Urban Fasel, Steven L. Brunton, J. Nathan Kutz. **Preprint**. [link](https://arxiv.org/pdf/2301.12649.pdf) 
 
+- **Bayesian data-driven discovery of partial differential equations with variable coefficients.** <br /> 
+Aoxue Chen\*, Yifan Du\*, Mars Gao\*, Guang Lin. [Submitted].
+
+- **On Optimal Early Stopping: Over-informative versus Under-informative Parametrization.** <br /> 
+Ruoqi Shen, Mars Gao, Yi-An Ma. [Submitted]. [paper link](https://arxiv.org/pdf/2202.09885.pdf)
+
+- **DeepGLEAM: A hybrid mechanistic and deep learning model for COVID-19 forecasting.**  <br />
+Dongxia Wu, Mars Gao, Xinyue Xiong, Matteo Chinazzi, Alessandro Vespignani, Yi-An Ma, Rose Yu. **preprint (2021)**. [arXiv](https://arxiv.org/abs/2102.06684)* <br />
+
 - **Deformation Robust Roto-Scale-Translation Equivariant CNNs.** <br /> 
 Mars Gao, Guang Lin, Wei Zhu. **Transactions on Machine Learning Research (TMLR)**. [link](https://openreview.net/pdf?id=yVkpxs77cD) 
 
 - **RotEqNet: Rotation-Equivariant Network for Fluid Systems with Symmetric High-Order Tensors.** <br />
 Mars Gao, Yifan Du, Hongshan Li, Guang Lin. **Journal of Computational Physics.** [arXiv](https://www.sciencedirect.com/science/article/pii/S0021999122002674)<br />
 
-- **On Optimal Early Stopping: Over-informative versus Under-informative Parametrization.** <br /> 
-Ruoqi Shen, Mars Gao, Yi-An Ma. [Submitted]. [paper link](https://arxiv.org/pdf/2202.09885.pdf) 
-
 - **Quantifying Uncertainty in Deep Spatiotemporal Forecasting.** <br />
-*Dongxia Wu, Mars Gao, Xinyue Xiong, Matteo Chinazzi, Alessandro Vespignani, Yi-An Ma, Rose Yu. **SIGKDD (2021)**. [arXiv](https://arxiv.org/pdf/2105.11982.pdf) and [Code](https://github.com/DongxiaW/Quantifying_Uncertainty_in_Deep_Spatiotemporal_Forecasting)* <br />
+Dongxia Wu, Mars Gao, Xinyue Xiong, Matteo Chinazzi, Alessandro Vespignani, Yi-An Ma, Rose Yu. **SIGKDD (2021)**. [arXiv](https://arxiv.org/pdf/2105.11982.pdf) and [Code](https://github.com/DongxiaW/Quantifying_Uncertainty_in_Deep_Spatiotemporal_Forecasting) <br />
 
 - **Non-convex Learning via Replica Exchange Stochastic Gradient MCMC.** <br />
 Wei Deng, Mars Gao\*, Qi Feng\*, Faming Liang, Guang Lin. **ICML 2020.** [arXiv](https://arxiv.org/pdf/2008.05367.pdf) and [Code](https://github.com/gaoliyao/Replica_Exchange_Stochastic_Gradient_MCMC)*<br />
 
 - **Evaluation of probabilistic forecasts of COVID-19 mortality in the US.** <br />
-*PNAS. [medRxiv](https://www.medrxiv.org/content/10.1101/2021.02.03.21250974v1.full.pdf)*<br />
-
-- **DeepGLEAM: A hybrid mechanistic and deep learning model for COVID-19 forecasting.**  <br />
-Dongxia Wu, Mars Gao, Xinyue Xiong, Matteo Chinazzi, Alessandro Vespignani, Yi-An Ma, Rose Yu. **preprint (2021)**. [arXiv](https://arxiv.org/abs/2102.06684)* <br />
+Estee Y Cramer, Evan L Ray, Velma K Lopez, Johannes Bracher, Andrea Brennen, et al. **PNAS**. [medRxiv](https://www.medrxiv.org/content/10.1101/2021.02.03.21250974v1.full.pdf)<br />
 
 - **H-DrunkWalk: Collaborative and Adaptive Navigation for Heterogeneous MAV swarm.** <br />
 Xinlei Chen, Carlos Ruiz, Sihan Zeng, Mars Gao, Aveek Purohit, Stefano Carpin, Pei Zhang, et al. **Transactions on Sensor Networks. ACM, 2020.** [ACM](https://dl.acm.org/doi/abs/10.1145/3382094)*<br />
