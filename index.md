@@ -28,7 +28,7 @@ In this work, we construct Bayesian posterior via Stochastic Gradient Langevin D
 <!--### &nbsp;&nbsp;Publications:-->
 
 - **Bayesian autoencoders for data-driven discovery of coordinates, governing equations and fundamental constants.** <br /> 
-Mars Gao, J. Nathan Kutz. **Proceedings of the Royal Society A (to appear)**. [link](https://arxiv.org/pdf/2211.10575.pdf) 
+Mars Gao, J. Nathan Kutz. **Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences**. [link](https://royalsocietypublishing.org/doi/10.1098/rspa.2023.0506) 
 
 - **Convergence of uncertainty estimates in Ensemble and Bayesian sparse model discovery.** <br /> 
 Mars Gao, Urban Fasel, Steven L. Brunton, J. Nathan Kutz. **Preprint**. [link](https://arxiv.org/pdf/2301.12649.pdf) 
