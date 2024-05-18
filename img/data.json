@@ -32,7 +32,7 @@
     {"name": "phq4_depression", "group": 6, "index": 29},
     {"name": "positive_affect", "group": 6, "index": 30},
     {"name": "negative_affect", "group": 6, "index": 31},
-    {"name": "year", "group": 7, "index": 32}
+    {"name": "year", "group": 1, "index": 32}
   ],
   "links": [
     {"source": 0, "target": 1, "value": 5},
