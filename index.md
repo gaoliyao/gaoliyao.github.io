@@ -88,7 +88,7 @@ Mars L. Gao, Hongshan Li, Zheying Lu, Guang Lin. **Ubicomp CPD Workshop. ACM, 20
 
 
 ### &nbsp;&nbsp;Services
-- Reviewers: Nature Communications, Journal of Machine Learning Research, Uncertainty in Artificial Intelligence (UAI).
+- Reviewers: Nature Communications, Journal of Machine Learning Research, Uncertainty in Artificial Intelligence (UAI), Transactions on Neural Networks and Learning Systems (TNNLS).
 
 
 
