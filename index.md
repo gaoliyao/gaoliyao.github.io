@@ -5,7 +5,7 @@ layout: default
 ## About me
 
 I am currently a Ph.D. student in the Paul G. Allen School of Computer Science & Engineering at the University of Washington. I am very fortunate to be advised by Professor [J. Nathan Kutz](https://amath.washington.edu/people/j-nathan-kutz) on sparse regression and deep learning methods for equation discovery. 
-My research interests are in deep learning, statistical learning theory, and bayesian methods. I love to develop generalizable and interpretable learning frameworks that not only address practical challenges but also contribute to our understanding of the natural world. Ultimately, I hope to employ these methods in real life and solve complex scientific problems. 
+I am passionate about developing generalizable and interpretable learning frameworks that address practical challenges and enhance our understanding of the natural world. My interests include deep learning, statistical learning theory, and Bayesian methods. I aspire to apply these techniques to solve complex scientific problems in real-world scenarios.
 
 <!--**Research Interests:** Learning theory, Bayesian deep learning, Generalization Issues for Deep Neural Networks.-->
 
