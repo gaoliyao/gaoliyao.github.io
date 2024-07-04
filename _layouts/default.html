@@ -11,23 +11,23 @@
     <![endif]-->
 </head>
 <body>
-    <div class="wrapper">
+    <div class="container">
         <header>
-            <div class="header-content">
-                <h1><a href="{{ "/" | absolute_url }}">Mars (Liyao) Gao</a></h1>
-                <nav>
-                    <ul>
-                        <li><a href="{{ "/" | absolute_url }}">Home</a></li>
-                        <li><a href="{{ "/about" | relative_url }}">About</a></li>
-                        <li><a href="{{ "/research" | relative_url }}">Research</a></li>
-                        <li><a href="{{ "/publications" | relative_url }}">Publications</a></li>
-                        <li><a href="{{ "/contact" | relative_url }}">Contact</a></li>
-                    </ul>
-                </nav>
-                <img src="https://github.com/gaoliyao/FinalReview/blob/master/IMG.jpeg?raw=true" alt="Profile Picture" width="120" height="140"/>
-            </div>
+            <h1><a href="{{ "/" | absolute_url }}">Mars (Liyao) Gao</a></h1>
+            <img src="https://github.com/gaoliyao/FinalReview/blob/master/IMG.jpeg?raw=true" alt="Profile Picture" width="120" height="140"/>
         </header>
-        <main>
+        <aside class="sidebar">
+            <nav>
+                <ul>
+                    <li><a href="{{ "/" | absolute_url }}">Home</a></li>
+                    <li><a href="{{ "/about" | relative_url }}">About</a></li>
+                    <li><a href="{{ "/research" | relative_url }}">Research</a></li>
+                    <li><a href="{{ "/publications" | relative_url }}">Publications</a></li>
+                    <li><a href="{{ "/contact" | relative_url }}">Contact</a></li>
+                </ul>
+            </nav>
+        </aside>
+        <main class="content">
             {{ content }}
         </main>
         <footer>
