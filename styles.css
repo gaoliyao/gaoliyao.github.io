@@ -1,0 +1,206 @@
+/* Extracted styles for all pages */
+body {
+    font-family: 'Inter', sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #fafafa;
+}
+
+h1, h2, h3 {
+    font-family: 'Merriweather', serif;
+    color: #2c3e50;
+    border-bottom: 1px solid #eaeaea;
+    padding-bottom: 8px;
+}
+
+#layout-content {
+    max-width: 1400px;
+    padding: 25px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+.news-section {
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    padding: 15px;
+    margin: 20px 0;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.news-item {
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+    border-bottom: 1px dashed #ddd;
+    transition: all 0.2s ease;
+}
+
+.news-item:hover {
+    padding-left: 3px;
+}
+
+.news-item:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.news-date {
+    font-weight: 600;
+    color: #3182ce;
+    margin-right: 10px;
+}
+
+.publication-item {
+    margin-bottom: 30px;
+    transition: all 0.3s ease;
+    border-radius: 8px;
+    padding: 15px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    border: 1px solid #f0f0f0;
+    background-color: white;
+}
+
+.publication-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 15px rgba(0,0,0,0.1);
+}
+
+.imgtable {
+    margin-bottom: 10px;
+}
+
+.imgtable img {
+    border-radius: 5px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    transition: all 0.3s ease;
+}
+
+.publication-item:hover .imgtable img {
+    box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+}
+
+.profile-section {
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.profile-image {
+    border-radius: 8px;
+    margin-right: 20px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.menu-item a {
+    font-family: 'Merriweather', serif;
+    font-weight: 400;
+    transition: all 0.2s ease;
+    display: block;
+    padding: 5px 0;
+}
+
+.menu-item a:hover, .menu-item a.current {
+    color: #3182ce;
+    padding-left: 5px;
+}
+
+.social-links {
+    margin-top: 15px;
+}
+
+.social-links a {
+    margin-right: 15px;
+    text-decoration: none;
+    font-weight: 500;
+    transition: all 0.2s ease;
+}
+
+.social-links a:hover {
+    color: #2c5282;
+    text-decoration: underline;
+}
+
+a {
+    color: #3182ce;
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+a:hover {
+    color: #2c5282;
+    text-decoration: underline;
+}
+
+.badge {
+    display: inline-block;
+    padding: 2px 8px;
+    background-color: #ebf8ff;
+    color: #2b6cb0;
+    border-radius: 4px;
+    font-size: 0.9em;
+    font-weight: 500;
+    margin-left: 5px;
+    animation: subtle-pulse 2s infinite;
+}
+
+@keyframes subtle-pulse {
+    0% { opacity: 1; }
+    50% { opacity: 0.8; }
+    100% { opacity: 1; }
+}
+
+/* Additional styles for the notes page */
+.notes-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.note-item {
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    transition: all 0.3s ease;
+}
+
+.note-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 15px rgba(0,0,0,0.1);
+}
+
+.chapter-links {
+    margin-top: 8px;
+}
+
+.chapter-links a {
+    display: inline-block;
+    margin-right: 10px;
+    padding: 3px 8px;
+    background-color: #ebf8ff;
+    border-radius: 4px;
+    font-size: 0.9em;
+    transition: background-color 0.2s;
+}
+
+.chapter-links a:hover {
+    background-color: #bee3f8;
+    text-decoration: none;
+}
+
+.new-badge {
+    background-color: #f0fff4;
+    color: #2f855a;
+}
+
+/* Additional styles for the publication page */
+.publication-authors {
+    margin: 5px 0;
+}
+
+.publication-venue {
+    font-style: italic;
+    color: #555;
+} 
