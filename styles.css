@@ -75,6 +75,8 @@ h1, h2, h3 {
     border-radius: 5px;
     box-shadow: 0 4px 6px rgba(0,0,0,0.1);
     transition: all 0.3s ease;
+    max-width: 100%;
+    height: auto;
 }
 
 .publication-item:hover .imgtable img {
@@ -91,6 +93,8 @@ h1, h2, h3 {
     border-radius: 8px;
     margin-right: 20px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    max-width: 175px;
+    height: auto;
 }
 
 .menu-item a {
@@ -183,6 +187,7 @@ a:hover {
     border-radius: 4px;
     font-size: 0.9em;
     transition: background-color 0.2s;
+    margin-bottom: 8px;
 }
 
 .chapter-links a:hover {
@@ -203,4 +208,105 @@ a:hover {
 .publication-venue {
     font-style: italic;
     color: #555;
+}
+
+/* Mobile responsive styles */
+@media screen and (max-width: 768px) {
+    #tlayout {
+        display: block;
+        width: 100%;
+    }
+    
+    #layout-menu, #layout-content {
+        display: block;
+        width: 100%;
+        max-width: 100%;
+        float: none;
+        box-sizing: border-box;
+    }
+    
+    #layout-menu {
+        padding: 10px;
+        border-bottom: 1px solid #dddddd;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    
+    .menu-item {
+        display: inline-block;
+        margin: 0 10px;
+    }
+    
+    #layout-content {
+        padding: 15px;
+    }
+    
+    .profile-section {
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    .profile-image {
+        margin-right: 0;
+        margin-bottom: 15px;
+    }
+    
+    .social-links {
+        justify-content: center;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    .imgtable, .imgtable tr, .imgtable td {
+        display: block;
+        width: 100%;
+        text-align: center;
+    }
+    
+    .imgtable img {
+        max-width: 100%;
+        height: auto;
+        margin-bottom: 15px;
+    }
+    
+    h1 {
+        font-size: 24px;
+    }
+    
+    h2 {
+        font-size: 20px;
+    }
+
+    .chapter-links {
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
+
+/* Small mobile styles */
+@media screen and (max-width: 480px) {
+    .menu-item {
+        display: block;
+        margin: 5px 0;
+    }
+    
+    #layout-content {
+        padding: 10px;
+    }
+    
+    .publication-item, .note-item {
+        padding: 10px;
+    }
+    
+    h1 {
+        font-size: 22px;
+    }
+    
+    h2 {
+        font-size: 18px;
+    }
+    
+    .profile-image {
+        max-width: 150px;
+    }
 } 
