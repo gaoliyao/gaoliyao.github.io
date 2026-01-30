@@ -16,6 +16,7 @@ table#tlayout > tbody {
 table#tlayout > tbody > tr {
     display: flex;
     flex-direction: column;
+    gap: 0;
 }
 
 body {

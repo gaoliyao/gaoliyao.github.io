@@ -33,22 +33,27 @@ h1, h2, h3 {
 h1 {
     font-size: 2rem;
     margin-bottom: 0.5rem;
+    margin-top: 0;
+    padding-top: 0;
+}
+
+#toptitle {
+    margin: 0;
+    padding: 0.25rem 0 0.5rem 0;
+}
+
+#toptitle h1 {
+    margin: 0;
+    padding: 0;
 }
 
 h2 {
     font-size: 1.35rem;
-    margin-top: 2.5rem;
-    margin-bottom: 1rem;
+    margin-top: 1.25rem;
+    margin-bottom: 0.75rem;
     padding-bottom: 0.5rem;
     border-bottom: 2px solid var(--color-primary);
     display: inline-block;
-}
-
-h2::after {
-    content: '';
-    display: block;
-    width: 100%;
-    height: 0;
 }
 
 h3 {
@@ -57,7 +62,7 @@ h3 {
 }
 
 #layout-content {
-    padding: 3rem 3.5rem;
+    padding: 0 3.5rem 3rem 3.5rem;
     background-color: var(--color-bg);
     border-radius: 0;
     box-shadow: 0 1px 3px rgba(0,0,0,0.04);
@@ -83,10 +88,6 @@ h3 {
     transition: none;
     font-size: 0.92rem;
     line-height: 1.6;
-}
-
-.news-item:hover {
-    padding-left: 0;
 }
 
 .news-item:last-child {
@@ -117,8 +118,6 @@ h3 {
 }
 
 .publication-item:hover {
-    transform: none;
-    box-shadow: none;
     border-left-color: var(--color-accent);
     background-color: #fafaf8;
 }
@@ -148,10 +147,6 @@ h3 {
     border: 1px solid var(--color-border);
 }
 
-.publication-item:hover .imgtable img {
-    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
-}
-
 .imgtable p {
     margin: 0 0 0.5rem 0;
 }
@@ -167,8 +162,8 @@ h3 {
 .profile-section {
     display: flex;
     align-items: flex-start;
-    margin-bottom: 2rem;
-    padding-bottom: 2rem;
+    margin-bottom: 0.75rem;
+    padding-bottom: 0.75rem;
     border-bottom: 1px solid var(--color-border);
 }
 
@@ -199,7 +194,7 @@ h3 {
     font-size: 0.95rem;
     transition: all 0.15s ease;
     display: block;
-    padding: 1rem 1.5rem;
+    padding: 0.4rem 1.5rem;
     color: var(--color-text);
     border-bottom: 2px solid transparent;
 }
@@ -283,8 +278,6 @@ a:hover {
 }
 
 .note-item:hover {
-    transform: none;
-    box-shadow: none;
     border-left-color: var(--color-accent);
 }
 
@@ -359,7 +352,7 @@ a:hover {
     }
 
     .menu-item a {
-        padding: 0.75rem 1rem;
+        padding: 0.35rem 1rem;
         font-size: 0.9rem;
     }
 
@@ -370,13 +363,24 @@ a:hover {
 
     .profile-section {
         flex-direction: column;
+        align-items: center;
         text-align: center;
         padding-bottom: 1.5rem;
+    }
+
+    .profile-section > div {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
     }
 
     .profile-image {
         margin-right: 0;
         margin-bottom: 1.25rem;
+    }
+
+    #toptitle {
+        text-align: center;
     }
 
     .social-links {
@@ -400,6 +404,8 @@ a:hover {
         width: 100%;
         padding-right: 0;
         padding-bottom: 1rem;
+        display: flex;
+        justify-content: center;
     }
 
     .imgtable img {
@@ -408,8 +414,13 @@ a:hover {
         margin-bottom: 0;
     }
 
+    .imgtable td:last-child p {
+        text-align: center;
+    }
+
     h1 {
         font-size: 1.6rem;
+        text-align: center;
     }
 
     h2 {
@@ -417,13 +428,22 @@ a:hover {
         display: block;
     }
 
-    .chapter-links {
-        display: flex;
-        flex-wrap: wrap;
+    #layout-content {
+        text-align: center;
+    }
+
+    #layout-content > p {
+        text-align: left;
     }
 
     .news-section {
+        text-align: left;
         padding-left: 1rem;
+    }
+
+    .chapter-links {
+        display: flex;
+        flex-wrap: wrap;
     }
 }
 
@@ -434,7 +454,7 @@ a:hover {
     }
 
     .menu-item a {
-        padding: 0.6rem 0.7rem;
+        padding: 0.3rem 0.7rem;
         font-size: 0.85rem;
     }
 
@@ -588,7 +608,7 @@ h2 + p:last-of-type {
     transition: all .15s ease;
     font-family: var(--font-sans);
 }
-.sdk-btn:hover { background: var(--color-bg-subtle); transform: none; }
+.sdk-btn:hover { background: var(--color-bg-subtle); }
 .sdk-btn.secondary { background: var(--color-bg-subtle); }
 
 .sdk-submit {
